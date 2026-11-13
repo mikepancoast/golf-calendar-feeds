@@ -100,8 +100,8 @@
       "yearEndEventCount": 0,
       "championsEventCount": 0,
       "amateurEventCount": 0,
-      "generatedAt": "20261113T014615Z",
-      "sha256": "5b06d0d884ff9c31a1717c7f184ee08f5e736c3cabf9939a153fa1561540b5d2",
+      "generatedAt": "20261113T014932Z",
+      "sha256": "25d4952cfbd3b3f6770087307acbcfc8460f957c3e6b4e85bed7a86707271d7a",
       "source": "sources/broadcast-schedules.json"
     },
     {
@@ -134,8 +134,8 @@
       "yearEndEventCount": 0,
       "championsEventCount": 0,
       "amateurEventCount": 0,
-      "generatedAt": "20261113T014615Z",
-      "sha256": "83ebb108af97d69060ec6420abca7de73e03f622985888810953b79f21abb73c",
+      "generatedAt": "20261113T014932Z",
+      "sha256": "6685fefa3c67937f26236c2e3379d2bb0bf6a573b319a136a9a07af905bca53a",
       "source": [
         "pga-tour-2027",
         "dp-world-tour-2027"

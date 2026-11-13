@@ -19,6 +19,6 @@ const second=await subscriptionFeed(feed,combined,broadcast,root);
 assert.equal(second.events.length,1);assert.equal(second.events[0].uid,first.events[0].uid);assert.equal(second.events[0].sequence,first.events[0].sequence+1);assert.match(second.events[0].description,/Golf Channel/);assert.equal(second.events[0].start,'2027-12-02');
 const third=await subscriptionFeed(feed,combined,broadcast,root);assert.equal(third.events[0].sequence,second.events[0].sequence);
 combined.events[0].summary='Hero renamed';broadcast.events[0].tournamentId='hero-2027';
-const renamed=await subscriptionFeed(feed,combined,broadcast,root);assert.equal(renamed.events[0].uid,first.events[0].uid);assert.match(renamed.events[0].description,/Golf Channel/);
+const renamed=await subscriptionFeed(feed,combined,broadcast,root);assert.equal(renamed.events.length,1);assert.equal(renamed.events[0].uid,first.events[0].uid);assert.match(renamed.events[0].description,/Golf Channel/);
 assert(allowed({summary:'PGA Championship'}));assert(!allowed({summary:'Charles Schwab Cup Championship',categories:['PGA TOUR CHAMPIONS']}));assert(!allowed({summary:'U.S. Mid-Amateur'}));
 console.log('Placeholder, same-UID viewing update, revision stability, rename matching, and exclusions passed.');

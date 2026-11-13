@@ -12,7 +12,7 @@ DESCRIPTION:PGA TOUR\, DP World Tour\, men’s majors and team cups\, U.S.
 X-WR-CALDESC:PGA TOUR\, DP World Tour\, men’s majors and team cups\, U.S.
   Amateur\, Walker Cup\, Eisenhower Trophy\, men’s exhibitions\, TGL and 
  men’s Olympic golf. All-day events updated with U.S. viewing details.
-LAST-MODIFIED:20261113T014615Z
+LAST-MODIFIED:20261113T014932Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
@@ -2283,17 +2283,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:0fd721f3-6d54-574a-9250-33e7e4d6b6a9
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T014932Z
+LAST-MODIFIED:20261113T014932Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Optum Golf Channel Games
 LOCATION:Trump National Golf Club Jupiter - Jupiter\, Florida\, USA
-DESCRIPTION:Official source: https://thegolfchannelgames.com/\n\nConfirmed 
- U.S. viewing (Central Time):\nDec 16\, 6:00 PM CST – Dec 16\, 10:00 PM C
- ST | Golf Channel + USA Network | Live primetime event coverage\nhttps://t
- hegolfchannelgames.com/
+DESCRIPTION:Dates reflect confirmed coverage windows. Official source: http
+ s://thegolfchannelgames.com/\n\nConfirmed U.S. viewing (Central Time):\nDe
+ c 16\, 6:00 PM CST – Dec 16\, 10:00 PM CST | Golf Channel + USA Network 
+ | Live primetime event coverage\nhttps://thegolfchannelgames.com/
 URL:https://thegolfchannelgames.com/
 CLASS:PUBLIC
 TRANSP:TRANSPARENT

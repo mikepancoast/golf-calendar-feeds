@@ -1136,9 +1136,9 @@
     },
     "event:optum-golf-channel-games-2026-12-16-golf-channel-usa-network": {
       "id": "event:optum-golf-channel-games-2026-12-16-golf-channel-usa-network",
-      "fingerprint": "{\"id\":\"event:optum-golf-channel-games-2026-12-16-golf-channel-usa-network\",\"summary\":\"Optum Golf Channel Games\",\"start\":\"2026-12-16\",\"end\":\"2026-12-16\",\"location\":\"Trump National Golf Club Jupiter - Jupiter, Florida, USA\",\"url\":\"https://thegolfchannelgames.com/\",\"description\":\"Official source: https://thegolfchannelgames.com/\\n\\nConfirmed U.S. viewing (Central Time):\\nDec 16, 6:00 PM CST – Dec 16, 10:00 PM CST | Golf Channel + USA Network | Live primetime event coverage\\nhttps://thegolfchannelgames.com/\",\"uid\":\"urn:uuid:1a32b800-c609-5075-8408-1036a275ebda\"}",
-      "sequence": 1,
-      "lastModified": "20261113T014615Z"
+      "fingerprint": "{\"id\":\"event:optum-golf-channel-games-2026-12-16-golf-channel-usa-network\",\"broadcastOnly\":true,\"summary\":\"Optum Golf Channel Games\",\"start\":\"2026-12-16\",\"end\":\"2026-12-16\",\"location\":\"Trump National Golf Club Jupiter - Jupiter, Florida, USA\",\"url\":\"https://thegolfchannelgames.com/\",\"description\":\"Dates reflect confirmed coverage windows. Official source: https://thegolfchannelgames.com/\\n\\nConfirmed U.S. viewing (Central Time):\\nDec 16, 6:00 PM CST – Dec 16, 10:00 PM CST | Golf Channel + USA Network | Live primetime event coverage\\nhttps://thegolfchannelgames.com/\",\"uid\":\"urn:uuid:1a32b800-c609-5075-8408-1036a275ebda\"}",
+      "sequence": 2,
+      "lastModified": "20261113T014932Z"
     }
   },
   "retired": [

@@ -18,7 +18,11 @@ export async function subscriptionFeed(feed,combined,broadcast,root){
  const calendar={...(feed.kind==='broadcasts'?broadcast.calendar:combined.calendar),name:'Men’s Golf — Tournaments & Viewing',description:'PGA TOUR, DP World Tour, men’s majors and team cups, U.S. Amateur, Walker Cup, Eisenhower Trophy, men’s exhibitions, TGL and men’s Olympic golf. All-day events updated with U.S. viewing details.'};
  const windows=broadcast.events.filter(allowed);
  const candidates=combined.events.filter(e=>allowed(e)&&!e.id.startsWith('broadcast:'));
- for(const w of windows)if(!candidates.some(e=>norm(e.summary)===norm(w.tournament)&&(e.start??e.startUtc).slice(0,4)===w.startUtc.slice(0,4)))candidates.push({id:`event:${w.id}`,summary:w.tournament,start:day(w.startUtc),end:day(w.startUtc),location:w.location,url:w.sourceUrl,description:`Official source: ${w.sourceUrl}`});
+ for(const w of windows) {
+  const existing=candidates.find(e=>w.tournamentId===e.id||(norm(e.summary)===norm(w.tournament)&&(e.start??e.startUtc).slice(0,4)===w.startUtc.slice(0,4)));
+  if(existing?.broadcastOnly) { existing.start=[existing.start,day(w.startUtc)].sort()[0]; existing.end=[existing.end,day(w.endUtc)].sort().at(-1); }
+  else if(!existing)candidates.push({id:`event:${w.id}`,broadcastOnly:true,summary:w.tournament,start:day(w.startUtc),end:day(w.endUtc),location:w.location,url:w.sourceUrl,description:`Dates reflect confirmed coverage windows. Official source: ${w.sourceUrl}`});
+ }
  const events=[],seen=new Set();
  for(const candidate of candidates){
  const e={...candidate};e.start=e.start??day(e.startUtc);e.end=e.end??day(e.endUtc);delete e.startUtc;delete e.endUtc;delete e.alarmMinutes;
