@@ -12,7 +12,7 @@ DESCRIPTION:All-day tournament placeholders become timed U.S. viewing windo
 X-WR-CALDESC:All-day tournament placeholders become timed U.S. viewing wind
  ows when announced. Men’s PGA TOUR\, DP World Tour\, majors\, team cups\
  , selected amateur championships\, exhibitions\, TGL and Olympic golf.
-LAST-MODIFIED:20261113T015616Z
+LAST-MODIFIED:20261113T131956Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
@@ -2964,6 +2964,28 @@ DESCRIPTION:Championship dates: 2028-09-09 through 2028-09-10.\nCourse: Ban
  d viewing entries when confirmed coverage is announced.
 URL:https://championships.usga.org/walkercup/future-sites-walker-cup.html
 CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,USGA,THE R&A,WALKER CUP,TEAM EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:683784b7-5763-571f-a269-907b8669fdc5
+DTSTAMP:20261113T131956Z
+LAST-MODIFIED:20261113T131956Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20281207
+DTEND;VALUE=DATE:20281211
+SUMMARY:2028 Presidents Cup
+LOCATION:Kingston Heath Golf Club - Melbourne\, Victoria\, Australia
+DESCRIPTION:PGA TOUR - Team event.\nTournament dates: 2028-12-07 through 20
+ 28-12-10.\nCourse: Kingston Heath Golf Club.\nLocation: Melbourne\, Victor
+ ia\, Australia.\nSchedule details may change.\nOfficial source: https://ww
+ w.presidentscup.com/2028/kingston-heath-melbourne-victoria-australia\n\nVi
+ ewing schedule pending. This placeholder will become timed viewing entries
+  when confirmed coverage is announced.
+URL:https://www.presidentscup.com/2028/kingston-heath-melbourne-victoria-au
+ stralia
+CATEGORIES:SPORTS,GOLF,PGA TOUR,TEAM EVENT
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED

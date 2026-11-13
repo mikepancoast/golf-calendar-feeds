@@ -178,7 +178,7 @@ function yearEndEvent(event) {
     location: joinLocation(event),
     description: description.join("\n"),
     url: event.sourceUrl,
-    categories: ["SPORTS", "GOLF", "LATE 2026", event.tour.toUpperCase(), event.type.toUpperCase(), ...(event.platforms ?? []).map((platform) => platform.toUpperCase())],
+    categories: ["SPORTS", "GOLF", ...((event.start ?? event.startUtc).startsWith("2026") ? ["LATE 2026"] : []), event.tour.toUpperCase(), event.type.toUpperCase(), ...(event.platforms ?? []).map((platform) => platform.toUpperCase())],
     alarmMinutes: event.startUtc ? (event.alarmMinutes ?? 15) : undefined
   };
 }
@@ -210,7 +210,7 @@ function eventDate(event) {
 
 function yearEndFeed(feed) {
   const data = sourceByFeed.get(feed.id);
-  const events = data.events.map((event) => ({
+  const events = data.events.filter((event) => eventDate(event) >= feed.from && eventDate(event) <= feed.through).map((event) => ({
     ...yearEndEvent(event, data),
     id: `year-end:${event.id}`
   }));

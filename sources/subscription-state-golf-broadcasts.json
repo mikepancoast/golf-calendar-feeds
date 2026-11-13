@@ -1271,6 +1271,12 @@
       "fingerprint": "{\"id\":\"hero-world-challenge-2026-2026-12-06-round-coverage-nbc\",\"summary\":\"Watch: Hero World Challenge — NBC\",\"startUtc\":\"2026-12-06T18:30:00Z\",\"endUtc\":\"2026-12-06T21:30:00Z\",\"status\":\"CONFIRMED\",\"location\":\"Albany Golf Course - Albany, Bahamas\",\"url\":\"https://heroworldchallenge.com/spectator/\",\"description\":\"PGA TOUR unofficial event - Invitational.\\nTournament dates: 2026-12-03 through 2026-12-06.\\nCourse: Albany Golf Course.\\nLocation: Albany, Bahamas.\\nSchedule details may change.\\nOfficial source: https://www.pgatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\\n\\nLive tournament coverage\\nWatch on: NBC\\nDec 6, 12:30 PM CST – Dec 6, 3:30 PM CST\\nTerritory: United States\\nOfficial source: https://heroworldchallenge.com/spectator/\",\"categories\":[\"SPORTS\",\"GOLF\",\"BROADCAST\"],\"alarmMinutes\":15,\"uid\":\"urn:uuid:c310772c-93f5-5812-ac86-acdb6324f013\"}",
       "sequence": 2,
       "lastModified": "20261113T015616Z"
+    },
+    "year-end:presidents-cup-2028": {
+      "id": "year-end:presidents-cup-2028",
+      "fingerprint": "{\"id\":\"year-end:presidents-cup-2028\",\"summary\":\"2028 Presidents Cup\",\"start\":\"2028-12-07\",\"end\":\"2028-12-10\",\"tour\":\"PGA TOUR\",\"type\":\"Team event\",\"course\":\"Kingston Heath Golf Club\",\"location\":\"Kingston Heath Golf Club - Melbourne, Victoria, Australia\",\"sourceUrl\":\"https://www.presidentscup.com/2028/kingston-heath-melbourne-victoria-australia\",\"description\":\"PGA TOUR - Team event.\\nTournament dates: 2028-12-07 through 2028-12-10.\\nCourse: Kingston Heath Golf Club.\\nLocation: Melbourne, Victoria, Australia.\\nSchedule details may change.\\nOfficial source: https://www.presidentscup.com/2028/kingston-heath-melbourne-victoria-australia\\n\\nViewing schedule pending. This placeholder will become timed viewing entries when confirmed coverage is announced.\",\"url\":\"https://www.presidentscup.com/2028/kingston-heath-melbourne-victoria-australia\",\"categories\":[\"SPORTS\",\"GOLF\",\"PGA TOUR\",\"TEAM EVENT\"],\"uid\":\"urn:uuid:645cab08-c0b8-514d-96c6-4b9d377fd71c\"}",
+      "sequence": 1,
+      "lastModified": "20261113T131955Z"
     }
   },
   "retired": [],

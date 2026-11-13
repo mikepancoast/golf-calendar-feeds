@@ -3,7 +3,7 @@
     "name": "Golf: Rest of 2026",
     "description": "Remaining 2026 PGA TOUR, DP World Tour, PGA TOUR Champions, and nationally notable special events, supplemented by the existing DP World Tour 2027 openers, TGL, and confirmed broadcast feeds. LPGA and LPGA co-sanctioned events are excluded.",
     "namespace": "ba0defdd-af0d-46f3-8d55-1c3c79640cee",
-    "generatedAt": "20261107T133129Z",
+    "generatedAt": "20261113T131955Z",
     "scheduleUrl": "https://www.pgatour.com/schedule",
     "sourceUrls": [
       "https://www.pgatour.com/schedule",
@@ -161,6 +161,19 @@
       "note": "Official event dates currently cover December 17-20; daily competition and broadcast windows will be added when published.",
       "sequence": 0,
       "lastModified": "20261102T222124Z"
+    },
+    {
+      "id": "presidents-cup-2028",
+      "summary": "2028 Presidents Cup",
+      "start": "2028-12-07",
+      "end": "2028-12-10",
+      "tour": "PGA TOUR",
+      "type": "Team event",
+      "course": "Kingston Heath Golf Club",
+      "location": "Melbourne, Victoria, Australia",
+      "sourceUrl": "https://www.presidentscup.com/2028/kingston-heath-melbourne-victoria-australia",
+      "sequence": 0,
+      "lastModified": "20261113T131955Z"
     }
   ]
 }
