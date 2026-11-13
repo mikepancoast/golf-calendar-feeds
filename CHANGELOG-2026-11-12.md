@@ -55,3 +55,9 @@ Files changed for this correction:
 - [Local automation instructions](AUTOMATION.md)
 - [Local publication record](PUBLISHING.md)
 - This change record.
+
+## November 13: ESPN+ access correction
+
+Exclude ESPN+-only coverage, retain ESPN/ESPN2 television and other simulcast platforms, and keep all-day placeholders if no accessible window is confirmed. Austin Championship now uses Golf Channel's 1–4 p.m. Central TV window, not ESPN+'s earlier streaming start. Source evidence is retained. Tests and calendar validation passed. Automation updated; publication pending.
+
+Affected files: [builder](scripts/subscription.mjs), [tests](scripts/test-subscription.mjs), [broadcast state](sources/subscription-state-golf-broadcasts.json), [combined state](sources/subscription-state-golf-2027-pga-dp-world.json), [broadcast feed](dist/golf-broadcasts.ics), [combined feed](dist/golf-2027-pga-dp-world.ics), [index](dist/index.html), [manifest](dist/manifest.json), [README](README.md), [automation instructions](AUTOMATION.md), [publishing status](PUBLISHING.md), and this change record.

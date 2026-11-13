@@ -584,9 +584,9 @@
     },
     "year-end:late-2026-austin-championship": {
       "id": "year-end:late-2026-austin-championship",
-      "fingerprint": "{\"id\":\"year-end:late-2026-austin-championship\",\"summary\":\"Watch: Austin Championship presented by Compliance Solutions — ESPN+\",\"startUtc\":\"2026-11-12T14:30:00Z\",\"endUtc\":\"2026-11-12T22:00:00Z\",\"status\":\"CONFIRMED\",\"location\":\"Omni Barton Creek Resort & Spa, Fazio Canyons Course - Austin, Texas, USA\",\"url\":\"https://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-first-look-austin-championship-omni-barton-creek\",\"description\":\"PGA TOUR - FedExCup Fall.\\nTournament dates: 2026-11-12 through 2026-11-15.\\nCourse: Omni Barton Creek Resort & Spa, Fazio Canyons Course.\\nLocation: Austin, Texas, USA.\\nSchedule details may change.\\nOfficial source: https://www.pgatour.com/article/news/latest/2026/11/02/compliance-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-fall\\n\\nLive first round coverage\\nWatch on: ESPN+\\nNov 12, 8:30 AM CST – Nov 12, 4:00 PM CST\\nTerritory: United States\\nOfficial source: https://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-first-look-austin-championship-omni-barton-creek\",\"categories\":[\"SPORTS\",\"GOLF\",\"BROADCAST\"],\"alarmMinutes\":15,\"uid\":\"urn:uuid:a3f311b1-0ba6-5e14-898f-d4ecb837cbaf\"}",
-      "sequence": 3,
-      "lastModified": "20261113T015616Z"
+      "fingerprint": "{\"id\":\"year-end:late-2026-austin-championship\",\"summary\":\"Watch: Austin Championship presented by Compliance Solutions — Golf Channel + GOLF App\",\"startUtc\":\"2026-11-12T19:00:00Z\",\"endUtc\":\"2026-11-12T22:00:00Z\",\"status\":\"CONFIRMED\",\"location\":\"Omni Barton Creek Resort & Spa, Fazio Canyons Course - Austin, Texas, USA\",\"url\":\"https://www.austinchampionship.com/about/broadcast-times/\",\"description\":\"PGA TOUR - FedExCup Fall.\\nTournament dates: 2026-11-12 through 2026-11-15.\\nCourse: Omni Barton Creek Resort & Spa, Fazio Canyons Course.\\nLocation: Austin, Texas, USA.\\nSchedule details may change.\\nOfficial source: https://www.pgatour.com/article/news/latest/2026/11/02/compliance-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-fall\\n\\nLive first round coverage\\nWatch on: Golf Channel + GOLF App\\nNov 12, 1:00 PM CST – Nov 12, 4:00 PM CST\\nTerritory: United States\\nOfficial source: https://www.austinchampionship.com/about/broadcast-times/\",\"categories\":[\"SPORTS\",\"GOLF\",\"BROADCAST\"],\"alarmMinutes\":15,\"uid\":\"urn:uuid:a3f311b1-0ba6-5e14-898f-d4ecb837cbaf\"}",
+      "sequence": 4,
+      "lastModified": "20261113T132021Z"
     },
     "year-end:late-2026-dp-world-tour-championship": {
       "id": "year-end:late-2026-dp-world-tour-championship",
@@ -1283,7 +1283,7 @@
   "primaryWindows": {
     "year-end:late-2026-abu-dhabi-aldar-championship": "abu-dhabi-aldar-2026-2026-11-05-round-coverage-golf-channel",
     "year-end:late-2026-world-wide-technology-championship": "world-wide-technology-championship-2026-2026-11-05-round-coverage-golf-channel",
-    "year-end:late-2026-austin-championship": "austin-championship-2026-2026-11-12-round-coverage-espn-plus",
+    "year-end:late-2026-austin-championship": "austin-championship-2026-2026-11-12-round-coverage-golf-channel",
     "year-end:late-2026-dp-world-tour-championship": "dp-world-tour-championship-2026-2026-11-12-round-coverage-golf-channel",
     "year-end:late-2026-the-rsm-classic": "the-rsm-classic-2026-2026-11-19-round-coverage-golf-channel",
     "year-end:late-2026-hero-world-challenge": "hero-world-challenge-2026-2026-12-03-round-coverage-golf-channel",

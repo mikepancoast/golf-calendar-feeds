@@ -12,7 +12,7 @@ DESCRIPTION:All-day tournament placeholders become timed U.S. viewing windo
 X-WR-CALDESC:All-day tournament placeholders become timed U.S. viewing wind
  ows when announced. Men’s PGA TOUR\, DP World Tour\, majors\, team cups\
  , selected amateur championships\, exhibitions\, TGL and Olympic golf.
-LAST-MODIFIED:20261113T131955Z
+LAST-MODIFIED:20261113T132021Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
@@ -257,42 +257,9 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:444365bd-f96a-54f4-bfc8-6735e4b85268
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:3
-DTSTART:20261112T143000Z
-DTEND:20261112T220000Z
-SUMMARY:Watch: Austin Championship presented by Compliance Solutions — ES
- PN+
-LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
- exas\, USA
-DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
-  2026-11-15.\nCourse: Omni Barton Creek Resort & Spa\, Fazio Canyons Cours
- e.\nLocation: Austin\, Texas\, USA.\nSchedule details may change.\nOfficia
- l source: https://www.pgatour.com/article/news/latest/2026/11/02/complianc
- e-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-f
- all\n\nLive first round coverage\nWatch on: ESPN+\nNov 12\, 8:30 AM CST 
- – Nov 12\, 4:00 PM CST\nTerritory: United States\nOfficial source: https
- ://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-first-lo
- ok-austin-championship-omni-barton-creek
-URL:https://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-
- first-look-austin-championship-omni-barton-creek
-CATEGORIES:SPORTS,GOLF,BROADCAST
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
- — ESPN+
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:f37410bf-d206-5a08-a015-91d2bb7d7374
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
+DTSTAMP:20261113T132021Z
+LAST-MODIFIED:20261113T132021Z
+SEQUENCE:4
 DTSTART:20261112T190000Z
 DTEND:20261112T220000Z
 SUMMARY:Watch: Austin Championship presented by Compliance Solutions — Go
@@ -317,37 +284,6 @@ TRIGGER:-PT15M
 ACTION:DISPLAY
 DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
  — Golf Channel + GOLF App
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:4ebcd621-d1cc-5de7-a509-c35f47bbeb06
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
-DTSTART:20261113T143000Z
-DTEND:20261113T220000Z
-SUMMARY:Watch: Austin Championship presented by Compliance Solutions — ES
- PN+
-LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
- exas\, USA
-DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
-  2026-11-15.\nCourse: Omni Barton Creek Resort & Spa\, Fazio Canyons Cours
- e.\nLocation: Austin\, Texas\, USA.\nSchedule details may change.\nOfficia
- l source: https://www.pgatour.com/article/news/latest/2026/11/02/complianc
- e-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-f
- all\n\nLive second round coverage\nWatch on: ESPN+\nNov 13\, 8:30 AM CST 
- – Nov 13\, 4:00 PM CST\nTerritory: United States\nOfficial source: https
- ://www.austinchampionship.com/about/broadcast-times/
-URL:https://www.austinchampionship.com/about/broadcast-times/
-CATEGORIES:SPORTS,GOLF,BROADCAST
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
- — ESPN+
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT

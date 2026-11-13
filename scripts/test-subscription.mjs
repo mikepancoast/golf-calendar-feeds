@@ -25,3 +25,10 @@ window.startUtc='2027-12-02T19:00:00Z';const corrected=await build();assert.equa
 combined.events[0].summary='Hero renamed';broadcast.events.forEach(w=>w.tournamentId='hero-2027');const renamed=await build();assert.equal(renamed.events.length,2);assert.equal(renamed.events[0].uid,first.events[0].uid);
 assert(allowed({summary:'PGA Championship'}));assert(!allowed({summary:'Charles Schwab Cup Championship',categories:['PGA TOUR CHAMPIONS']}));assert(!allowed({summary:'U.S. Mid-Amateur'}));
 console.log('All-day to timed identity, multiple windows, cancellation recovery, stable rebuilds, corrected times/names, and exclusions passed.');
+
+// ESPN+ coverage must not extend the TV window, and switching to TV keeps identity.
+window.platforms=['ESPN+']; extra.platforms=['ESPN2'];
+const tv=await build();assert.equal(tv.events.length,1);assert.equal(tv.events[0].uid,first.events[0].uid);assert.equal(tv.events[0].startUtc,extra.startUtc);assert.match(tv.events[0].summary,/ESPN2/);
+extra.platforms=['ESPN Plus'];const unavailable=await build();assert.equal(unavailable.events.length,1);assert.equal(unavailable.events[0].startUtc,undefined);assert.equal(unavailable.events[0].start,'2027-12-02');
+extra.platforms=['ESPN+','Golf Channel'];const shared=await build();assert.equal(shared.events.length,1);assert.match(shared.events[0].summary,/Golf Channel/);assert(!shared.events[0].summary.includes('ESPN+'));
+console.log('ESPN+ exclusion, ESPN2 retention, TV identity and times, and placeholder fallback passed.');

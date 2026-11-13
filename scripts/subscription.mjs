@@ -3,6 +3,7 @@ import {join} from 'node:path';
 import {uuidV5} from './ical.mjs';
 
 export const allowed = e => !/\bchampions\b|senior|lpga|women|mid.amateur|pnc championship|q-school/i.test([e.summary,e.tour,...(e.categories ?? [])].join(' '));
+export const availablePlatforms = platforms => (platforms ?? []).filter(p => !/^espn\s*(\+|plus)$/i.test(p.trim()));
 const norm = s => s.toLowerCase().replace(/^watch: /,'').replace(/^20\d\d /,'').replace(/, dubai$/,'').replace(/[^a-z0-9]/g,'');
 const day = s => new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(s));
 const stamp = () => new Date().toISOString().replace(/[-:]/g,'').slice(0,15)+'Z';
@@ -17,7 +18,7 @@ export async function subscriptionFeed(feed, combined, broadcast, root) {
   const calendar = {...(feed.kind === 'broadcasts' ? broadcast.calendar : combined.calendar),
     name:'Men’s Golf — Tournaments & Viewing',
     description:'All-day tournament placeholders become timed U.S. viewing windows when announced. Men’s PGA TOUR, DP World Tour, majors, team cups, selected amateur championships, exhibitions, TGL and Olympic golf.'};
-  const windows = broadcast.events.filter(allowed);
+  const windows = broadcast.events.filter(allowed).map(w => ({...w,platforms:availablePlatforms(w.platforms)})).filter(w => w.platforms.length);
   const candidates = combined.events.filter(e => allowed(e) && !e.id.startsWith('broadcast:'));
   for (const w of windows) {
     const existing = candidates.find(e => w.tournamentId === e.id || (norm(e.summary) === norm(w.tournament) && (e.start ?? e.startUtc).slice(0,4) === w.startUtc.slice(0,4)));
@@ -49,7 +50,7 @@ export async function subscriptionFeed(feed, combined, broadcast, root) {
     if (matches.length) {
       // The first published window inherits the placeholder identity. Keep that
       // assignment if a later update inserts an earlier window or changes times.
-      state.primaryWindows[candidate.id] ??= matches[0].id;
+      if (!matches.some(w => w.id === state.primaryWindows[candidate.id])) state.primaryWindows[candidate.id] = matches[0].id;
       for (const w of matches) {
         const id = w.id === state.primaryWindows[candidate.id] ? candidate.id : (feed.kind === 'broadcasts' ? w.id : `broadcast:${w.id}`);
         revise({id,summary:`Watch: ${candidate.summary.replace(/^Watch: /,'')} — ${w.platforms.join(' + ')}`,
@@ -58,10 +59,10 @@ export async function subscriptionFeed(feed, combined, broadcast, root) {
           description:`${clean}\n\n${w.coverageType ?? 'Live coverage'}\nWatch on: ${w.platforms.join(' + ')}\n${fmt(w.startUtc)} – ${fmt(w.endUtc)}\nTerritory: ${w.territory ?? 'United States'}\nOfficial source: ${w.sourceUrl}${w.note ? '\n'+w.note : ''}`,
           categories: ['SPORTS','GOLF','BROADCAST'],alarmMinutes:w.status === 'CANCELLED' ? undefined : (w.alarmMinutes ?? 15)});
       }
-    } else if (candidate.startUtc && candidate.endUtc && candidate.platforms?.length) {
+    } else if (candidate.startUtc && candidate.endUtc && availablePlatforms(candidate.platforms).length) {
       // Preserve already researched TGL/skins windows, including their explicit
       // estimated-duration labels. Never invent a new end time here.
-      revise({...candidate,description:clean,status:candidate.status ?? 'CONFIRMED'});
+      revise({...candidate,platforms:availablePlatforms(candidate.platforms),description:clean,status:candidate.status ?? 'CONFIRMED'});
     } else {
       const e = {...candidate,start,end,description:`${clean}\n\nViewing schedule pending. This placeholder will become timed viewing entries when confirmed coverage is announced.`};
       delete e.startUtc; delete e.endUtc; delete e.alarmMinutes;
