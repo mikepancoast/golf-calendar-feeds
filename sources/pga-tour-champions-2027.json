@@ -1,0 +1,280 @@
+{
+  "calendar": {
+    "name": "PGA TOUR Champions 2027",
+    "description": "Officially announced 2027 PGA TOUR Champions schedule: 24 regular-season events, three Charles Schwab Cup Playoff events and two Challenge Season events.",
+    "namespace": "2b70c62f-5e34-43f4-a976-287d97408b3f",
+    "generatedAt": "20261107T133129Z",
+    "scheduleUrl": "https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup"
+  },
+  "events": [
+    {
+      "id": "champions-2027-01-sony-championship-hawaii",
+      "summary": "Sony Championship Hawaii",
+      "start": "2027-01-14",
+      "end": "2027-01-16",
+      "course": "Waialae Country Club",
+      "location": "Honolulu, Hawaii, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-02-mitsubishi-electric-hualalai",
+      "summary": "Mitsubishi Electric Championship at Hualalai",
+      "start": "2027-01-21",
+      "end": "2027-01-23",
+      "course": "Hualalai Golf Course",
+      "location": "Ka'upulehu-Kona, Hawaii, USA",
+      "phase": "Regular Season",
+      "note": "The tournament site confirms a Saturday finish on January 23, matching the PGA TOUR Champions announcement text. Tournament schedule: https://www.mecgolf.com/",
+      "sequence": 1,
+      "lastModified": "20261107T133129Z"
+    },
+    {
+      "id": "champions-2027-03-chubb-classic",
+      "summary": "Chubb Classic",
+      "start": "2027-02-12",
+      "end": "2027-02-14",
+      "course": "Tiburón Golf Club, Black Course",
+      "location": "Naples, Florida, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-04-pro-football-hall-of-fame",
+      "summary": "James Hardie Pro Football Hall of Fame Invitational",
+      "start": "2027-03-05",
+      "end": "2027-03-07",
+      "course": "The Old Course at Broken Sound Club",
+      "location": "Boca Raton, Florida, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-05-cologuard-classic",
+      "summary": "Cologuard Classic",
+      "start": "2027-03-19",
+      "end": "2027-03-21",
+      "course": "La Paloma Country Club",
+      "location": "Tucson, Arizona, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-06-hoag-senior-players",
+      "summary": "Hoag Senior Players Championship Newport Beach",
+      "start": "2027-03-25",
+      "end": "2027-03-28",
+      "course": "Newport Beach Country Club",
+      "location": "Newport Beach, California, USA",
+      "phase": "Senior Major"
+    },
+    {
+      "id": "champions-2027-07-senior-pga",
+      "summary": "Senior PGA Championship",
+      "start": "2027-04-15",
+      "end": "2027-04-18",
+      "course": "The Concession Golf Club",
+      "location": "Bradenton, Florida, USA",
+      "phase": "Senior Major"
+    },
+    {
+      "id": "champions-2027-08-insperity",
+      "summary": "The Insperity",
+      "start": "2027-04-30",
+      "end": "2027-05-02",
+      "course": "The Woodlands Country Club, Tournament Course",
+      "location": "The Woodlands, Texas, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-09-mitsubishi-electric-classic",
+      "summary": "Mitsubishi Electric Classic",
+      "start": "2027-05-07",
+      "end": "2027-05-09",
+      "course": "TPC Sugarloaf",
+      "location": "Duluth, Georgia, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-10-regions-tradition",
+      "summary": "Regions Tradition",
+      "start": "2027-05-13",
+      "end": "2027-05-16",
+      "course": "Greystone Golf & Country Club",
+      "location": "Birmingham, Alabama, USA",
+      "phase": "Senior Major"
+    },
+    {
+      "id": "champions-2027-11-principal-charity-classic",
+      "summary": "Principal Charity Classic",
+      "start": "2027-06-04",
+      "end": "2027-06-06",
+      "course": "Wakonda Club",
+      "location": "Des Moines, Iowa, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-12-american-family-insurance",
+      "summary": "American Family Insurance Championship",
+      "start": "2027-06-11",
+      "end": "2027-06-13",
+      "course": "University Ridge Golf Course",
+      "location": "Madison, Wisconsin, USA",
+      "phase": "Regular Season",
+      "note": "PGA TOUR Champions' two-man team event."
+    },
+    {
+      "id": "champions-2027-13-dicks-open",
+      "summary": "DICK'S Open",
+      "start": "2027-06-25",
+      "end": "2027-06-27",
+      "course": "En-Joie Golf Course",
+      "location": "Endicott, New York, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-14-us-senior-open",
+      "summary": "U.S. Senior Open Championship",
+      "start": "2027-07-01",
+      "end": "2027-07-04",
+      "course": "Oak Tree National",
+      "location": "Edmond, Oklahoma, USA",
+      "phase": "Senior Major"
+    },
+    {
+      "id": "champions-2027-15-senior-open",
+      "summary": "ISPS HANDA Senior Open",
+      "start": "2027-07-22",
+      "end": "2027-07-25",
+      "course": "Royal Porthcawl Golf Club",
+      "location": "Bridgend, Wales",
+      "phase": "Senior Major"
+    },
+    {
+      "id": "champions-2027-16-portugal-invitational",
+      "summary": "Portugal Invitational",
+      "start": "2027-07-30",
+      "end": "2027-08-01",
+      "course": "The Els Club Vilamoura",
+      "location": "Vilamoura, Portugal",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-17-boeing-classic",
+      "summary": "Boeing Classic",
+      "start": "2027-08-13",
+      "end": "2027-08-15",
+      "course": "The Club at Snoqualmie Ridge",
+      "location": "Snoqualmie, Washington, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-18-rogers-charity-classic",
+      "summary": "Rogers Charity Classic",
+      "start": "2027-08-20",
+      "end": "2027-08-22",
+      "course": "Canyon Meadows Golf & Country Club",
+      "location": "Calgary, Alberta, Canada",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-19-ally-challenge",
+      "summary": "The Ally Challenge",
+      "start": "2027-08-27",
+      "end": "2027-08-29",
+      "course": "Warwick Hills Golf & Country Club",
+      "location": "Grand Blanc, Michigan, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-20-sanford-international",
+      "summary": "Sanford International",
+      "start": "2027-09-10",
+      "end": "2027-09-12",
+      "course": "Minnehaha Country Club",
+      "location": "Sioux Falls, South Dakota, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-21-pure-insurance",
+      "summary": "PURE Insurance Championship",
+      "start": "2027-09-24",
+      "end": "2027-09-26",
+      "course": "Pebble Beach Golf Links",
+      "location": "Pebble Beach, California, USA",
+      "phase": "Regular Season",
+      "note": "Pairs PGA TOUR Champions players with juniors from First Tee."
+    },
+    {
+      "id": "champions-2027-22-jefferson-lehigh-valley",
+      "summary": "Jefferson Lehigh Valley Classic",
+      "start": "2027-10-01",
+      "end": "2027-10-03",
+      "course": "Lehigh Country Club",
+      "location": "Allentown, Pennsylvania, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-23-furyk-and-friends",
+      "summary": "Constellation FURYK & FRIENDS",
+      "start": "2027-10-08",
+      "end": "2027-10-10",
+      "course": "Ocean Course at Hammock Beach",
+      "location": "Palm Coast, Florida, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-24-sas-championship",
+      "summary": "SAS Championship",
+      "start": "2027-10-15",
+      "end": "2027-10-17",
+      "course": "Prestonwood Country Club",
+      "location": "Cary, North Carolina, USA",
+      "phase": "Regular Season"
+    },
+    {
+      "id": "champions-2027-25-stifel-charity-classic",
+      "summary": "Stifel Charity Classic",
+      "start": "2027-10-22",
+      "end": "2027-10-24",
+      "course": "Norwood Hills Country Club",
+      "location": "St. Louis, Missouri, USA",
+      "phase": "Charles Schwab Cup Playoffs"
+    },
+    {
+      "id": "champions-2027-26-simmons-bank",
+      "summary": "Simmons Bank Championship",
+      "start": "2027-10-29",
+      "end": "2027-10-31",
+      "course": "Pleasant Valley Country Club",
+      "location": "Little Rock, Arkansas, USA",
+      "phase": "Charles Schwab Cup Playoffs"
+    },
+    {
+      "id": "champions-2027-27-charles-schwab-cup",
+      "summary": "Charles Schwab Cup Championship",
+      "start": "2027-11-12",
+      "end": "2027-11-14",
+      "course": "Papago Golf Club",
+      "location": "Phoenix, Arizona, USA",
+      "phase": "Charles Schwab Cup Playoffs"
+    },
+    {
+      "id": "champions-2027-28-world-champions-cup",
+      "summary": "Skechers World Champions Cup supporting Shriners Children's",
+      "start": "2027-12-02",
+      "end": "2027-12-05",
+      "course": "To be announced",
+      "location": "To be announced",
+      "phase": "Challenge Season",
+      "status": "TENTATIVE",
+      "note": "Dates are official; the course and location have not yet been announced."
+    },
+    {
+      "id": "champions-2027-29-pnc-championship",
+      "summary": "PNC Championship",
+      "start": "2027-12-18",
+      "end": "2027-12-19",
+      "course": "Ritz-Carlton Golf Club Orlando",
+      "location": "Orlando, Florida, USA",
+      "phase": "Challenge Season",
+      "note": "Family team event."
+    }
+  ]
+}

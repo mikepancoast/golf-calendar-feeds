@@ -1,0 +1,842 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Pancoast//Golf iCal Subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+UID:urn:uuid:ca2f04a1-b2da-4c17-a0c1-f6581520c842
+NAME:DP World Tour 2027 Season
+X-WR-CALNAME:DP World Tour 2027 Season
+DESCRIPTION:Unofficial calendar of the dated events currently published on 
+ the official DP World Tour 2027 schedule. Late-2026 events are the opening
+  events of the 2027 season.
+X-WR-CALDESC:Unofficial calendar of the dated events currently published on
+  the official DP World Tour 2027 schedule. Late-2026 events are the openin
+ g events of the 2027 season.
+LAST-MODIFIED:20261019T180000Z
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+BEGIN:VEVENT
+UID:urn:uuid:ff4ea20a-6c83-5402-8dd9-6ab8b6425ab3
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:BMW Australian PGA Championship
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Opening Swing.\
+ nCourse: The Lakes Golf Club.\nLocation: Sydney\, Australia.\nRace to Duba
+ i ranking points: 3\,000.\nViewing: Exact broadcast times and platforms ha
+ ve not yet been published\; check the official DP World Tour Watch page cl
+ oser to the event.\nSchedule details may change.\nSource: https://www.euro
+ peantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,OPENING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d670c4b2-9c23-599b-a5e2-ea3c8ea04f65
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Capital.com Australian Open
+LOCATION:Kingston Heath Golf Club - Melbourne\, Australia
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Opening Swing.\
+ nCourse: Kingston Heath Golf Club.\nLocation: Melbourne\, Australia.\nRace
+  to Dubai ranking points: 3\,000.\nViewing: Exact broadcast times and plat
+ forms have not yet been published\; check the official DP World Tour Watch
+  page closer to the event.\nSchedule details may change.\nSource: https://
+ www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,OPENING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:21530164-81f3-559c-a76c-0e09aa0279c3
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Nedbank Golf Challenge in honour of Gary Player
+LOCATION:Gary Player Country Club - Sun City\, South Africa
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Opening Swing.\
+ nCourse: Gary Player Country Club.\nLocation: Sun City\, South Africa.\nRa
+ ce to Dubai ranking points: 4\,000.\nViewing: Exact broadcast times and pl
+ atforms have not yet been published\; check the official DP World Tour Wat
+ ch page closer to the event.\nSchedule details may change.\nSource: https:
+ //www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,OPENING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2d396f9b-e3fe-5c7b-a0db-317b5c69eabe
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+SUMMARY:AfrAsia Bank Mauritius Open
+LOCATION:Mont Choisy Le Golf - Grand Baie\, Mauritius
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Opening Swing.\
+ nCourse: Mont Choisy Le Golf.\nLocation: Grand Baie\, Mauritius.\nRace to 
+ Dubai ranking points: 3\,000.\nViewing: Exact broadcast times and platform
+ s have not yet been published\; check the official DP World Tour Watch pag
+ e closer to the event.\nSchedule details may change.\nSource: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,OPENING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e7f35add-2e40-5547-8766-cd8796f213d9
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270118
+SUMMARY:Team Cup
+LOCATION:Abu Dhabi Golf Resort - Abu Dhabi\, United Arab Emirates
+DESCRIPTION:DP World Tour 2027 season - Team event.\nSwing: International S
+ wing.\nCourse: Abu Dhabi Golf Resort.\nLocation: Abu Dhabi\, United Arab E
+ mirates.\nRace to Dubai ranking points: 0.\nViewing: Exact broadcast times
+  and platforms have not yet been published\; check the official DP World T
+ our Watch page closer to the event.\nSchedule details may change.\nSource:
+  https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,INTERNATIONAL SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d99e98ba-caeb-5a51-add9-076bb8525fbf
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+SUMMARY:Hero Dubai Desert Classic
+LOCATION:Emirates Golf Club - Dubai\, United Arab Emirates
+DESCRIPTION:DP World Tour 2027 season - Rolex Series.\nSwing: International
+  Swing.\nCourse: Emirates Golf Club.\nLocation: Dubai\, United Arab Emirat
+ es.\nRace to Dubai ranking points: 8\,000.\nViewing: Exact broadcast times
+  and platforms have not yet been published\; check the official DP World T
+ our Watch page closer to the event.\nSchedule details may change.\nSource:
+  https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,INTERNATIONAL SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:80df22fc-6bfb-542f-b325-75f153c40351
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270201
+SUMMARY:Bapco Energies Bahrain Championship
+LOCATION:Royal Golf Club - Kingdom of Bahrain\, Bahrain
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: International S
+ wing.\nCourse: Royal Golf Club.\nLocation: Kingdom of Bahrain\, Bahrain.\n
+ Race to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times and 
+ platforms have not yet been published\; check the official DP World Tour W
+ atch page closer to the event.\nSchedule details may change.\nSource: http
+ s://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,INTERNATIONAL SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8aaee1e3-4d89-5f16-b21e-b4d6a442bf92
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270207
+SUMMARY:Qatar Masters
+LOCATION:Doha Golf Club - Doha\, Qatar
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: International S
+ wing.\nCourse: Doha Golf Club.\nLocation: Doha\, Qatar.\nRace to Dubai ran
+ king points: 3\,500.\nViewing: Exact broadcast times and platforms have no
+ t yet been published\; check the official DP World Tour Watch page closer 
+ to the event.\nSchedule details may change.\nSource: https://www.europeant
+ our.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,INTERNATIONAL SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:73373635-7f10-521c-b7df-737f157c7d9c
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+SUMMARY:Magical Kenya Open
+LOCATION:Karen Country Club - Nairobi\, Kenya
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: International S
+ wing.\nCourse: Karen Country Club.\nLocation: Nairobi\, Kenya.\nRace to Du
+ bai ranking points: 3\,500.\nViewing: Exact broadcast times and platforms 
+ have not yet been published\; check the official DP World Tour Watch page 
+ closer to the event.\nSchedule details may change.\nSource: https://www.eu
+ ropeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,INTERNATIONAL SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:62ed509f-9370-5fee-a205-b147a48f550e
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:Alfred Dunhill Championship
+LOCATION:Durban Country Club - Durban\, South Africa
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: International S
+ wing.\nCourse: Durban Country Club.\nLocation: Durban\, South Africa.\nRac
+ e to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times and pla
+ tforms have not yet been published\; check the official DP World Tour Watc
+ h page closer to the event.\nSchedule details may change.\nSource: https:/
+ /www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,INTERNATIONAL SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2c5f57fe-ff29-5954-ba43-d2d4de922c36
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270308
+SUMMARY:Investec South African Open Championship
+LOCATION:Stellenbosch Golf Club - Stellenbosch\, South Africa
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: International S
+ wing.\nCourse: Stellenbosch Golf Club.\nLocation: Stellenbosch\, South Afr
+ ica.\nRace to Dubai ranking points: 3\,500.\nViewing: Exact broadcast time
+ s and platforms have not yet been published\; check the official DP World 
+ Tour Watch page closer to the event.\nSchedule details may change.\nSource
+ : https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,INTERNATIONAL SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a2a51826-203d-5dd9-ac52-fc0c7baa0bfa
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+SUMMARY:Joburg Open
+LOCATION:Randpark Golf Club - Johannesburg\, South Africa
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: International S
+ wing.\nCourse: Randpark Golf Club.\nLocation: Johannesburg\, South Africa.
+ \nRace to Dubai ranking points: 3\,000.\nViewing: Exact broadcast times an
+ d platforms have not yet been published\; check the official DP World Tour
+  Watch page closer to the event.\nSchedule details may change.\nSource: ht
+ tps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,INTERNATIONAL SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2fbf4520-2bb7-52ee-a8f8-3a9d3a0127f9
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270329
+SUMMARY:China Classic
+LOCATION:Mission Hills Resort Haikou - Hainan Island\, China
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Asian Swing.\nC
+ ourse: Mission Hills Resort Haikou.\nLocation: Hainan Island\, China.\nRac
+ e to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times and pla
+ tforms have not yet been published\; check the official DP World Tour Watc
+ h page closer to the event.\nSchedule details may change.\nSource: https:/
+ /www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,ASIAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:276e52d6-7640-5e3b-a5e1-d6c4ddc82f4f
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+SUMMARY:Masters Tournament
+LOCATION:Augusta National Golf Club - Augusta\, Georgia\, USA
+DESCRIPTION:DP World Tour 2027 season - Major championship.\nSwing: Asian S
+ wing.\nCourse: Augusta National Golf Club.\nLocation: Augusta\, Georgia\, 
+ USA.\nRace to Dubai ranking points: 10\,000.\nViewing: Exact broadcast tim
+ es and platforms have not yet been published\; check the official DP World
+  Tour Watch page closer to the event.\nSchedule details may change.\nSourc
+ e: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,ASIAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d45013d8-cd02-5337-8c5e-e5f759c5bce9
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270419
+SUMMARY:Deutsche Bank Singapore Open
+LOCATION:Sentosa Golf Club\, The Serapong - Singapore
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Asian Swing.\nC
+ ourse: Sentosa Golf Club\, The Serapong.\nLocation: Singapore.\nRace to Du
+ bai ranking points: 3\,500.\nViewing: Exact broadcast times and platforms 
+ have not yet been published\; check the official DP World Tour Watch page 
+ closer to the event.\nSchedule details may change.\nSource: https://www.eu
+ ropeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,ASIAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:896c3464-623e-575c-95a7-c859573e75b7
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270426
+SUMMARY:Volvo China Open
+LOCATION:Enhance Anting Golf Club - Shanghai\, China
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Asian Swing.\nC
+ ourse: Enhance Anting Golf Club.\nLocation: Shanghai\, China.\nRace to Dub
+ ai ranking points: 3\,500.\nViewing: Exact broadcast times and platforms h
+ ave not yet been published\; check the official DP World Tour Watch page c
+ loser to the event.\nSchedule details may change.\nSource: https://www.eur
+ opeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,ASIAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1675defe-5ac1-5ae6-b028-215abe332956
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+SUMMARY:Turkish Airlines Open
+LOCATION:National Golf Club - Belek\, Antalya\, Türkiye
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Asian Swing.\nC
+ ourse: National Golf Club.\nLocation: Belek\, Antalya\, Türkiye.\nRace to
+  Dubai ranking points: 3\,500.\nViewing: Exact broadcast times and platfor
+ ms have not yet been published\; check the official DP World Tour Watch pa
+ ge closer to the event.\nSchedule details may change.\nSource: https://www
+ .europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,ASIAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:47725b42-ed14-5da0-b7e9-549be472e824
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+SUMMARY:Estrella Damm Catalunya Championship
+LOCATION:Empordà Golf - Girona\, Spain
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: European Swing.
+ \nCourse: Empordà Golf.\nLocation: Girona\, Spain.\nRace to Dubai ranking
+  points: 3\,500.\nViewing: Exact broadcast times and platforms have not ye
+ t been published\; check the official DP World Tour Watch page closer to t
+ he event.\nSchedule details may change.\nSource: https://www.europeantour.
+ com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,EUROPEAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8017060c-9910-5bfa-9c90-956a1ea73d0b
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:Open de Portugal | Cascais - Lisboa
+LOCATION:Oitavos Dunes Links Golf - Cascais\, Portugal
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: European Swing.
+ \nCourse: Oitavos Dunes Links Golf.\nLocation: Cascais\, Portugal.\nRace t
+ o Dubai ranking points: 3\,500.\nViewing: Exact broadcast times and platfo
+ rms have not yet been published\; check the official DP World Tour Watch p
+ age closer to the event.\nSchedule details may change.\nSource: https://ww
+ w.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,EUROPEAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3e54597c-388a-51e8-aa43-d09ea050f3f0
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270524
+SUMMARY:PGA Championship
+LOCATION:PGA Frisco - Frisco\, Texas\, USA
+DESCRIPTION:DP World Tour 2027 season - Major championship.\nSwing: Europea
+ n Swing.\nCourse: PGA Frisco.\nLocation: Frisco\, Texas\, USA.\nRace to Du
+ bai ranking points: 10\,000.\nViewing: Exact broadcast times and platforms
+  have not yet been published\; check the official DP World Tour Watch page
+  closer to the event.\nSchedule details may change.\nSource: https://www.e
+ uropeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,EUROPEAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c337ca91-a9a2-5127-b36d-f7259f703426
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270531
+SUMMARY:BMW International Open
+LOCATION:Golfclub München Eichenried - Munich\, Germany
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: European Swing.
+ \nCourse: Golfclub München Eichenried.\nLocation: Munich\, Germany.\nRace
+  to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times and plat
+ forms have not yet been published\; check the official DP World Tour Watch
+  page closer to the event.\nSchedule details may change.\nSource: https://
+ www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,EUROPEAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9a83313c-6ffd-5be5-94b0-246460fae65c
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270607
+SUMMARY:Soudal Open
+LOCATION:Rinkven International Golf Club - Antwerp\, Belgium
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: European Swing.
+ \nCourse: Rinkven International Golf Club.\nLocation: Antwerp\, Belgium.\n
+ Race to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times and 
+ platforms have not yet been published\; check the official DP World Tour W
+ atch page closer to the event.\nSchedule details may change.\nSource: http
+ s://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,EUROPEAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3d0fea25-84de-5f0c-9f0f-47cc4ab8bd73
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270614
+SUMMARY:KLM Open
+LOCATION:Kennemer Golf & Country Club - Zandvoort\, Netherlands
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: European Swing.
+ \nCourse: Kennemer Golf & Country Club.\nLocation: Zandvoort\, Netherlands
+ .\nRace to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times a
+ nd platforms have not yet been published\; check the official DP World Tou
+ r Watch page closer to the event.\nSchedule details may change.\nSource: h
+ ttps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,EUROPEAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:dbec57ab-dc40-53fb-9c75-b6a69d498bd1
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270621
+SUMMARY:U.S. Open
+LOCATION:Pebble Beach Golf Links - Pebble Beach\, California\, USA
+DESCRIPTION:DP World Tour 2027 season - Major championship.\nSwing: Europea
+ n Swing.\nCourse: Pebble Beach Golf Links.\nLocation: Pebble Beach\, Calif
+ ornia\, USA.\nRace to Dubai ranking points: 10\,000.\nViewing: Exact broad
+ cast times and platforms have not yet been published\; check the official 
+ DP World Tour Watch page closer to the event.\nSchedule details may change
+ .\nSource: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,EUROPEAN SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:60f0043f-b98d-5b32-a125-35994a6f8fab
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270705
+SUMMARY:Amgen Irish Open
+LOCATION:The K Club - Straffan\, County Kildare\, Ireland
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Closing Swing.\
+ nCourse: The K Club.\nLocation: Straffan\, County Kildare\, Ireland.\nRace
+  to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times and plat
+ forms have not yet been published\; check the official DP World Tour Watch
+  page closer to the event.\nSchedule details may change.\nSource: https://
+ www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,CLOSING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1f5580d5-0745-5c0b-83ff-55dba21fc582
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:Genesis Scottish Open
+LOCATION:The Renaissance Club - North Berwick\, Scotland
+DESCRIPTION:DP World Tour 2027 season - Rolex Series.\nSwing: Closing Swing
+ .\nCourse: The Renaissance Club.\nLocation: North Berwick\, Scotland.\nRac
+ e to Dubai ranking points: 8\,000.\nViewing: Exact broadcast times and pla
+ tforms have not yet been published\; check the official DP World Tour Watc
+ h page closer to the event.\nSchedule details may change.\nSource: https:/
+ /www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,CLOSING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a2b6761d-b2b7-58e9-9810-284233e4e163
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:ISCO Championship
+LOCATION:Hurstbourne Country Club - Louisville\, Kentucky\, USA
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Closing Swing.\
+ nCourse: Hurstbourne Country Club.\nLocation: Louisville\, Kentucky\, USA.
+ \nRace to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times an
+ d platforms have not yet been published\; check the official DP World Tour
+  Watch page closer to the event.\nSchedule details may change.\nSource: ht
+ tps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,CLOSING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:605d057c-6ae5-5d3f-b8c2-c3f974cef41c
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270719
+SUMMARY:The Open Championship
+LOCATION:Old Course\, St Andrews - St Andrews\, Fife\, Scotland
+DESCRIPTION:DP World Tour 2027 season - Major championship.\nSwing: Closing
+  Swing.\nCourse: Old Course\, St Andrews.\nLocation: St Andrews\, Fife\, S
+ cotland.\nRace to Dubai ranking points: 10\,000.\nViewing: Exact broadcast
+  times and platforms have not yet been published\; check the official DP W
+ orld Tour Watch page closer to the event.\nSchedule details may change.\nS
+ ource: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,CLOSING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e95840ca-c121-5e6c-ac4d-e29380ab4410
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270719
+SUMMARY:Corales Puntacana Championship
+LOCATION:Puntacana Resort & Club - Punta Cana\, Dominican Republic
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Closing Swing.\
+ nCourse: Puntacana Resort & Club.\nLocation: Punta Cana\, Dominican Republ
+ ic.\nRace to Dubai ranking points: 3\,500.\nViewing: Exact broadcast times
+  and platforms have not yet been published\; check the official DP World T
+ our Watch page closer to the event.\nSchedule details may change.\nSource:
+  https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,CLOSING SWING
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f5b8c481-96b1-55fc-b20d-3b15f5617788
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270823
+SUMMARY:Husqvarna British Masters hosted by Sir Nick Faldo
+LOCATION:The Belfry Hotel & Resort - Sutton Coldfield\, England
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Back 9.\nCourse
+ : The Belfry Hotel & Resort.\nLocation: Sutton Coldfield\, England.\nRace 
+ to Dubai ranking points: 5\,000.\nViewing: Exact broadcast times and platf
+ orms have not yet been published\; check the official DP World Tour Watch 
+ page closer to the event.\nSchedule details may change.\nSource: https://w
+ ww.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,BACK 9
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:58e8a0a9-27d4-5479-898a-05eb5d556228
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270906
+SUMMARY:Omega European Masters
+LOCATION:Crans-sur-Sierre Golf Club - Crans-Montana\, Switzerland
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Back 9.\nCourse
+ : Crans-sur-Sierre Golf Club.\nLocation: Crans-Montana\, Switzerland.\nRac
+ e to Dubai ranking points: 5\,000.\nViewing: Exact broadcast times and pla
+ tforms have not yet been published\; check the official DP World Tour Watc
+ h page closer to the event.\nSchedule details may change.\nSource: https:/
+ /www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,BACK 9
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5b5e077a-b03f-54fa-ba86-34ef5254f5e9
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270913
+SUMMARY:FedEx Open de France
+LOCATION:Le Golf National - Saint-Quentin-en-Yvelines\, France
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Back 9.\nCourse
+ : Le Golf National.\nLocation: Saint-Quentin-en-Yvelines\, France.\nRace t
+ o Dubai ranking points: 5\,000.\nViewing: Exact broadcast times and platfo
+ rms have not yet been published\; check the official DP World Tour Watch p
+ age closer to the event.\nSchedule details may change.\nSource: https://ww
+ w.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,BACK 9
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3e456347-77c8-5de3-9c06-71e23117a4b5
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+SUMMARY:2027 Ryder Cup
+LOCATION:Adare Manor - Limerick\, Ireland
+DESCRIPTION:DP World Tour 2027 season - Team event.\nSwing: Back 9.\nCourse
+ : Adare Manor.\nLocation: Limerick\, Ireland.\nRace to Dubai ranking point
+ s: 0.\nViewing: Exact broadcast times and platforms have not yet been publ
+ ished\; check the official DP World Tour Watch page closer to the event.\n
+ Schedule details may change.\nSource: https://www.europeantour.com/dpworld
+ -tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,BACK 9
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:16da3a0a-e7e0-560f-b4d4-d3c5f81b7db5
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270927
+SUMMARY:BMW PGA Championship
+LOCATION:Wentworth Club - Virginia Water\, Surrey\, England
+DESCRIPTION:DP World Tour 2027 season - Rolex Series.\nSwing: Back 9.\nCour
+ se: Wentworth Club.\nLocation: Virginia Water\, Surrey\, England.\nRace to
+  Dubai ranking points: 8\,000.\nViewing: Exact broadcast times and platfor
+ ms have not yet been published\; check the official DP World Tour Watch pa
+ ge closer to the event.\nSchedule details may change.\nSource: https://www
+ .europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,BACK 9
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3a2dcffb-435e-5048-ac3b-88c830de77fc
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271004
+SUMMARY:Alfred Dunhill Links Championship
+LOCATION:Old Course at St Andrews\; Carnoustie Golf Links\; Kingsbarns Golf
+  Links - Fife and Angus\, Scotland
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Back 9.\nCourse
+ : Old Course at St Andrews\; Carnoustie Golf Links\; Kingsbarns Golf Links
+ .\nLocation: Fife and Angus\, Scotland.\nRace to Dubai ranking points: 5\,
+ 000.\nViewing: Exact broadcast times and platforms have not yet been publi
+ shed\; check the official DP World Tour Watch page closer to the event.\nS
+ chedule details may change.\nSource: https://www.europeantour.com/dpworld-
+ tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,BACK 9
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:417248ab-aebd-5476-9821-ddbe27920472
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271011
+SUMMARY:Open de España presented by Madrid
+LOCATION:Real Club de Campo Villa de Madrid - Madrid\, Spain
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Back 9.\nCourse
+ : Real Club de Campo Villa de Madrid.\nLocation: Madrid\, Spain.\nRace to 
+ Dubai ranking points: 5\,000.\nViewing: Exact broadcast times and platform
+ s have not yet been published\; check the official DP World Tour Watch pag
+ e closer to the event.\nSchedule details may change.\nSource: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,BACK 9
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4b01a15a-a629-5df1-8cd5-fda57f5155d0
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271025
+SUMMARY:Hong Kong Open
+LOCATION:Hong Kong Golf Club - Hong Kong\, China
+DESCRIPTION:DP World Tour 2027 season - Tournament.\nSwing: Back 9.\nCourse
+ : Hong Kong Golf Club.\nLocation: Hong Kong\, China.\nRace to Dubai rankin
+ g points: 5\,000.\nViewing: Exact broadcast times and platforms have not y
+ et been published\; check the official DP World Tour Watch page closer to 
+ the event.\nSchedule details may change.\nSource: https://www.europeantour
+ .com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,BACK 9
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1b17c48f-c033-5b94-baa1-7a7f36f70acc
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271108
+SUMMARY:Abu Dhabi Championship
+LOCATION:Yas Links Golf Club - Abu Dhabi\, United Arab Emirates
+DESCRIPTION:DP World Tour 2027 season - Play-Off.\nSwing: DP World Tour Pla
+ y-Offs.\nCourse: Yas Links Golf Club.\nLocation: Abu Dhabi\, United Arab E
+ mirates.\nRace to Dubai ranking points: 9\,000.\nViewing: Exact broadcast 
+ times and platforms have not yet been published\; check the official DP Wo
+ rld Tour Watch page closer to the event.\nSchedule details may change.\nSo
+ urce: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,DP WORLD TOUR PLAY-OFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:873e26a7-cfcc-557c-beab-de3e3db43f56
+DTSTAMP:20261019T180000Z
+LAST-MODIFIED:20261019T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271115
+SUMMARY:DP World Tour Championship\, Dubai
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:DP World Tour 2027 season - Play-Off.\nSwing: DP World Tour Pla
+ y-Offs.\nCourse: Jumeirah Golf Estates\, Earth Course.\nLocation: Dubai\, 
+ United Arab Emirates.\nRace to Dubai ranking points: 12\,000.\nViewing: Ex
+ act broadcast times and platforms have not yet been published\; check the 
+ official DP World Tour Watch page closer to the event.\nSchedule details m
+ ay change.\nSource: https://www.europeantour.com/dpworld-tour/schedule/202
+ 7/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR,DP WORLD TOUR PLAY-OFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

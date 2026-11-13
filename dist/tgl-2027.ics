@@ -1,0 +1,421 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Pancoast//Golf iCal Subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+UID:urn:uuid:e4dfbe0a-3b40-4d3d-b241-745fa72b9489
+NAME:TGL 2027 Schedule
+X-WR-CALNAME:TGL 2027 Schedule
+DESCRIPTION:Officially announced TGL presented by SoFi 2027 match schedule 
+ and U.S. networks. Timed matches use TGL's official approximately two-hour
+  match length for their calendar end time.
+X-WR-CALDESC:Officially announced TGL presented by SoFi 2027 match schedule
+  and U.S. networks. Timed matches use TGL's official approximately two-hou
+ r match length for their calendar end time.
+LAST-MODIFIED:20261102T165806Z
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+URL:https://tglgolf.com/schedule
+BEGIN:VEVENT
+UID:urn:uuid:0ec8f86f-eaea-50a2-be2b-9af81a38c763
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20261227T180000Z
+DTEND:20261227T200000Z
+SUMMARY:TGL: Boston Common Golf vs. Motor City Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Boston Common Golf vs. Mot
+ or City Golf Club.\nPublished time: Sunday\, December 27\, 2026\, 1 p.m. E
+ T.\nU.S. network: ESPN.\nCalendar end time is set two hours after the offi
+ cial start based on TGL's official approximate match length\; actual compl
+ etion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule
+  announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-
+ so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-r
+ ules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Boston Common Golf vs. Motor City Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:cfeba2a3-9eee-5251-b665-6d118909a6b8
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20261227T200000Z
+DTEND:20261227T220000Z
+SUMMARY:TGL: Jupiter Links Golf Club vs. Los Angeles Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Jupiter Links Golf Club vs
+ . Los Angeles Golf Club.\nPublished time: Sunday\, December 27\, 2026\, 3 
+ p.m. ET.\nU.S. network: ABC.\nCalendar end time is set two hours after the
+  official start based on TGL's official approximate match length\; actual 
+ completion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSch
+ edule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presente
+ d-by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offic
+ ial-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Jupiter Links Golf Club vs. Los Angeles Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:43a3a46c-ca48-5205-b4a2-13dac00a9cdb
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270103T180000Z
+DTEND:20270103T200000Z
+SUMMARY:TGL: The Bay Golf Club vs. New York Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: The Bay Golf Club vs. New 
+ York Golf Club.\nPublished time: Sunday\, January 3\, 2027\, 1 p.m. ET.\nU
+ .S. network: ESPN.\nCalendar end time is set two hours after the official 
+ start based on TGL's official approximate match length\; actual completion
+  may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule anno
+ uncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi
+ -season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: The Bay Golf Club vs. New York Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:810277fd-aa4d-52b3-9610-49d94e61fbd5
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270106T020000Z
+DTEND:20270106T040000Z
+SUMMARY:TGL: Atlanta Drive GC vs. The Bay Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Atlanta Drive GC vs. The B
+ ay Golf Club.\nPublished time: Tuesday\, January 5\, 2027\, 9 p.m. ET.\nU.
+ S. network: ESPN2.\nCalendar end time is set two hours after the official 
+ start based on TGL's official approximate match length\; actual completion
+  may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule anno
+ uncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi
+ -season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Atlanta Drive GC vs. The Bay Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:943eb61f-58d8-5e47-be82-9b8ceb1244e2
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270109T170000Z
+DTEND:20270109T190000Z
+SUMMARY:TGL: New York Golf Club vs. Atlanta Drive GC
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: New York Golf Club vs. Atl
+ anta Drive GC.\nPublished time: Saturday\, January 9\, 2027\, noon ET.\nU.
+ S. network: ABC.\nCalendar end time is set two hours after the official st
+ art based on TGL's official approximate match length\; actual completion m
+ ay vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule announ
+ cement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-s
+ eason-schedule\nDuration basis: https://tglgolf.com/info/official-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: New York Golf Club vs. Atlanta Drive GC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ae8f08b0-2988-5b34-94e9-3170182aa159
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270110T210000Z
+DTEND:20270110T230000Z
+SUMMARY:TGL: Motor City Golf Club vs. Jupiter Links Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Motor City Golf Club vs. J
+ upiter Links Golf Club.\nPublished time: Sunday\, January 10\, 2027\, 4 p.
+ m. ET.\nU.S. network: ABC.\nCalendar end time is set two hours after the o
+ fficial start based on TGL's official approximate match length\; actual co
+ mpletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSched
+ ule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-
+ by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/officia
+ l-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Motor City Golf Club vs. Jupiter Links Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c90634ed-c026-599c-a175-c88d739e7df0
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270113T000000Z
+DTEND:20270113T020000Z
+SUMMARY:TGL: Jupiter Links Golf Club vs. Boston Common Golf
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Jupiter Links Golf Club vs
+ . Boston Common Golf.\nPublished time: Tuesday\, January 12\, 2027\, 7 p.m
+ . ET.\nU.S. network: ESPN.\nCalendar end time is set two hours after the o
+ fficial start based on TGL's official approximate match length\; actual co
+ mpletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSched
+ ule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-
+ by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/officia
+ l-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Jupiter Links Golf Club vs. Boston Common Golf
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c7f536f2-9d28-5af4-ae0e-1297ffa2f066
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270119
+SUMMARY:TGL: Los Angeles Golf Club vs. New York Golf Club — date tentativ
+ e
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Los Angeles Golf Club vs. 
+ New York Golf Club.\nPublished time: Sunday\, January 17 or Monday\, Janua
+ ry 18\, 2027\, 7 p.m. ET.\nU.S. network: ESPN.\nTGL has not finalized whet
+ her this match will be played January 17 or January 18. The two-day calend
+ ar range will be replaced with a timed event when the date is confirmed.\n
+ Official schedule: https://tglgolf.com/schedule\nSchedule announcement: ht
+ tps://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-sche
+ dule
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:31cb98b5-c5d5-5c1e-a0e3-0692820f1fa2
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270119
+SUMMARY:TGL: The Bay Golf Club vs. Motor City Golf Club — date tentative
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: The Bay Golf Club vs. Moto
+ r City Golf Club.\nPublished time: Sunday\, January 17 or Monday\, January
+  18\, 2027\, 9 p.m. ET.\nU.S. network: ESPN.\nTGL has not finalized whethe
+ r this match will be played January 17 or January 18. The two-day calendar
+  range will be replaced with a timed event when the date is confirmed.\nOf
+ ficial schedule: https://tglgolf.com/schedule\nSchedule announcement: http
+ s://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-schedu
+ le
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a87621f1-c498-5df6-a19c-bae2f016c9d7
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270201T000000Z
+DTEND:20270201T020000Z
+SUMMARY:TGL: Atlanta Drive GC vs. Boston Common Golf
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Atlanta Drive GC vs. Bosto
+ n Common Golf.\nPublished time: Sunday\, January 31\, 2027\, 7 p.m. ET.\nU
+ .S. network: ESPN2.\nCalendar end time is set two hours after the official
+  start based on TGL's official approximate match length\; actual completio
+ n may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule ann
+ ouncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-f
+ i-season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Atlanta Drive GC vs. Boston Common Golf
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:87d464fe-92e3-5456-8444-578bc0af0e15
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270210T020000Z
+DTEND:20270210T040000Z
+SUMMARY:TGL: New York Golf Club vs. Jupiter Links Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: New York Golf Club vs. Jup
+ iter Links Golf Club.\nPublished time: Tuesday\, February 9\, 2027\, 9 p.m
+ . ET.\nU.S. network: ESPN2.\nCalendar end time is set two hours after the 
+ official start based on TGL's official approximate match length\; actual c
+ ompletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSche
+ dule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented
+ -by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offici
+ al-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: New York Golf Club vs. Jupiter Links Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6de15261-d76d-502b-b645-096910cbd18e
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270223T010000Z
+DTEND:20270223T030000Z
+SUMMARY:TGL: Motor City Golf Club vs. Los Angeles Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Motor City Golf Club vs. L
+ os Angeles Golf Club.\nPublished time: Monday\, February 22\, 2027\, 8 p.m
+ . ET.\nU.S. network: ESPN2.\nCalendar end time is set two hours after the 
+ official start based on TGL's official approximate match length\; actual c
+ ompletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSche
+ dule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented
+ -by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offici
+ al-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Motor City Golf Club vs. Los Angeles Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:eded29e8-2fb2-5e42-8e6a-e5d6eb4eff84
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270223T220000Z
+DTEND:20270224T000000Z
+SUMMARY:TGL: Boston Common Golf vs. The Bay Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Boston Common Golf vs. The
+  Bay Golf Club.\nPublished time: Tuesday\, February 23\, 2027\, 5 p.m. ET.
+ \nU.S. network: ESPN.\nCalendar end time is set two hours after the offici
+ al start based on TGL's official approximate match length\; actual complet
+ ion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule a
+ nnouncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so
+ -fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-rul
+ es
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Boston Common Golf vs. The Bay Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9ecee7a9-aa65-5ebb-8fc4-77085c8fd3b1
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270224T000000Z
+DTEND:20270224T020000Z
+SUMMARY:TGL: Los Angeles Golf Club vs. Atlanta Drive GC
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Los Angeles Golf Club vs. 
+ Atlanta Drive GC.\nPublished time: Tuesday\, February 23\, 2027\, 7 p.m. E
+ T.\nU.S. network: ESPN.\nCalendar end time is set two hours after the offi
+ cial start based on TGL's official approximate match length\; actual compl
+ etion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule
+  announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-
+ so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-r
+ ules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Los Angeles Golf Club vs. Atlanta Drive GC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d44e2a05-8894-584e-be1d-2281678d8980
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270324
+SUMMARY:TGL 2027 Playoffs window — details TBD
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Postseason.\nMatchup: Play-in\, Semifinals and best-
+ of-three SoFi Cup Finals.\nPublished time: March 1-23\, 2027\; exact match
+  dates and times to be announced.\nU.S. network: ESPN platforms.\nThis tra
+ nsparent date-range placeholder will be replaced by individual postseason 
+ matches when TGL publishes exact dates\, times\, networks and matchups.\nO
+ fficial schedule: https://tglgolf.com/schedule\nSchedule announcement: htt
+ ps://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-sched
+ ule
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,POSTSEASON,ESPN PLATFORMS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

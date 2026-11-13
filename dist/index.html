@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Golf calendar subscriptions</title>
+  <style>
+    :root { color-scheme: light dark; font-family: ui-sans-serif, system-ui, sans-serif; }
+    body { max-width: 50rem; margin: 4rem auto; padding: 0 1rem; line-height: 1.5; }
+    ul { display: grid; gap: 1rem; padding: 0; list-style: none; }
+    li { display: grid; gap: .35rem; padding: 1rem; border: 1px solid #8886; border-radius: .75rem; }
+    li span { opacity: .7; }
+    a { width: fit-content; }
+  </style>
+</head>
+<body>
+  <h1>Golf calendar subscriptions</h1>
+  <p>Choose Subscribe for an updating calendar feed, or Download snapshot for a one-time import.</p>
+  <ul>
+      <li data-file="pga-tour-2027.ics">
+        <strong>PGA TOUR 2027 - Competition Days</strong>
+        <span>36 events</span>
+        <a class="subscribe" href="pga-tour-2027.ics">Subscribe</a>
+        <a href="pga-tour-2027.ics" download>Download snapshot</a>
+      </li>
+      <li data-file="dp-world-tour-2027.ics">
+        <strong>DP World Tour 2027 Season</strong>
+        <span>39 events</span>
+        <a class="subscribe" href="dp-world-tour-2027.ics">Subscribe</a>
+        <a href="dp-world-tour-2027.ics" download>Download snapshot</a>
+      </li>
+      <li data-file="amateur-golf-2027-2028.ics">
+        <strong>U.S. Amateur, U.S. Mid-Amateur & Walker Cup</strong>
+        <span>3 events</span>
+        <a class="subscribe" href="amateur-golf-2027-2028.ics">Subscribe</a>
+        <a href="amateur-golf-2027-2028.ics" download>Download snapshot</a>
+      </li>
+      <li data-file="pga-tour-champions-2027.ics">
+        <strong>PGA TOUR Champions 2027</strong>
+        <span>29 events</span>
+        <a class="subscribe" href="pga-tour-champions-2027.ics">Subscribe</a>
+        <a href="pga-tour-champions-2027.ics" download>Download snapshot</a>
+      </li>
+      <li data-file="tgl-2027.ics">
+        <strong>TGL 2027 Schedule</strong>
+        <span>15 events</span>
+        <a class="subscribe" href="tgl-2027.ics">Subscribe</a>
+        <a href="tgl-2027.ics" download>Download snapshot</a>
+      </li>
+      <li data-file="golf-broadcasts.ics">
+        <strong>Golf Broadcast Schedule</strong>
+        <span>39 events</span>
+        <a class="subscribe" href="golf-broadcasts.ics">Subscribe</a>
+        <a href="golf-broadcasts.ics" download>Download snapshot</a>
+      </li>
+      <li data-file="golf-late-2026.ics">
+        <strong>Golf: Rest of 2026</strong>
+        <span>56 events</span>
+        <a class="subscribe" href="golf-late-2026.ics">Subscribe</a>
+        <a href="golf-late-2026.ics" download>Download snapshot</a>
+      </li>
+      <li data-file="golf-2027-pga-dp-world.ics">
+        <strong>Golf Calendar - Late 2026 + All Announced 2027 (No LPGA)</strong>
+        <span>164 events</span>
+        <a class="subscribe" href="golf-2027-pga-dp-world.ics">Subscribe</a>
+        <a href="golf-2027-pga-dp-world.ics" download>Download snapshot</a>
+      </li>
+  </ul>
+  <p>Unofficial calendars. Dates and viewing details may change.</p>
+  <script>
+    for (const link of document.querySelectorAll("a.subscribe")) {
+      const url = new URL(link.getAttribute("href"), location.href);
+      url.protocol = "webcal:";
+      link.href = url.href;
+    }
+  </script>
+</body>
+</html>

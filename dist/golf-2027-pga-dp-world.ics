@@ -1,0 +1,4016 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Pancoast//Golf iCal Subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+UID:urn:uuid:bc2b0499-20d3-47aa-9c0b-3b528be5ee64
+NAME:Golf Calendar - Late 2026 + All Announced 2027 (No LPGA)
+X-WR-CALNAME:Golf Calendar - Late 2026 + All Announced 2027 (No LPGA)
+DESCRIPTION:Combined late-2026 and officially announced 2027 PGA TOUR\, DP 
+ World Tour\, PGA TOUR Champions\, TGL and USGA amateur calendar\, plus con
+ firmed special-event broadcasts. LPGA and LPGA co-sanctioned events are ex
+ cluded.
+X-WR-CALDESC:Combined late-2026 and officially announced 2027 PGA TOUR\, DP
+  World Tour\, PGA TOUR Champions\, TGL and USGA amateur calendar\, plus co
+ nfirmed special-event broadcasts. LPGA and LPGA co-sanctioned events are e
+ xcluded.
+LAST-MODIFIED:20261111T131020Z
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:urn:uuid:5b946cb6-696c-5185-addd-1d74551bfc84
+DTSTAMP:20261102T222124Z
+LAST-MODIFIED:20261102T222124Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:Abu Dhabi Aldar Championship
+LOCATION:Yas Links Golf Club - Abu Dhabi\, United Arab Emirates
+DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
+ -11-05 through 2026-11-08.\nCourse: Yas Links Golf Club.\nLocation: Abu Dh
+ abi\, United Arab Emirates.\nExact U.S. viewing windows will be added when
+  officially published.\nSchedule details may change.\nOfficial source: htt
+ ps://www.europeantour.com/dpworld-tour/abu-dhabi-championship-2026/
+URL:https://www.europeantour.com/dpworld-tour/abu-dhabi-championship-2026/
+CATEGORIES:SPORTS,GOLF,LATE 2026,DP WORLD TOUR,RACE TO DUBAI PLAY-OFF
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:18e8495c-e0bf-5076-b273-e83b913536b0
+DTSTAMP:20261102T222124Z
+LAST-MODIFIED:20261102T222124Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:World Wide Technology Championship
+LOCATION:El Cardonal at Diamante - Los Cabos\, Mexico
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-05 through
+  2026-11-08.\nCourse: El Cardonal at Diamante.\nLocation: Los Cabos\, Mexi
+ co.\nExact U.S. viewing windows will be added when officially published.\n
+ Schedule details may change.\nOfficial source: https://www.pgatour.com/tou
+ rnaments/2026/world-wide-technology-championship/R2026457/overview
+URL:https://www.pgatour.com/tournaments/2026/world-wide-technology-champion
+ ship/R2026457/overview
+CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR,FEDEXCUP FALL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:85296f42-460e-5790-8c2b-f9cffebf2947
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261105T070000Z
+DTEND:20261105T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship
+DESCRIPTION:Live tournament coverage of Abu Dhabi Aldar Championship.\nTour
+  or organizer: DP World Tour.\nWatch on: Golf Channel.\nPublished time: No
+ vember 5\, 2026\, 2-8 a.m. ET.\nTerritory: United States.\nBroadcast detai
+ ls may change.\nOfficial source: https://www.golfchannel.com/dp-world-tour
+ /news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm
+ -this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c81ad6fe-d720-532a-8057-b32031f1b1a7
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261105T200000Z
+DTEND:20261105T230000Z
+SUMMARY:Watch: World Wide Technology Championship
+DESCRIPTION:Live tournament coverage of World Wide Technology Championship.
+ \nTour or organizer: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: N
+ ovember 5\, 2026\, 3-6 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://beta.pgatour.com/article/news/la
+ test/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fed
+ excup-fall-tv-times-coverage-details-leaderboard-updates\nOfficial announc
+ ement: https://www.golfchannel.com/pga-tour/news/2026-world-wide-technolog
+ y-championship-round-1-tee-times-groupings-how-to-watch
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c863fac6-4f54-544c-8cf7-a861ed7f28f5
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261106T070000Z
+DTEND:20261106T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship
+DESCRIPTION:Live tournament coverage of Abu Dhabi Aldar Championship.\nTour
+  or organizer: DP World Tour.\nWatch on: Golf Channel.\nPublished time: No
+ vember 6\, 2026\, 2-8 a.m. ET.\nTerritory: United States.\nBroadcast detai
+ ls may change.\nOfficial source: https://www.golfchannel.com/dp-world-tour
+ /news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm
+ -this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:58eaa219-e3e3-5ec1-9f9c-982a4296a165
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261106T200000Z
+DTEND:20261106T230000Z
+SUMMARY:Watch: World Wide Technology Championship
+DESCRIPTION:Live tournament coverage of World Wide Technology Championship.
+ \nTour or organizer: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: N
+ ovember 6\, 2026\, 3-6 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://beta.pgatour.com/article/news/la
+ test/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fed
+ excup-fall-tv-times-coverage-details-leaderboard-updates\nOfficial announc
+ ement: https://www.golfchannel.com/pga-tour/news/2026-world-wide-technolog
+ y-championship-round-2-tee-times-groupings-and-how-to-watch
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b2fba919-6333-58c5-a8bc-0561c151e57c
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261107T070000Z
+DTEND:20261107T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship
+DESCRIPTION:Live tournament coverage of Abu Dhabi Aldar Championship.\nTour
+  or organizer: DP World Tour.\nWatch on: Golf Channel.\nPublished time: No
+ vember 7\, 2026\, 2-8 a.m. ET.\nTerritory: United States.\nBroadcast detai
+ ls may change.\nOfficial source: https://www.golfchannel.com/dp-world-tour
+ /news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm
+ -this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:99178627-2a5e-57a8-8247-4ae516fae1fa
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:Watch: World Wide Technology Championship
+DESCRIPTION:Live tournament coverage of World Wide Technology Championship.
+ \nTour or organizer: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: N
+ ovember 7\, 2026\, 3-6 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://beta.pgatour.com/article/news/la
+ test/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fed
+ excup-fall-tv-times-coverage-details-leaderboard-updates\nOfficial announc
+ ement: https://www.golfchannel.com/watch/on-air-schedule
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3c0ee0d4-3609-5df8-a92e-80a76a6535e1
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261108T063000Z
+DTEND:20261108T123000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship
+DESCRIPTION:Live tournament coverage of Abu Dhabi Aldar Championship.\nTour
+  or organizer: DP World Tour.\nWatch on: Golf Channel.\nPublished time: No
+ vember 8\, 2026\, 1:30-7:30 a.m. ET.\nTerritory: United States.\nBroadcast
+  details may change.\nOfficial source: https://www.golfchannel.com/dp-worl
+ d-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jo
+ n-rahm-this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4cad6cc8-8033-524a-85a8-b0001fb25c53
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261108T200000Z
+DTEND:20261108T230000Z
+SUMMARY:Watch: World Wide Technology Championship
+DESCRIPTION:Live tournament coverage of World Wide Technology Championship.
+ \nTour or organizer: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: N
+ ovember 8\, 2026\, 3-6 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://beta.pgatour.com/article/news/la
+ test/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fed
+ excup-fall-tv-times-coverage-details-leaderboard-updates\nOfficial announc
+ ement: https://www.golfchannel.com/watch/on-air-schedule
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a3f311b1-0ba6-5e14-898f-d4ecb837cbaf
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Austin Championship presented by Compliance Solutions
+LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
+ exas\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
+  2026-11-15.\nCourse: Omni Barton Creek Resort & Spa\, Fazio Canyons Cours
+ e.\nLocation: Austin\, Texas\, USA.\nExact U.S. viewing windows will be ad
+ ded when officially published.\nSchedule details may change.\nOfficial sou
+ rce: https://www.pgatour.com/article/news/latest/2026/11/02/compliance-sol
+ utions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-fall
+URL:https://www.pgatour.com/article/news/latest/2026/11/02/compliance-solut
+ ions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-fall
+CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR,FEDEXCUP FALL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c2a390bc-dfe9-55c0-b217-62aecae88923
+DTSTAMP:20261102T222124Z
+LAST-MODIFIED:20261102T222124Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Charles Schwab Cup Championship
+LOCATION:Phoenix Country Club - Phoenix\, Arizona\, USA
+DESCRIPTION:PGA TOUR Champions - Charles Schwab Cup Playoffs.\nTournament d
+ ates: 2026-11-12 through 2026-11-15.\nCourse: Phoenix Country Club.\nLocat
+ ion: Phoenix\, Arizona\, USA.\nExact U.S. viewing windows will be added wh
+ en officially published.\nSchedule details may change.\nOfficial source: h
+ ttps://www.pgatour.com/pgatour-champions/tournaments/2026/charles-schwab-c
+ up-championship/S2026539/overview
+URL:https://www.pgatour.com/pgatour-champions/tournaments/2026/charles-schw
+ ab-cup-championship/S2026539/overview
+CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR CHAMPIONS,CHARLES SCHWAB CUP PLAY
+ OFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:fda0f3d5-5e09-5038-b325-adb6dcb30fb7
+DTSTAMP:20261102T222124Z
+LAST-MODIFIED:20261102T222124Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:DP World Tour Championship\, Dubai
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
+ -11-12 through 2026-11-15.\nCourse: Jumeirah Golf Estates\, Earth Course.\
+ nLocation: Dubai\, United Arab Emirates.\nExact U.S. viewing windows will 
+ be added when officially published.\nSchedule details may change.\nOfficia
+ l source: https://www.europeantour.com/dpworld-tour/dp-world-tour-champion
+ ship-dubai-2026/
+URL:https://www.europeantour.com/dpworld-tour/dp-world-tour-championship-du
+ bai-2026/
+CATEGORIES:SPORTS,GOLF,LATE 2026,DP WORLD TOUR,RACE TO DUBAI PLAY-OFF
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ff683c8b-cd54-512e-946b-14b6d205fde0
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART:20261112T070000Z
+DTEND:20261112T130000Z
+SUMMARY:Watch: DP World Tour Championship
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Live tournament coverage of DP World Tour Championship.\nTour o
+ r organizer: DP World Tour.\nWatch on: Golf Channel + Golf Channel mobile.
+ \nPublished time: November 12\, 2026\, 2-8AM EST.\nTerritory: United State
+ s.\nBroadcast details may change.\nOfficial source: https://www.golfchanne
+ l.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stre
+ am
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL,GOLF CHANNEL MO
+ BILE
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d59464d4-6c88-5bf7-9109-e988515037f2
+DTSTAMP:20261110T140105Z
+LAST-MODIFIED:20261110T140105Z
+SEQUENCE:1
+DTSTART:20261112T143000Z
+DTEND:20261112T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live first round coverage of Austin Championship presented by C
+ ompliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: ESPN+.\nPubl
+ ished time: November 12\, 2026\, 9:30 a.m.-5 p.m. ET.\nTerritory: United S
+ tates.\nBroadcast details may change.\nOfficial source: https://beta.pgato
+ ur.com/es/article/news/the-first-look/2026/11/09/the-first-look-austin-cha
+ mpionship-omni-barton-creek
+URL:https://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-
+ first-look-austin-championship-omni-barton-creek
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,ESPN+
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:664e0b3e-74b0-55a4-b0ef-2395260b24bd
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261112T190000Z
+DTEND:20261112T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live first round coverage of Austin Championship presented by C
+ ompliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: Golf Channel
+  + GOLF App.\nPublished time: November 12\, 2026\, 1:00-4:00 p.m. CST.\nTe
+ rritory: United States.\nBroadcast details may change.\nOfficial source: h
+ ttps://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL,GOLF APP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:060d51a6-0caf-5ef0-ac1b-2bfdfb4be554
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261112T220000Z
+DTEND:20261113T000000Z
+SUMMARY:Watch: Charles Schwab Cup Championship
+DESCRIPTION:Live first round coverage of Charles Schwab Cup Championship.\n
+ Tour or organizer: PGA TOUR Champions.\nWatch on: Golf Channel.\nPublished
+  time: November 12\, 2026\, 3 p.m. - 5 p.m..\nTerritory: United States.\nT
+ he tournament spectator schedule is interpreted in Phoenix local time for 
+ the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET s
+ treaming start without a published end time.\nBroadcast details may change
+ .\nOfficial source: https://www.charlesschwabcupchampionship.com/fans/sche
+ dule-of-events
+URL:https://www.charlesschwabcupchampionship.com/fans/schedule-of-events
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Charles Schwab Cup Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5d614164-877e-5076-a6e6-be085e1cf012
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART:20261113T070000Z
+DTEND:20261113T130000Z
+SUMMARY:Watch: DP World Tour Championship
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Live tournament coverage of DP World Tour Championship.\nTour o
+ r organizer: DP World Tour.\nWatch on: Golf Channel + Golf Channel mobile.
+ \nPublished time: November 13\, 2026\, 2-8AM EST.\nTerritory: United State
+ s.\nBroadcast details may change.\nOfficial source: https://www.golfchanne
+ l.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stre
+ am
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL,GOLF CHANNEL MO
+ BILE
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:eaba0882-3004-5942-b425-4d0820178326
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261113T143000Z
+DTEND:20261113T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live second round coverage of Austin Championship presented by 
+ Compliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: ESPN+.\nPub
+ lished time: November 13\, 2026\, 8:30 a.m.-4:00 p.m. CST.\nTerritory: Uni
+ ted States.\nBroadcast details may change.\nOfficial source: https://www.a
+ ustinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,ESPN+
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:293cfa3e-7432-54a0-adfe-abcd7c1ee35b
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261113T190000Z
+DTEND:20261113T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live second round coverage of Austin Championship presented by 
+ Compliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: Golf Channe
+ l + GOLF App.\nPublished time: November 13\, 2026\, 1:00-4:00 p.m. CST.\nT
+ erritory: United States.\nBroadcast details may change.\nOfficial source: 
+ https://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL,GOLF APP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d8704661-8262-5a1d-8f61-9ab46541520d
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261113T220000Z
+DTEND:20261114T000000Z
+SUMMARY:Watch: Charles Schwab Cup Championship
+DESCRIPTION:Live second round coverage of Charles Schwab Cup Championship.\
+ nTour or organizer: PGA TOUR Champions.\nWatch on: Golf Channel.\nPublishe
+ d time: November 13\, 2026\, 3 p.m. - 5 p.m..\nTerritory: United States.\n
+ The tournament spectator schedule is interpreted in Phoenix local time for
+  the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET 
+ streaming start without a published end time.\nBroadcast details may chang
+ e.\nOfficial source: https://www.charlesschwabcupchampionship.com/fans/sch
+ edule-of-events
+URL:https://www.charlesschwabcupchampionship.com/fans/schedule-of-events
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Charles Schwab Cup Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0e9ade02-a644-5afb-b162-c302c9bd6d67
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART:20261114T070000Z
+DTEND:20261114T130000Z
+SUMMARY:Watch: DP World Tour Championship
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Live tournament coverage of DP World Tour Championship.\nTour o
+ r organizer: DP World Tour.\nWatch on: Golf Channel + Golf Channel mobile.
+ \nPublished time: November 14\, 2026\, 2-8AM EST.\nTerritory: United State
+ s.\nBroadcast details may change.\nOfficial source: https://www.golfchanne
+ l.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stre
+ am
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL,GOLF CHANNEL MO
+ BILE
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7661ad05-cd06-54d5-9233-4c9d72a4d531
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live third round coverage of Austin Championship presented by C
+ ompliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: Golf Channel
+  + GOLF App.\nPublished time: November 14\, 2026\, 1:00-4:00 p.m. CST.\nTe
+ rritory: United States.\nBroadcast details may change.\nOfficial source: h
+ ttps://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL,GOLF APP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4350e065-e0e5-51ac-899c-566d856128bd
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261114T220000Z
+DTEND:20261115T000000Z
+SUMMARY:Watch: Charles Schwab Cup Championship
+DESCRIPTION:Live third round coverage of Charles Schwab Cup Championship.\n
+ Tour or organizer: PGA TOUR Champions.\nWatch on: Golf Channel.\nPublished
+  time: November 14\, 2026\, 3 p.m. - 5 p.m..\nTerritory: United States.\nT
+ he tournament spectator schedule is interpreted in Phoenix local time for 
+ the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET s
+ treaming start without a published end time.\nBroadcast details may change
+ .\nOfficial source: https://www.charlesschwabcupchampionship.com/fans/sche
+ dule-of-events
+URL:https://www.charlesschwabcupchampionship.com/fans/schedule-of-events
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Charles Schwab Cup Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b3acfbb4-7072-54b3-b26f-6a1907d3908f
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART:20261115T063000Z
+DTEND:20261115T123000Z
+SUMMARY:Watch: DP World Tour Championship
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Live tournament coverage of DP World Tour Championship.\nTour o
+ r organizer: DP World Tour.\nWatch on: Golf Channel + Golf Channel mobile.
+ \nPublished time: November 15\, 2026\, 1:30-7:30AM EST.\nTerritory: United
+  States.\nBroadcast details may change.\nOfficial source: https://www.golf
+ channel.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watc
+ h-stream
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL,GOLF CHANNEL MO
+ BILE
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:43b1fc28-d03b-5a4e-9f1e-a3d06ecf30e9
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261115T190000Z
+DTEND:20261115T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live final round coverage of Austin Championship presented by C
+ ompliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: Golf Channel
+  + GOLF App.\nPublished time: November 15\, 2026\, 1:00-4:00 p.m. CST.\nTe
+ rritory: United States.\nBroadcast details may change.\nOfficial source: h
+ ttps://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL,GOLF APP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e0ad079a-5101-587e-b00b-13766611a894
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261115T220000Z
+DTEND:20261116T000000Z
+SUMMARY:Watch: Charles Schwab Cup Championship
+DESCRIPTION:Live final round coverage of Charles Schwab Cup Championship.\n
+ Tour or organizer: PGA TOUR Champions.\nWatch on: Golf Channel.\nPublished
+  time: November 15\, 2026\, 3 p.m. - 5 p.m..\nTerritory: United States.\nT
+ he tournament spectator schedule is interpreted in Phoenix local time for 
+ the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET s
+ treaming start without a published end time.\nBroadcast details may change
+ .\nOfficial source: https://www.charlesschwabcupchampionship.com/fans/sche
+ dule-of-events
+URL:https://www.charlesschwabcupchampionship.com/fans/schedule-of-events
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Charles Schwab Cup Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5f55591c-9371-5c56-abe2-53db63e8f228
+DTSTAMP:20261102T222124Z
+LAST-MODIFIED:20261102T222124Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261123
+SUMMARY:The RSM Classic
+LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
+  Island\, Georgia\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
+  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+ s.\nLocation: St. Simons Island\, Georgia\, USA.\nExact U.S. viewing windo
+ ws will be added when officially published.\nSchedule details may change.\
+ nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-classic
+ /R2026493/overview
+URL:https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493/overv
+ iew
+CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR,FEDEXCUP FALL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:24bf4532-eb66-5d5f-975a-5ea5856db535
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261119T170000Z
+DTEND:20261119T200000Z
+SUMMARY:Watch: The RSM Classic
+DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
+ : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 19\, 2026\,
+  12-3pm (Sea Island local time).\nTerritory: United States.\nBroadcast det
+ ails may change.\nOfficial source: https://rsmclassic.com/spectator-info/a
+ ll/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:33d4497c-4a64-5715-99e6-591e06979797
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261120T170000Z
+DTEND:20261120T200000Z
+SUMMARY:Watch: The RSM Classic
+DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
+ : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 20\, 2026\,
+  12-3pm (Sea Island local time).\nTerritory: United States.\nBroadcast det
+ ails may change.\nOfficial source: https://rsmclassic.com/spectator-info/a
+ ll/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5909ef0a-4e3f-5440-823b-17eb6c73bbee
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:Watch: The RSM Classic
+DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
+ : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 21\, 2026\,
+  1-4pm (Sea Island local time).\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://rsmclassic.com/spectator-info/al
+ l/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:597a01d1-0dfc-57da-89a1-3edae15b07d4
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Watch: The RSM Classic
+DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
+ : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 22\, 2026\,
+  1-4pm (Sea Island local time).\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://rsmclassic.com/spectator-info/al
+ l/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:526e5aa6-b0f4-5ab6-8858-5d9db7874f58
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261130
+SUMMARY:BMW Australian PGA Championship
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
+ ion: Sydney\, Australia.\nViewing: Exact 2027 broadcast times and platform
+ s have not yet been published\; check the tours' official viewing pages cl
+ oser to the event.\nSchedule details may change.\nPGA TOUR source: https:/
+ /www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-sc
+ hedule-through-tour-championship\nDP World Tour source: https://www.europe
+ antour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5db3d3c5-3e85-5790-ae43-9da9a81e99d4
+DTSTAMP:20261102T222124Z
+LAST-MODIFIED:20261102T222124Z
+SEQUENCE:0
+DTSTART:20261127T140000Z
+DTEND:20261127T190000Z
+SUMMARY:Watch: Farmers Insurance Skins Game
+LOCATION:Atlantic Fields Club - Hobe Sound\, Florida\, USA
+DESCRIPTION:PGA TOUR Studios - Special event.\nPublished start: Friday\, No
+ vember 27\, 2026\, 9 a.m. ET.\nWatch on: Prime Video.\nCourse: Atlantic Fi
+ elds Club.\nLocation: Hobe Sound\, Florida\, USA.\nJackson Koivun\, Justin
+  Thomas\, Brooks Koepka and Wyndham Clark headline the four-player Skins G
+ ame. Prime Video is free for this event\; no Amazon Prime membership is re
+ quired.\nThe official announcement provides the 9 a.m. ET start but no end
+  time. The 2 p.m. ET calendar end is a clearly marked estimate and will be
+  corrected if an official window is published.\nSchedule details may chang
+ e.\nOfficial source: https://www.pgatour.com/article/news/latest/2026/10/1
+ 3/jackson-koivun-brooks-koepka-wyndham-clark-justin-thomas-skins-game-blac
+ k-friday-prime-video-atlantic-field-club
+URL:https://www.pgatour.com/article/news/latest/2026/10/13/jackson-koivun-b
+ rooks-koepka-wyndham-clark-justin-thomas-skins-game-black-friday-prime-vid
+ eo-atlantic-field-club
+CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR STUDIOS,SPECIAL EVENT,PRIME VIDEO
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Farmers Insurance Skins Game
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3b83443b-a88c-5244-b63e-8d340c4afcf5
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Capital.com Australian Open
+LOCATION:Kingston Heath Golf Club - Melbourne\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): Kingston Heath Golf Club.\n
+ Location: Melbourne\, Australia.\nViewing: Exact 2027 broadcast times and 
+ platforms have not yet been published\; check the tours' official viewing 
+ pages closer to the event.\nSchedule details may change.\nPGA TOUR source:
+  https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces
+ -2027-schedule-through-tour-championship\nDP World Tour source: https://ww
+ w.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c8527b14-e141-5da9-8268-c08a9682862a
+DTSTAMP:20261102T222124Z
+LAST-MODIFIED:20261102T222124Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Hero World Challenge
+LOCATION:Albany Golf Course - Albany\, Bahamas
+DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
+ 26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
+ y\, Bahamas.\nExact U.S. viewing windows will be added when officially pub
+ lished.\nSchedule details may change.\nOfficial source: https://www.pgatou
+ r.com/tournaments/2026/hero-world-challenge/R2026478/overview
+URL:https://www.pgatour.com/tournaments/2026/hero-world-challenge/R2026478/
+ overview
+CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR UNOFFICIAL EVENT,INVITATIONAL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4616b56b-7863-5d34-8a24-d7a8d99d554c
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Nedbank Golf Challenge in honour of Gary Player
+LOCATION:Gary Player Country Club - Sun City\, South Africa
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 4\,000.\nCourse(s): Gary Player Country Club.\n
+ Location: Sun City\, South Africa.\nViewing: Exact 2027 broadcast times an
+ d platforms have not yet been published\; check the tours' official viewin
+ g pages closer to the event.\nSchedule details may change.\nPGA TOUR sourc
+ e: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announc
+ es-2027-schedule-through-tour-championship\nDP World Tour source: https://
+ www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:563ba56e-a42c-5c56-bda1-4eb5a56fc20c
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Skechers World Champions Cup supporting Shriners Children's
+LOCATION:Feather Sound Country Club - Clearwater\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions - Challenge Season.\nTournament dates: 2026-
+ 12-03 through 2026-12-06.\nCourse: Feather Sound Country Club.\nLocation: 
+ Clearwater\, Florida\, USA.\nCompetition and U.S. television coverage are 
+ scheduled for December 3\, 4 and 6.\nExact U.S. viewing windows will be ad
+ ded when officially published.\nSchedule details may change.\nOfficial sou
+ rce: https://worldchampionscup.com/tickets-for-2026-skechers-world-champio
+ ns-cup-supporting-shriners-childrens-on-sale-september-14/
+URL:https://worldchampionscup.com/tickets-for-2026-skechers-world-champions
+ -cup-supporting-shriners-childrens-on-sale-september-14/
+CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR CHAMPIONS,CHALLENGE SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:35e6b591-2c94-56c3-8ff0-0bb8dafccd5c
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261203T143000Z
+DTEND:20261203T170000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 1 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ Golf Channel.\nPublished time: December 3\, 2026\, 9:30 AM – 12:00 PM ET
+ .\nTerritory: United States.\nBroadcast details may change.\nOfficial sour
+ ce: https://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a0eeb6fe-f24c-50b7-85f0-5fa9534cec5d
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261203T170000Z
+DTEND:20261203T210000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 2 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ ESPN2.\nPublished time: December 3\, 2026\, 12:00 PM – 4:00 PM ET.\nTerr
+ itory: United States.\nBroadcast details may change.\nOfficial source: htt
+ ps://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:da7656e5-00b2-5a2f-be9b-a051859551a1
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261203T183000Z
+DTEND:20261203T213000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
+ : December 3\, 2026\, 1:30-4:30 p.m. ET.\nTerritory: United States.\nBroad
+ cast details may change.\nOfficial source: https://heroworldchallenge.com/
+ spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b8058f43-1ae1-548b-b018-c39a5770a012
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261204T143000Z
+DTEND:20261204T170000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 3 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ Golf Channel.\nPublished time: December 4\, 2026\, 9:30 AM – 12:00 PM ET
+ .\nTerritory: United States.\nBroadcast details may change.\nOfficial sour
+ ce: https://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:70c1b6fa-2757-531c-b88f-83d108e4aa0a
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261204T170000Z
+DTEND:20261204T210000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 4 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ ESPN2.\nPublished time: December 4\, 2026\, 12:00 PM – 4:00 PM ET.\nTerr
+ itory: United States.\nBroadcast details may change.\nOfficial source: htt
+ ps://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:546a7d13-44f6-5b92-8a93-2b3efcd071b9
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261204T183000Z
+DTEND:20261204T213000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
+ : December 4\, 2026\, 1:30-4:30 p.m. ET.\nTerritory: United States.\nBroad
+ cast details may change.\nOfficial source: https://heroworldchallenge.com/
+ spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a3101f66-d779-5437-9066-78f50ceb2b7d
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261205T170000Z
+DTEND:20261205T193000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
+ : December 5\, 2026\, 12-2:30 p.m. ET.\nTerritory: United States.\nBroadca
+ st details may change.\nOfficial source: https://heroworldchallenge.com/sp
+ ectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7b874ae1-45e9-5de0-b86e-45c950bd6856
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261205T193000Z
+DTEND:20261205T220000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: NBC.\nPublished time: Decembe
+ r 5\, 2026\, 2:30-5 p.m. ET.\nTerritory: United States.\nBroadcast details
+  may change.\nOfficial source: https://heroworldchallenge.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,NBC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ab68c41a-d54a-52cd-ae2e-0f18f3279a0f
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261206T143000Z
+DTEND:20261206T160000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 5 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ Golf Channel.\nPublished time: December 6\, 2026\, 9:30 AM – 11:00 AM ET
+ .\nTerritory: United States.\nBroadcast details may change.\nOfficial sour
+ ce: https://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a6dcb4bc-ddae-55d4-bc86-4d5bba2f6ea5
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261206T163000Z
+DTEND:20261206T183000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
+ : December 6\, 2026\, 11:30 a.m.-1:30 p.m. ET.\nTerritory: United States.\
+ nBroadcast details may change.\nOfficial source: https://heroworldchalleng
+ e.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4a1469ae-879c-562d-9cdd-6c8e294eb5c1
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 6 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ ABC.\nPublished time: December 6\, 2026\, 1:00 PM – 4:00 PM ET.\nTerrito
+ ry: United States.\nBroadcast details may change.\nOfficial source: https:
+ //worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,ABC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b51666f9-a476-5f61-ba23-a761b034efb3
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261206T183000Z
+DTEND:20261206T213000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: NBC.\nPublished time: Decembe
+ r 6\, 2026\, 1:30-4:30 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://heroworldchallenge.com/spectator
+ /
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,NBC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d4fba4b9-42af-5f49-a9f6-0e74bdb3f721
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+SUMMARY:AfrAsia Bank Mauritius Open
+LOCATION:Mont Choisy Le Golf - Grand Baie\, Mauritius
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): Mont Choisy Le Golf.\nLocat
+ ion: Grand Baie\, Mauritius.\nViewing: Exact 2027 broadcast times and plat
+ forms have not yet been published\; check the tours' official viewing page
+ s closer to the event.\nSchedule details may change.\nPGA TOUR source: htt
+ ps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-202
+ 7-schedule-through-tour-championship\nDP World Tour source: https://www.eu
+ ropeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9f61df91-fdd2-5a2d-bd19-97051e71d3e2
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+SUMMARY:PGA TOUR Q-School presented by Korn Ferry
+LOCATION:TPC Sawgrass (Dye's Valley Course) and Sawgrass Country Club - Pon
+ te Vedra Beach\, Florida\, USA
+DESCRIPTION:PGA TOUR - Qualifying tournament.\nTournament dates: 2026-12-10
+  through 2026-12-13.\nCourse: TPC Sawgrass (Dye's Valley Course) and Sawgr
+ ass Country Club.\nLocation: Ponte Vedra Beach\, Florida\, USA.\nExact U.S
+ . viewing windows will be added when officially published.\nSchedule detai
+ ls may change.\nOfficial source: https://www.pgatour.com/article/news/how-
+ it-works/how-it-works-2026-pga-tour-q-school-presented-by-korn-ferry
+URL:https://www.pgatour.com/article/news/how-it-works/how-it-works-2026-pga
+ -tour-q-school-presented-by-korn-ferry
+CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR,QUALIFYING TOURNAMENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2e46f8cb-b57e-5537-86ba-a0c5d820a27c
+DTSTAMP:20261102T222124Z
+LAST-MODIFIED:20261102T222124Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261221
+SUMMARY:PNC Championship
+LOCATION:Ritz-Carlton Golf Club Orlando - Orlando\, Florida\, USA
+DESCRIPTION:PNC Championship - Family team event.\nTournament dates: 2026-1
+ 2-17 through 2026-12-20.\nCourse: Ritz-Carlton Golf Club Orlando.\nLocatio
+ n: Orlando\, Florida\, USA.\nOfficial event dates currently cover December
+  17-20\; daily competition and broadcast windows will be added when publis
+ hed.\nExact U.S. viewing windows will be added when officially published.\
+ nSchedule details may change.\nOfficial source: https://www.pncchampionshi
+ p.com/schedule-of-events/
+URL:https://www.pncchampionship.com/schedule-of-events/
+CATEGORIES:SPORTS,GOLF,LATE 2026,PNC CHAMPIONSHIP,FAMILY TEAM EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:20e98b8f-71f6-54f2-8bcb-7b9018a53cd3
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:1
+DTSTART:20261217T000000Z
+DTEND:20261217T040000Z
+SUMMARY:Watch: Optum Golf Channel Games
+LOCATION:Trump National Golf Club Jupiter - Jupiter\, Florida\, USA
+DESCRIPTION:Live primetime event coverage of Optum Golf Channel Games.\nTou
+ r or organizer: Golf Channel / PGA TOUR Studios.\nWatch on: Golf Channel +
+  USA Network.\nPublished time: Wednesday\, December 16\, 2026\, 7-11 p.m. 
+ ET.\nTerritory: United States.\nRory McIlroy and Scottie Scheffler captain
+  opposing four-player teams. Golf Channel lists pregame from 7–7:30 p.m.
+ \, competition from 7:30–10:30 p.m.\, and postgame from 10:30–11 p.m. 
+ Eastern.\nBroadcast details may change.\nOfficial source: https://thegolfc
+ hannelgames.com/\nOfficial announcement: https://www.golfchannel.com/news/
+ news/2026-optum-golf-channel-games-how-to-watch-teams-competition-lineup
+URL:https://thegolfchannelgames.com/
+CATEGORIES:SPORTS,GOLF,BROADCAST,GOLF CHANNEL / PGA TOUR STUDIOS,GOLF CHANN
+ EL,USA NETWORK
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Optum Golf Channel Games
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:dab74d2e-681c-5b89-8b35-63fecdf4fa80
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20261227T180000Z
+DTEND:20261227T200000Z
+SUMMARY:TGL: Boston Common Golf vs. Motor City Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Boston Common Golf vs. Mot
+ or City Golf Club.\nPublished time: Sunday\, December 27\, 2026\, 1 p.m. E
+ T.\nU.S. network: ESPN.\nCalendar end time is set two hours after the offi
+ cial start based on TGL's official approximate match length\; actual compl
+ etion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule
+  announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-
+ so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-r
+ ules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Boston Common Golf vs. Motor City Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9df7dae0-b387-553e-b4fe-1d2ae046ac67
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20261227T200000Z
+DTEND:20261227T220000Z
+SUMMARY:TGL: Jupiter Links Golf Club vs. Los Angeles Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Jupiter Links Golf Club vs
+ . Los Angeles Golf Club.\nPublished time: Sunday\, December 27\, 2026\, 3 
+ p.m. ET.\nU.S. network: ABC.\nCalendar end time is set two hours after the
+  official start based on TGL's official approximate match length\; actual 
+ completion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSch
+ edule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presente
+ d-by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offic
+ ial-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Jupiter Links Golf Club vs. Los Angeles Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f7691b65-d9ce-5e5d-b411-e53e58941b91
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270103T180000Z
+DTEND:20270103T200000Z
+SUMMARY:TGL: The Bay Golf Club vs. New York Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: The Bay Golf Club vs. New 
+ York Golf Club.\nPublished time: Sunday\, January 3\, 2027\, 1 p.m. ET.\nU
+ .S. network: ESPN.\nCalendar end time is set two hours after the official 
+ start based on TGL's official approximate match length\; actual completion
+  may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule anno
+ uncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi
+ -season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: The Bay Golf Club vs. New York Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5bcdd933-4838-5ff9-836e-564615e72b1a
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270106T020000Z
+DTEND:20270106T040000Z
+SUMMARY:TGL: Atlanta Drive GC vs. The Bay Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Atlanta Drive GC vs. The B
+ ay Golf Club.\nPublished time: Tuesday\, January 5\, 2027\, 9 p.m. ET.\nU.
+ S. network: ESPN2.\nCalendar end time is set two hours after the official 
+ start based on TGL's official approximate match length\; actual completion
+  may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule anno
+ uncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi
+ -season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Atlanta Drive GC vs. The Bay Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:769119e1-b96c-5f4a-bdbc-edacf083a949
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270109T170000Z
+DTEND:20270109T190000Z
+SUMMARY:TGL: New York Golf Club vs. Atlanta Drive GC
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: New York Golf Club vs. Atl
+ anta Drive GC.\nPublished time: Saturday\, January 9\, 2027\, noon ET.\nU.
+ S. network: ABC.\nCalendar end time is set two hours after the official st
+ art based on TGL's official approximate match length\; actual completion m
+ ay vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule announ
+ cement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-s
+ eason-schedule\nDuration basis: https://tglgolf.com/info/official-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: New York Golf Club vs. Atlanta Drive GC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:81fd7a3e-87c4-5142-b3a6-41467a71452e
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270110T210000Z
+DTEND:20270110T230000Z
+SUMMARY:TGL: Motor City Golf Club vs. Jupiter Links Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Motor City Golf Club vs. J
+ upiter Links Golf Club.\nPublished time: Sunday\, January 10\, 2027\, 4 p.
+ m. ET.\nU.S. network: ABC.\nCalendar end time is set two hours after the o
+ fficial start based on TGL's official approximate match length\; actual co
+ mpletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSched
+ ule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-
+ by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/officia
+ l-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Motor City Golf Club vs. Jupiter Links Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4d19963f-37ca-5f43-b7c2-ac3f02dca9c9
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270113T000000Z
+DTEND:20270113T020000Z
+SUMMARY:TGL: Jupiter Links Golf Club vs. Boston Common Golf
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Jupiter Links Golf Club vs
+ . Boston Common Golf.\nPublished time: Tuesday\, January 12\, 2027\, 7 p.m
+ . ET.\nU.S. network: ESPN.\nCalendar end time is set two hours after the o
+ fficial start based on TGL's official approximate match length\; actual co
+ mpletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSched
+ ule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-
+ by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/officia
+ l-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Jupiter Links Golf Club vs. Boston Common Golf
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8979b687-03ab-5217-a288-c89646cd4d58
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
+SUMMARY:Sony Championship Hawaii
+LOCATION:Waialae Country Club - Honolulu\, Hawaii\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-01-14 through 2027-01-16.\nCourse: Waialae Country Club.\nLocation: Hon
+ olulu\, Hawaii\, USA.\nViewing: PGA TOUR Champions announced national Golf
+  Channel coverage\; exact daily windows will be added when published.\nSch
+ edule details may change.\nOfficial source: https://www.pgatour.com/pgatou
+ r-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-sc
+ hedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d7e33512-3207-5a12-9bf0-0ef635384848
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270118
+SUMMARY:Team Cup
+LOCATION:Abu Dhabi Golf Resort - Abu Dhabi\, United Arab Emirates
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
+ .\nRace to Dubai ranking points: 0.\nCourse(s): Abu Dhabi Golf Resort.\nLo
+ cation: Abu Dhabi\, United Arab Emirates.\nViewing: Exact 2027 broadcast t
+ imes and platforms have not yet been published\; check the tours' official
+  viewing pages closer to the event.\nSchedule details may change.\nPGA TOU
+ R source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-
+ announces-2027-schedule-through-tour-championship\nDP World Tour source: h
+ ttps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5853f21b-06e4-599f-b4a7-811a6a20f2f6
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270119
+SUMMARY:TGL: Los Angeles Golf Club vs. New York Golf Club — date tentativ
+ e
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Los Angeles Golf Club vs. 
+ New York Golf Club.\nPublished time: Sunday\, January 17 or Monday\, Janua
+ ry 18\, 2027\, 7 p.m. ET.\nU.S. network: ESPN.\nTGL has not finalized whet
+ her this match will be played January 17 or January 18. The two-day calend
+ ar range will be replaced with a timed event when the date is confirmed.\n
+ Official schedule: https://tglgolf.com/schedule\nSchedule announcement: ht
+ tps://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-sche
+ dule
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:43a84800-8d0f-59f0-a22f-63d427c8c2a4
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270119
+SUMMARY:TGL: The Bay Golf Club vs. Motor City Golf Club — date tentative
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: The Bay Golf Club vs. Moto
+ r City Golf Club.\nPublished time: Sunday\, January 17 or Monday\, January
+  18\, 2027\, 9 p.m. ET.\nU.S. network: ESPN.\nTGL has not finalized whethe
+ r this match will be played January 17 or January 18. The two-day calendar
+  range will be replaced with a timed event when the date is confirmed.\nOf
+ ficial schedule: https://tglgolf.com/schedule\nSchedule announcement: http
+ s://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-schedu
+ le
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:123866d0-c5e2-5639-a19e-b71ee7eab7a6
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+SUMMARY:Hero Dubai Desert Classic
+LOCATION:Emirates Golf Club - Dubai\, United Arab Emirates
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
+ .\nRace to Dubai ranking points: 8\,000.\nCourse(s): Emirates Golf Club.\n
+ Location: Dubai\, United Arab Emirates.\nViewing: Exact 2027 broadcast tim
+ es and platforms have not yet been published\; check the tours' official v
+ iewing pages closer to the event.\nSchedule details may change.\nPGA TOUR 
+ source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
+ nounces-2027-schedule-through-tour-championship\nDP World Tour source: htt
+ ps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c27e753b-463e-5155-9660-8428ef97371a
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270124
+SUMMARY:Mitsubishi Electric Championship at Hualalai
+LOCATION:Hualalai Golf Course - Ka'upulehu-Kona\, Hawaii\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-01-21 through 2027-01-23.\nCourse: Hualalai Golf Course.\nLocation: Ka'
+ upulehu-Kona\, Hawaii\, USA.\nThe tournament site confirms a Saturday fini
+ sh on January 23\, matching the PGA TOUR Champions announcement text. Tour
+ nament schedule: https://www.mecgolf.com/\nViewing: PGA TOUR Champions ann
+ ounced national Golf Channel coverage\; exact daily windows will be added 
+ when published.\nSchedule details may change.\nOfficial source: https://ww
+ w.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-to
+ ur-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a57f9b76-8976-57c0-bf71-1fd2c335d458
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+SUMMARY:The American Express
+LOCATION:PGA WEST (Pete Dye Stadium Course\, Nicklaus Tournament Course\, L
+ a Quinta Country Club) - La Quinta\, California\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: Jan. 18-24\, 2027.\nFedExCup points: 500.\nCourse(s
+ ): PGA WEST (Pete Dye Stadium Course\, Nicklaus Tournament Course\, La Qui
+ nta Country Club).\nLocation: La Quinta\, California\, USA.\nViewing: Exac
+ t 2027 broadcast times and platforms have not yet been published\; check t
+ he tours' official viewing pages closer to the event.\nSchedule details ma
+ y change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/20
+ 26/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP Wo
+ rld Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5438dd7c-e301-5b60-a219-dc87ae14a1c2
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270131
+SUMMARY:The Sentry
+LOCATION:Torrey Pines Golf Course (South Course\, North Course) - San Diego
+ \, California\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: Jan. 25-30\, 2027.\nFedExCup points: 500.\nCourse(s
+ ): Torrey Pines Golf Course (South Course\, North Course).\nLocation: San 
+ Diego\, California\, USA.\nWednesday-Saturday competition\; the only sched
+ uled Saturday finish on TOUR.\nViewing: Exact 2027 broadcast times and pla
+ tforms have not yet been published\; check the tours' official viewing pag
+ es closer to the event.\nSchedule details may change.\nPGA TOUR source: ht
+ tps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-20
+ 27-schedule-through-tour-championship\nDP World Tour source: https://www.e
+ uropeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f5ca0986-e4de-5613-9a9f-2f1985f359d1
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270201
+SUMMARY:Bapco Energies Bahrain Championship
+LOCATION:Royal Golf Club - Kingdom of Bahrain\, Bahrain
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
+ .\nRace to Dubai ranking points: 3\,500.\nCourse(s): Royal Golf Club.\nLoc
+ ation: Kingdom of Bahrain\, Bahrain.\nViewing: Exact 2027 broadcast times 
+ and platforms have not yet been published\; check the tours' official view
+ ing pages closer to the event.\nSchedule details may change.\nPGA TOUR sou
+ rce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-annou
+ nces-2027-schedule-through-tour-championship\nDP World Tour source: https:
+ //www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0e120802-8813-568f-8922-452f67ea4d3a
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270201T000000Z
+DTEND:20270201T020000Z
+SUMMARY:TGL: Atlanta Drive GC vs. Boston Common Golf
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Atlanta Drive GC vs. Bosto
+ n Common Golf.\nPublished time: Sunday\, January 31\, 2027\, 7 p.m. ET.\nU
+ .S. network: ESPN2.\nCalendar end time is set two hours after the official
+  start based on TGL's official approximate match length\; actual completio
+ n may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule ann
+ ouncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-f
+ i-season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Atlanta Drive GC vs. Boston Common Golf
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0bc6b3f0-9dfe-5deb-929f-783263b15885
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270207
+SUMMARY:Qatar Masters
+LOCATION:Doha Golf Club - Doha\, Qatar
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
+ .\nRace to Dubai ranking points: 3\,500.\nCourse(s): Doha Golf Club.\nLoca
+ tion: Doha\, Qatar.\nViewing: Exact 2027 broadcast times and platforms hav
+ e not yet been published\; check the tours' official viewing pages closer 
+ to the event.\nSchedule details may change.\nPGA TOUR source: https://www.
+ pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedul
+ e-through-tour-championship\nDP World Tour source: https://www.europeantou
+ r.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:95dbdbbb-128b-51a5-b085-dbdc42b5c7b3
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270208
+SUMMARY:AT&T Pebble Beach Pro-Am
+LOCATION:Pebble Beach Golf Links\, Spyglass Hill Golf Course - Pebble Beach
+ \, California\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
+ ficial tournament week: Feb. 1-7\, 2027.\nFedExCup points: 700.\nCourse(s)
+ : Pebble Beach Golf Links\, Spyglass Hill Golf Course.\nLocation: Pebble B
+ each\, California\, USA.\nViewing: Exact 2027 broadcast times and platform
+ s have not yet been published\; check the tours' official viewing pages cl
+ oser to the event.\nSchedule details may change.\nPGA TOUR source: https:/
+ /www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-sc
+ hedule-through-tour-championship\nDP World Tour source: https://www.europe
+ antour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:bc5d2314-01a1-5183-9cfa-ed0df6627e5b
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270210T020000Z
+DTEND:20270210T040000Z
+SUMMARY:TGL: New York Golf Club vs. Jupiter Links Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: New York Golf Club vs. Jup
+ iter Links Golf Club.\nPublished time: Tuesday\, February 9\, 2027\, 9 p.m
+ . ET.\nU.S. network: ESPN2.\nCalendar end time is set two hours after the 
+ official start based on TGL's official approximate match length\; actual c
+ ompletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSche
+ dule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented
+ -by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offici
+ al-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: New York Golf Club vs. Jupiter Links Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ddbf647b-ef0b-54b6-867b-884a0daa6e2f
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270215
+SUMMARY:WM Phoenix Open
+LOCATION:TPC Scottsdale (Stadium Course) - Scottsdale\, Arizona\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: Feb. 8-14\, 2027.\nFedExCup points: 500.\nCourse(s)
+ : TPC Scottsdale (Stadium Course).\nLocation: Scottsdale\, Arizona\, USA.\
+ nViewing: Exact 2027 broadcast times and platforms have not yet been publi
+ shed\; check the tours' official viewing pages closer to the event.\nSched
+ ule details may change.\nPGA TOUR source: https://www.pgatour.com/article/
+ news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champ
+ ionship\nDP World Tour source: https://www.europeantour.com/dpworld-tour/s
+ chedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:18a78077-1c6e-54c7-9e40-bd6be29ac3d1
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270215
+SUMMARY:Chubb Classic
+LOCATION:Tiburón Golf Club\, Black Course - Naples\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-02-12 through 2027-02-14.\nCourse: Tiburón Golf Club\, Black Course.\n
+ Location: Naples\, Florida\, USA.\nViewing: PGA TOUR Champions announced n
+ ational Golf Channel coverage\; exact daily windows will be added when pub
+ lished.\nSchedule details may change.\nOfficial source: https://www.pgatou
+ r.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champ
+ ions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:cca555d5-a28c-51ee-9ed5-9fdd5469c44a
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+SUMMARY:Magical Kenya Open
+LOCATION:Karen Country Club - Nairobi\, Kenya
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
+ .\nRace to Dubai ranking points: 3\,500.\nCourse(s): Karen Country Club.\n
+ Location: Nairobi\, Kenya.\nViewing: Exact 2027 broadcast times and platfo
+ rms have not yet been published\; check the tours' official viewing pages 
+ closer to the event.\nSchedule details may change.\nPGA TOUR source: https
+ ://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-
+ schedule-through-tour-championship\nDP World Tour source: https://www.euro
+ peantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:06eabe1f-c793-524e-b30e-182ab0a9f5d4
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+SUMMARY:PGA TOUR event (TBD)
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Additional Event.\nO
+ fficial tournament week: Feb. 15-21\, 2027.\nFedExCup points: 300.\nTourna
+ ment name\, venue and location remain to be announced.\nViewing: Exact 202
+ 7 broadcast times and platforms have not yet been published\; check the to
+ urs' official viewing pages closer to the event.\nSchedule details may cha
+ nge.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026/08
+ /26/pga-tour-announces-2027-schedule-through-tour-championship\nDP World T
+ our source: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:60819b27-43c2-5db1-9647-59d56ed88394
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+SUMMARY:The Genesis Invitational
+LOCATION:The Riviera Country Club - Pacific Palisades\, California\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
+ ficial tournament week: Feb. 15-21\, 2027.\nFedExCup points: 700.\nCourse(
+ s): The Riviera Country Club.\nLocation: Pacific Palisades\, California\, 
+ USA.\nViewing: Exact 2027 broadcast times and platforms have not yet been 
+ published\; check the tours' official viewing pages closer to the event.\n
+ Schedule details may change.\nPGA TOUR source: https://www.pgatour.com/art
+ icle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-
+ championship\nDP World Tour source: https://www.europeantour.com/dpworld-t
+ our/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3eacdbbf-b0b8-5290-90ac-986c3c66dde0
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270223T010000Z
+DTEND:20270223T030000Z
+SUMMARY:TGL: Motor City Golf Club vs. Los Angeles Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Motor City Golf Club vs. L
+ os Angeles Golf Club.\nPublished time: Monday\, February 22\, 2027\, 8 p.m
+ . ET.\nU.S. network: ESPN2.\nCalendar end time is set two hours after the 
+ official start based on TGL's official approximate match length\; actual c
+ ompletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSche
+ dule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented
+ -by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offici
+ al-rules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Motor City Golf Club vs. Los Angeles Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:db82939b-09ae-5fb2-9681-0b7631208419
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270223T220000Z
+DTEND:20270224T000000Z
+SUMMARY:TGL: Boston Common Golf vs. The Bay Golf Club
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Boston Common Golf vs. The
+  Bay Golf Club.\nPublished time: Tuesday\, February 23\, 2027\, 5 p.m. ET.
+ \nU.S. network: ESPN.\nCalendar end time is set two hours after the offici
+ al start based on TGL's official approximate match length\; actual complet
+ ion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule a
+ nnouncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so
+ -fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-rul
+ es
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Boston Common Golf vs. The Bay Golf Club
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:40476c2f-96df-55dd-8f84-7fa52bf829e1
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART:20270224T000000Z
+DTEND:20270224T020000Z
+SUMMARY:TGL: Los Angeles Golf Club vs. Atlanta Drive GC
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Los Angeles Golf Club vs. 
+ Atlanta Drive GC.\nPublished time: Tuesday\, February 23\, 2027\, 7 p.m. E
+ T.\nU.S. network: ESPN.\nCalendar end time is set two hours after the offi
+ cial start based on TGL's official approximate match length\; actual compl
+ etion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule
+  announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-
+ so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-r
+ ules
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Los Angeles Golf Club vs. Atlanta Drive GC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f4080872-8ac8-5aad-8719-1b889f91ff9a
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:Alfred Dunhill Championship
+LOCATION:Durban Country Club - Durban\, South Africa
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
+ .\nRace to Dubai ranking points: 3\,500.\nCourse(s): Durban Country Club.\
+ nLocation: Durban\, South Africa.\nViewing: Exact 2027 broadcast times and
+  platforms have not yet been published\; check the tours' official viewing
+  pages closer to the event.\nSchedule details may change.\nPGA TOUR source
+ : https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announce
+ s-2027-schedule-through-tour-championship\nDP World Tour source: https://w
+ ww.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8179f438-4e42-5d08-bf9f-98da006796ff
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:Cognizant Classic in The Palm Beaches
+LOCATION:PGA National Resort (The Champion Course) - Palm Beach Gardens\, F
+ lorida\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: Feb. 22-28\, 2027.\nFedExCup points: 500.\nCourse(s
+ ): PGA National Resort (The Champion Course).\nLocation: Palm Beach Garden
+ s\, Florida\, USA.\nViewing: Exact 2027 broadcast times and platforms have
+  not yet been published\; check the tours' official viewing pages closer t
+ o the event.\nSchedule details may change.\nPGA TOUR source: https://www.p
+ gatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule
+ -through-tour-championship\nDP World Tour source: https://www.europeantour
+ .com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b7811307-5992-5729-8e2a-98a484b7b9ab
+DTSTAMP:20261102T165806Z
+LAST-MODIFIED:20261102T165806Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270324
+SUMMARY:TGL 2027 Playoffs window — details TBD
+LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
+DESCRIPTION:TGL 2027 - Postseason.\nMatchup: Play-in\, Semifinals and best-
+ of-three SoFi Cup Finals.\nPublished time: March 1-23\, 2027\; exact match
+  dates and times to be announced.\nU.S. network: ESPN platforms.\nThis tra
+ nsparent date-range placeholder will be replaced by individual postseason 
+ matches when TGL publishes exact dates\, times\, networks and matchups.\nO
+ fficial schedule: https://tglgolf.com/schedule\nSchedule announcement: htt
+ ps://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-sched
+ ule
+URL:https://tglgolf.com/schedule
+CATEGORIES:SPORTS,GOLF,TGL,POSTSEASON,ESPN PLATFORMS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d78448cd-f8e1-5e59-bc29-b744f731e340
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270308
+SUMMARY:Cadillac Championship
+LOCATION:Trump National Doral (Blue Monster) - Miami\, Florida\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
+ ficial tournament week: March 1-7\, 2027.\nFedExCup points: 700.\nCourse(s
+ ): Trump National Doral (Blue Monster).\nLocation: Miami\, Florida\, USA.\
+ nViewing: Exact 2027 broadcast times and platforms have not yet been publi
+ shed\; check the tours' official viewing pages closer to the event.\nSched
+ ule details may change.\nPGA TOUR source: https://www.pgatour.com/article/
+ news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champ
+ ionship\nDP World Tour source: https://www.europeantour.com/dpworld-tour/s
+ chedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:73bc18e1-ae59-55ae-9325-bac5fc310e38
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270308
+SUMMARY:Investec South African Open Championship
+LOCATION:Stellenbosch Golf Club - Stellenbosch\, South Africa
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
+ .\nRace to Dubai ranking points: 3\,500.\nCourse(s): Stellenbosch Golf Clu
+ b.\nLocation: Stellenbosch\, South Africa.\nViewing: Exact 2027 broadcast 
+ times and platforms have not yet been published\; check the tours' officia
+ l viewing pages closer to the event.\nSchedule details may change.\nPGA TO
+ UR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour
+ -announces-2027-schedule-through-tour-championship\nDP World Tour source: 
+ https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e0033a62-0827-5782-b6aa-b90d24740644
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+SUMMARY:James Hardie Pro Football Hall of Fame Invitational
+LOCATION:The Old Course at Broken Sound Club - Boca Raton\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-03-05 through 2027-03-07.\nCourse: The Old Course at Broken Sound Club.
+ \nLocation: Boca Raton\, Florida\, USA.\nViewing: PGA TOUR Champions annou
+ nced national Golf Channel coverage\; exact daily windows will be added wh
+ en published.\nSchedule details may change.\nOfficial source: https://www.
+ pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour
+ -champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:193537ec-45f5-5c54-9cf0-53c84de5d5b0
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+SUMMARY:Joburg Open
+LOCATION:Randpark Golf Club - Johannesburg\, South Africa
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
+ .\nRace to Dubai ranking points: 3\,000.\nCourse(s): Randpark Golf Club.\n
+ Location: Johannesburg\, South Africa.\nViewing: Exact 2027 broadcast time
+ s and platforms have not yet been published\; check the tours' official vi
+ ewing pages closer to the event.\nSchedule details may change.\nPGA TOUR s
+ ource: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-ann
+ ounces-2027-schedule-through-tour-championship\nDP World Tour source: http
+ s://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ecd37648-1a15-5760-92ad-7f5c91de081f
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+SUMMARY:THE PLAYERS Championship
+LOCATION:TPC Sawgrass (THE PLAYERS Stadium Course) - Ponte Vedra Beach\, Fl
+ orida\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: March 8-14\, 2027.\nFedExCup points: 750.\nCourse(s
+ ): TPC Sawgrass (THE PLAYERS Stadium Course).\nLocation: Ponte Vedra Beach
+ \, Florida\, USA.\nViewing: Exact 2027 broadcast times and platforms have 
+ not yet been published\; check the tours' official viewing pages closer to
+  the event.\nSchedule details may change.\nPGA TOUR source: https://www.pg
+ atour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-
+ through-tour-championship\nDP World Tour source: https://www.europeantour.
+ com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4a8b37ba-eb4a-5a6c-8f46-7577f7f517d7
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:Arnold Palmer Invitational presented by Mastercard
+LOCATION:Arnold Palmer's Bay Hill Club & Lodge - Orlando\, Florida\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
+ ficial tournament week: March 15-21\, 2027.\nFedExCup points: 700.\nCourse
+ (s): Arnold Palmer's Bay Hill Club & Lodge.\nLocation: Orlando\, Florida\,
+  USA.\nViewing: Exact 2027 broadcast times and platforms have not yet been
+  published\; check the tours' official viewing pages closer to the event.\
+ nSchedule details may change.\nPGA TOUR source: https://www.pgatour.com/ar
+ ticle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour
+ -championship\nDP World Tour source: https://www.europeantour.com/dpworld-
+ tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1b2c285b-dfbc-5a0b-a7a1-a8334ac77ff0
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:Cologuard Classic
+LOCATION:La Paloma Country Club - Tucson\, Arizona\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-03-19 through 2027-03-21.\nCourse: La Paloma Country Club.\nLocation: T
+ ucson\, Arizona\, USA.\nViewing: PGA TOUR Champions announced national Gol
+ f Channel coverage\; exact daily windows will be added when published.\nSc
+ hedule details may change.\nOfficial source: https://www.pgatour.com/pgato
+ ur-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-s
+ chedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f48fb107-7c73-5492-8560-82415d46f7d8
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270329
+SUMMARY:China Classic
+LOCATION:Mission Hills Resort Haikou - Hainan Island\, China
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Asian Swing.\nRace 
+ to Dubai ranking points: 3\,500.\nCourse(s): Mission Hills Resort Haikou.\
+ nLocation: Hainan Island\, China.\nViewing: Exact 2027 broadcast times and
+  platforms have not yet been published\; check the tours' official viewing
+  pages closer to the event.\nSchedule details may change.\nPGA TOUR source
+ : https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announce
+ s-2027-schedule-through-tour-championship\nDP World Tour source: https://w
+ ww.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2d1b865d-8078-5517-8bfb-93f8224a6202
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270329
+SUMMARY:Hoag Senior Players Championship Newport Beach
+LOCATION:Newport Beach Country Club - Newport Beach\, California\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -03-25 through 2027-03-28.\nCourse: Newport Beach Country Club.\nLocation:
+  Newport Beach\, California\, USA.\nViewing: PGA TOUR Champions announced 
+ national Golf Channel coverage\; exact daily windows will be added when pu
+ blished.\nSchedule details may change.\nOfficial source: https://www.pgato
+ ur.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-cham
+ pions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:755b0543-e957-5c46-ba3f-c2327140d08e
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270329
+SUMMARY:Texas Children's Houston Open
+LOCATION:Memorial Park Golf Course - Houston\, Texas\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: March 22-28\, 2027.\nFedExCup points: 500.\nCourse(
+ s): Memorial Park Golf Course.\nLocation: Houston\, Texas\, USA.\nViewing:
+  Exact 2027 broadcast times and platforms have not yet been published\; ch
+ eck the tours' official viewing pages closer to the event.\nSchedule detai
+ ls may change.\nPGA TOUR source: https://www.pgatour.com/article/news/late
+ st/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\n
+ DP World Tour source: https://www.europeantour.com/dpworld-tour/schedule/2
+ 027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:98f459f3-d715-5c83-ad0d-d747ac7fa25a
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+SUMMARY:Valero Texas Open
+LOCATION:TPC San Antonio (Oaks Course) - San Antonio\, Texas\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: March 29-April 4\, 2027.\nFedExCup points: 500.\nCo
+ urse(s): TPC San Antonio (Oaks Course).\nLocation: San Antonio\, Texas\, U
+ SA.\nViewing: Exact 2027 broadcast times and platforms have not yet been p
+ ublished\; check the tours' official viewing pages closer to the event.\nS
+ chedule details may change.\nPGA TOUR source: https://www.pgatour.com/arti
+ cle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-c
+ hampionship\nDP World Tour source: https://www.europeantour.com/dpworld-to
+ ur/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:aee19930-8426-53d7-b4e9-9e82f531bdb2
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+SUMMARY:Masters Tournament
+LOCATION:Augusta National Golf Club - Augusta\, Georgia\, USA
+DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Majo
+ r Championship.\nOfficial tournament week: April 5-11\, 2027.\nFedExCup po
+ ints: 750.\nDP World Tour swing: Asian Swing.\nRace to Dubai ranking point
+ s: 10\,000.\nCourse(s): Augusta National Golf Club.\nLocation: Augusta\, G
+ eorgia\, USA.\nNot PGA TOUR co-sponsored.\nViewing: Exact 2027 broadcast t
+ imes and platforms have not yet been published\; check the tours' official
+  viewing pages closer to the event.\nSchedule details may change.\nPGA TOU
+ R source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-
+ announces-2027-schedule-through-tour-championship\nDP World Tour source: h
+ ttps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f5bb6a16-3c0d-5393-b4d9-2afe4a921891
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270419
+SUMMARY:Deutsche Bank Singapore Open
+LOCATION:Sentosa Golf Club\, The Serapong - Singapore
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Asian Swing.\nRace 
+ to Dubai ranking points: 3\,500.\nCourse(s): Sentosa Golf Club\, The Serap
+ ong.\nLocation: Singapore.\nViewing: Exact 2027 broadcast times and platfo
+ rms have not yet been published\; check the tours' official viewing pages 
+ closer to the event.\nSchedule details may change.\nPGA TOUR source: https
+ ://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-
+ schedule-through-tour-championship\nDP World Tour source: https://www.euro
+ peantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:deeb7039-a9d2-57f9-a892-5122bf021a03
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270419
+SUMMARY:RBC Heritage
+LOCATION:Harbour Town Golf Links - Hilton Head Island\, South Carolina\, US
+ A
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
+ ficial tournament week: April 12-18\, 2027.\nFedExCup points: 700.\nCourse
+ (s): Harbour Town Golf Links.\nLocation: Hilton Head Island\, South Caroli
+ na\, USA.\nViewing: Exact 2027 broadcast times and platforms have not yet 
+ been published\; check the tours' official viewing pages closer to the eve
+ nt.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.co
+ m/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-
+ tour-championship\nDP World Tour source: https://www.europeantour.com/dpwo
+ rld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:569df688-3d36-515d-ba90-a7e9de9f403f
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270419
+SUMMARY:Senior PGA Championship
+LOCATION:The Concession Golf Club - Bradenton\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -04-15 through 2027-04-18.\nCourse: The Concession Golf Club.\nLocation: B
+ radenton\, Florida\, USA.\nViewing: PGA TOUR Champions announced national 
+ Golf Channel coverage\; exact daily windows will be added when published.\
+ nSchedule details may change.\nOfficial source: https://www.pgatour.com/pg
+ atour-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-ful
+ l-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a160d005-2b23-5a0d-88df-ac261ec4ca95
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270426
+SUMMARY:Volvo China Open
+LOCATION:Enhance Anting Golf Club - Shanghai\, China
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Asian Swing.\nRace 
+ to Dubai ranking points: 3\,500.\nCourse(s): Enhance Anting Golf Club.\nLo
+ cation: Shanghai\, China.\nViewing: Exact 2027 broadcast times and platfor
+ ms have not yet been published\; check the tours' official viewing pages c
+ loser to the event.\nSchedule details may change.\nPGA TOUR source: https:
+ //www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-s
+ chedule-through-tour-championship\nDP World Tour source: https://www.europ
+ eantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:80747eca-379d-532b-b85f-ee477f5f6858
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270426
+SUMMARY:Zurich Classic of New Orleans
+LOCATION:TPC Louisiana - Avondale\, Louisiana\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: April 19-25\, 2027.\nFedExCup points: 400.\nCourse(
+ s): TPC Louisiana.\nLocation: Avondale\, Louisiana\, USA.\nViewing: Exact 
+ 2027 broadcast times and platforms have not yet been published\; check the
+  tours' official viewing pages closer to the event.\nSchedule details may 
+ change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026
+ /08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP Worl
+ d Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:87c3e820-cda2-5e98-9cd2-aaf4a27691d1
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+SUMMARY:THE CJ CUP Byron Nelson
+LOCATION:TPC Craig Ranch - McKinney\, Texas\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: April 26-May 2\, 2027.\nFedExCup points: 500.\nCour
+ se(s): TPC Craig Ranch.\nLocation: McKinney\, Texas\, USA.\nViewing: Exact
+  2027 broadcast times and platforms have not yet been published\; check th
+ e tours' official viewing pages closer to the event.\nSchedule details may
+  change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/202
+ 6/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP Wor
+ ld Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:431f09e3-de1b-50d4-a684-e6b2f32449ae
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+SUMMARY:Turkish Airlines Open
+LOCATION:National Golf Club - Belek\, Antalya\, Türkiye
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Asian Swing.\nRace 
+ to Dubai ranking points: 3\,500.\nCourse(s): National Golf Club.\nLocation
+ : Belek\, Antalya\, Türkiye.\nViewing: Exact 2027 broadcast times and pla
+ tforms have not yet been published\; check the tours' official viewing pag
+ es closer to the event.\nSchedule details may change.\nPGA TOUR source: ht
+ tps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-20
+ 27-schedule-through-tour-championship\nDP World Tour source: https://www.e
+ uropeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:43585769-a6ab-53ea-8ff8-f5c016bea022
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270503
+SUMMARY:The Insperity
+LOCATION:The Woodlands Country Club\, Tournament Course - The Woodlands\, T
+ exas\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-04-30 through 2027-05-02.\nCourse: The Woodlands Country Club\, Tournam
+ ent Course.\nLocation: The Woodlands\, Texas\, USA.\nViewing: PGA TOUR Cha
+ mpions announced national Golf Channel coverage\; exact daily windows will
+  be added when published.\nSchedule details may change.\nOfficial source: 
+ https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2
+ 027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:44a8ed8e-77f6-5ba1-abe4-aa0f8dea4463
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+SUMMARY:Estrella Damm Catalunya Championship
+LOCATION:Empordà Golf - Girona\, Spain
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
+ ce to Dubai ranking points: 3\,500.\nCourse(s): Empordà Golf.\nLocation: 
+ Girona\, Spain.\nViewing: Exact 2027 broadcast times and platforms have no
+ t yet been published\; check the tours' official viewing pages closer to t
+ he event.\nSchedule details may change.\nPGA TOUR source: https://www.pgat
+ our.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-th
+ rough-tour-championship\nDP World Tour source: https://www.europeantour.co
+ m/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b06fe509-692b-595d-aec5-51e0e3e8f1b4
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+SUMMARY:Valspar Championship
+LOCATION:Innisbrook Resort (Copperhead Course) - Palm Harbor\, Florida\, US
+ A
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: May 3-9\, 2027.\nFedExCup points: 500.\nCourse(s): 
+ Innisbrook Resort (Copperhead Course).\nLocation: Palm Harbor\, Florida\, 
+ USA.\nViewing: Exact 2027 broadcast times and platforms have not yet been 
+ published\; check the tours' official viewing pages closer to the event.\n
+ Schedule details may change.\nPGA TOUR source: https://www.pgatour.com/art
+ icle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-
+ championship\nDP World Tour source: https://www.europeantour.com/dpworld-t
+ our/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:abd690d7-3bb5-5684-915e-175581b8aa77
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270510
+SUMMARY:Mitsubishi Electric Classic
+LOCATION:TPC Sugarloaf - Duluth\, Georgia\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-05-07 through 2027-05-09.\nCourse: TPC Sugarloaf.\nLocation: Duluth\, G
+ eorgia\, USA.\nViewing: PGA TOUR Champions announced national Golf Channel
+  coverage\; exact daily windows will be added when published.\nSchedule de
+ tails may change.\nOfficial source: https://www.pgatour.com/pgatour-champi
+ ons/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedule-a
+ nnounced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:67e2627e-cb00-58b1-82fc-90cdb37314e0
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:ONEflight Myrtle Beach Classic
+LOCATION:Dunes Golf and Beach Club - Myrtle Beach\, South Carolina\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Additional Event.\nO
+ fficial tournament week: May 10-16\, 2027.\nFedExCup points: 300.\nCourse(
+ s): Dunes Golf and Beach Club.\nLocation: Myrtle Beach\, South Carolina\, 
+ USA.\nViewing: Exact 2027 broadcast times and platforms have not yet been 
+ published\; check the tours' official viewing pages closer to the event.\n
+ Schedule details may change.\nPGA TOUR source: https://www.pgatour.com/art
+ icle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-
+ championship\nDP World Tour source: https://www.europeantour.com/dpworld-t
+ our/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e6d94b54-9229-55e5-bcb3-4e186cda4d8b
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:Open de Portugal | Cascais - Lisboa
+LOCATION:Oitavos Dunes Links Golf - Cascais\, Portugal
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
+ ce to Dubai ranking points: 3\,500.\nCourse(s): Oitavos Dunes Links Golf.\
+ nLocation: Cascais\, Portugal.\nViewing: Exact 2027 broadcast times and pl
+ atforms have not yet been published\; check the tours' official viewing pa
+ ges closer to the event.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:fea9df12-d189-5009-9cc7-5ab99a0b14d7
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:Regions Tradition
+LOCATION:Greystone Golf & Country Club - Birmingham\, Alabama\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -05-13 through 2027-05-16.\nCourse: Greystone Golf & Country Club.\nLocati
+ on: Birmingham\, Alabama\, USA.\nViewing: PGA TOUR Champions announced nat
+ ional Golf Channel coverage\; exact daily windows will be added when publi
+ shed.\nSchedule details may change.\nOfficial source: https://www.pgatour.
+ com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champio
+ ns-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8653b54e-11ea-5758-b494-936da786d1ce
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:Truist Championship
+LOCATION:Quail Hollow Club - Charlotte\, North Carolina\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
+ ficial tournament week: May 10-16\, 2027.\nFedExCup points: 700.\nCourse(s
+ ): Quail Hollow Club.\nLocation: Charlotte\, North Carolina\, USA.\nViewin
+ g: Exact 2027 broadcast times and platforms have not yet been published\; 
+ check the tours' official viewing pages closer to the event.\nSchedule det
+ ails may change.\nPGA TOUR source: https://www.pgatour.com/article/news/la
+ test/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship
+ \nDP World Tour source: https://www.europeantour.com/dpworld-tour/schedule
+ /2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a9f6b990-331b-57f1-af4d-89ac3ac0f6e3
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270524
+SUMMARY:PGA Championship
+LOCATION:Fields Ranch East at PGA Frisco - Frisco\, Texas\, USA
+DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Majo
+ r Championship.\nOfficial tournament week: May 17-23\, 2027.\nFedExCup poi
+ nts: 750.\nDP World Tour swing: European Swing.\nRace to Dubai ranking poi
+ nts: 10\,000.\nCourse(s): Fields Ranch East at PGA Frisco.\nLocation: Fris
+ co\, Texas\, USA.\nNot PGA TOUR co-sponsored.\nViewing: Exact 2027 broadca
+ st times and platforms have not yet been published\; check the tours' offi
+ cial viewing pages closer to the event.\nSchedule details may change.\nPGA
+  TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-t
+ our-announces-2027-schedule-through-tour-championship\nDP World Tour sourc
+ e: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:898b4ce3-6e08-5586-a7de-531e208fa55c
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270531
+SUMMARY:BMW International Open
+LOCATION:Golfclub München Eichenried - Munich\, Germany
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
+ ce to Dubai ranking points: 3\,500.\nCourse(s): Golfclub München Eichenri
+ ed.\nLocation: Munich\, Germany.\nViewing: Exact 2027 broadcast times and 
+ platforms have not yet been published\; check the tours' official viewing 
+ pages closer to the event.\nSchedule details may change.\nPGA TOUR source:
+  https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces
+ -2027-schedule-through-tour-championship\nDP World Tour source: https://ww
+ w.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:82028985-0cfc-5912-999f-37be28a425e7
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270531
+SUMMARY:Charles Schwab Challenge
+LOCATION:Colonial Country Club - Fort Worth\, Texas\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: May 24-30\, 2027.\nFedExCup points: 500.\nCourse(s)
+ : Colonial Country Club.\nLocation: Fort Worth\, Texas\, USA.\nViewing: Ex
+ act 2027 broadcast times and platforms have not yet been published\; check
+  the tours' official viewing pages closer to the event.\nSchedule details 
+ may change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/
+ 2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP 
+ World Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027
+ /
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4ee25797-3c46-51ea-8a4d-50999d4ff014
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270607
+SUMMARY:Soudal Open
+LOCATION:Rinkven International Golf Club - Antwerp\, Belgium
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
+ ce to Dubai ranking points: 3\,500.\nCourse(s): Rinkven International Golf
+  Club.\nLocation: Antwerp\, Belgium.\nViewing: Exact 2027 broadcast times 
+ and platforms have not yet been published\; check the tours' official view
+ ing pages closer to the event.\nSchedule details may change.\nPGA TOUR sou
+ rce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-annou
+ nces-2027-schedule-through-tour-championship\nDP World Tour source: https:
+ //www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:146c6948-2eb6-5f1c-8eee-6f0dc6961bd1
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270607
+SUMMARY:the Memorial Tournament presented by Workday
+LOCATION:Muirfield Village Golf Club - Dublin\, Ohio\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
+ ficial tournament week: May 31-June 6\, 2027.\nFedExCup points: 700.\nCour
+ se(s): Muirfield Village Golf Club.\nLocation: Dublin\, Ohio\, USA.\nViewi
+ ng: Exact 2027 broadcast times and platforms have not yet been published\;
+  check the tours' official viewing pages closer to the event.\nSchedule de
+ tails may change.\nPGA TOUR source: https://www.pgatour.com/article/news/l
+ atest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championshi
+ p\nDP World Tour source: https://www.europeantour.com/dpworld-tour/schedul
+ e/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b963f6bb-efb5-5955-998a-fec77cf4a719
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:Principal Charity Classic
+LOCATION:Wakonda Club - Des Moines\, Iowa\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-06-04 through 2027-06-06.\nCourse: Wakonda Club.\nLocation: Des Moines\
+ , Iowa\, USA.\nViewing: PGA TOUR Champions announced national Golf Channel
+  coverage\; exact daily windows will be added when published.\nSchedule de
+ tails may change.\nOfficial source: https://www.pgatour.com/pgatour-champi
+ ons/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedule-a
+ nnounced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:832f74c3-1757-5a34-af04-cd5610746454
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270614
+SUMMARY:KLM Open
+LOCATION:Kennemer Golf & Country Club - Zandvoort\, Netherlands
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
+ ce to Dubai ranking points: 3\,500.\nCourse(s): Kennemer Golf & Country Cl
+ ub.\nLocation: Zandvoort\, Netherlands.\nViewing: Exact 2027 broadcast tim
+ es and platforms have not yet been published\; check the tours' official v
+ iewing pages closer to the event.\nSchedule details may change.\nPGA TOUR 
+ source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
+ nounces-2027-schedule-through-tour-championship\nDP World Tour source: htt
+ ps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c2517628-7be6-55bd-853d-2151f3a30faa
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270614
+SUMMARY:RBC Canadian Open
+LOCATION:TPC Toronto at Osprey Valley (North Course) - Caledon\, Ontario\, 
+ Canada
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: June 7-13\, 2027.\nFedExCup points: 500.\nCourse(s)
+ : TPC Toronto at Osprey Valley (North Course).\nLocation: Caledon\, Ontari
+ o\, Canada.\nViewing: Exact 2027 broadcast times and platforms have not ye
+ t been published\; check the tours' official viewing pages closer to the e
+ vent.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.
+ com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-throug
+ h-tour-championship\nDP World Tour source: https://www.europeantour.com/dp
+ world-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c180110f-a270-595f-96d6-76129f0e026c
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270614
+SUMMARY:American Family Insurance Championship
+LOCATION:University Ridge Golf Course - Madison\, Wisconsin\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-06-11 through 2027-06-13.\nCourse: University Ridge Golf Course.\nLocat
+ ion: Madison\, Wisconsin\, USA.\nPGA TOUR Champions' two-man team event.\n
+ Viewing: PGA TOUR Champions announced national Golf Channel coverage\; exa
+ ct daily windows will be added when published.\nSchedule details may chang
+ e.\nOfficial source: https://www.pgatour.com/pgatour-champions/article/new
+ s/latest/2026/10/28/2027-pga-tour-champions-full-schedule-announced-charle
+ s-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:deaf51f5-0eb2-5ac2-bd0b-c62e2c0cc86b
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270621
+SUMMARY:U.S. Open
+LOCATION:Pebble Beach Golf Links - Pebble Beach\, California\, USA
+DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Majo
+ r Championship.\nOfficial tournament week: June 14-20\, 2027.\nFedExCup po
+ ints: 750.\nDP World Tour swing: European Swing.\nRace to Dubai ranking po
+ ints: 10\,000.\nCourse(s): Pebble Beach Golf Links.\nLocation: Pebble Beac
+ h\, California\, USA.\nNot PGA TOUR co-sponsored.\nViewing: Exact 2027 bro
+ adcast times and platforms have not yet been published\; check the tours' 
+ official viewing pages closer to the event.\nSchedule details may change.\
+ nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/p
+ ga-tour-announces-2027-schedule-through-tour-championship\nDP World Tour s
+ ource: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0bf3591b-9eae-5c70-957e-23969e39f625
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270628
+SUMMARY:Travelers Championship
+LOCATION:TPC River Highlands - Cromwell\, Connecticut\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
+ ficial tournament week: June 21-27\, 2027.\nFedExCup points: 700.\nCourse(
+ s): TPC River Highlands.\nLocation: Cromwell\, Connecticut\, USA.\nViewing
+ : Exact 2027 broadcast times and platforms have not yet been published\; c
+ heck the tours' official viewing pages closer to the event.\nSchedule deta
+ ils may change.\nPGA TOUR source: https://www.pgatour.com/article/news/lat
+ est/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\
+ nDP World Tour source: https://www.europeantour.com/dpworld-tour/schedule/
+ 2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:588d522a-65cc-5e17-a6d6-861e50cab06b
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270628
+SUMMARY:DICK'S Open
+LOCATION:En-Joie Golf Course - Endicott\, New York\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-06-25 through 2027-06-27.\nCourse: En-Joie Golf Course.\nLocation: Endi
+ cott\, New York\, USA.\nViewing: PGA TOUR Champions announced national Gol
+ f Channel coverage\; exact daily windows will be added when published.\nSc
+ hedule details may change.\nOfficial source: https://www.pgatour.com/pgato
+ ur-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-s
+ chedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c2aabe9c-c96e-51f8-a5bc-3fd7a0cebc41
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270705
+SUMMARY:Amgen Irish Open
+LOCATION:The K Club - Straffan\, County Kildare\, Ireland
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Closing Swing.\nRac
+ e to Dubai ranking points: 3\,500.\nCourse(s): The K Club.\nLocation: Stra
+ ffan\, County Kildare\, Ireland.\nViewing: Exact 2027 broadcast times and 
+ platforms have not yet been published\; check the tours' official viewing 
+ pages closer to the event.\nSchedule details may change.\nPGA TOUR source:
+  https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces
+ -2027-schedule-through-tour-championship\nDP World Tour source: https://ww
+ w.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5c309c63-c42c-533d-b5e0-8812de3b01d7
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270705
+SUMMARY:John Deere Classic
+LOCATION:TPC Deere Run - Silvis\, Illinois\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: June 28-July 4\, 2027.\nFedExCup points: 500.\nCour
+ se(s): TPC Deere Run.\nLocation: Silvis\, Illinois\, USA.\nViewing: Exact 
+ 2027 broadcast times and platforms have not yet been published\; check the
+  tours' official viewing pages closer to the event.\nSchedule details may 
+ change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026
+ /08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP Worl
+ d Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:da303428-2a49-59bf-b576-1eef4f4f8ad1
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270705
+SUMMARY:U.S. Senior Open Championship
+LOCATION:Oak Tree National - Edmond\, Oklahoma\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -07-01 through 2027-07-04.\nCourse: Oak Tree National.\nLocation: Edmond\,
+  Oklahoma\, USA.\nViewing: PGA TOUR Champions announced national Golf Chan
+ nel coverage\; exact daily windows will be added when published.\nSchedule
+  details may change.\nOfficial source: https://www.pgatour.com/pgatour-cha
+ mpions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedul
+ e-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:af8c1d23-12e1-54d1-ae1c-cb7fd4f52135
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:Genesis Scottish Open
+LOCATION:The Renaissance Club - North Berwick\, Scotland
+DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Co-s
+ anctioned Event.\nOfficial tournament week: July 5-11\, 2027.\nFedExCup po
+ ints: 500.\nDP World Tour swing: Closing Swing.\nRace to Dubai ranking poi
+ nts: 8\,000.\nCourse(s): The Renaissance Club.\nLocation: North Berwick\, 
+ Scotland.\nCo-sanctioned with the DP World Tour.\nViewing: Exact 2027 broa
+ dcast times and platforms have not yet been published\; check the tours' o
+ fficial viewing pages closer to the event.\nSchedule details may change.\n
+ PGA TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pg
+ a-tour-announces-2027-schedule-through-tour-championship\nDP World Tour so
+ urce: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5df7ebd8-fd0f-57a0-9285-bc973d4373f1
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:ISCO Championship
+LOCATION:Hurstbourne Country Club - Louisville\, Kentucky\, USA
+DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Addi
+ tional Event.\nOfficial tournament week: July 5-11\, 2027.\nFedExCup point
+ s: 300.\nDP World Tour swing: Closing Swing.\nRace to Dubai ranking points
+ : 3\,500.\nCourse(s): Hurstbourne Country Club.\nLocation: Louisville\, Ke
+ ntucky\, USA.\nViewing: Exact 2027 broadcast times and platforms have not 
+ yet been published\; check the tours' official viewing pages closer to the
+  event.\nSchedule details may change.\nPGA TOUR source: https://www.pgatou
+ r.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-thro
+ ugh-tour-championship\nDP World Tour source: https://www.europeantour.com/
+ dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0600cf77-c10a-5df4-8856-432ec950a73c
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270719
+SUMMARY:Corales Puntacana Championship
+LOCATION:Puntacana Resort & Club (Corales Golf Course) - Punta Cana\, Domin
+ ican Republic
+DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Addi
+ tional Event.\nOfficial tournament week: July 12-18\, 2027.\nFedExCup poin
+ ts: 300.\nDP World Tour swing: Closing Swing.\nRace to Dubai ranking point
+ s: 3\,500.\nCourse(s): Puntacana Resort & Club (Corales Golf Course).\nLoc
+ ation: Punta Cana\, Dominican Republic.\nViewing: Exact 2027 broadcast tim
+ es and platforms have not yet been published\; check the tours' official v
+ iewing pages closer to the event.\nSchedule details may change.\nPGA TOUR 
+ source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
+ nounces-2027-schedule-through-tour-championship\nDP World Tour source: htt
+ ps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7055c97d-652e-5cce-9e46-29c3d53e1d8b
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270719
+SUMMARY:The Open Championship
+LOCATION:St Andrews Links (Old Course) - Fife\, Scotland
+DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Majo
+ r Championship.\nOfficial tournament week: July 12-18\, 2027.\nFedExCup po
+ ints: 750.\nDP World Tour swing: Closing Swing.\nRace to Dubai ranking poi
+ nts: 10\,000.\nCourse(s): St Andrews Links (Old Course).\nLocation: Fife\,
+  Scotland.\nNot PGA TOUR co-sponsored.\nViewing: Exact 2027 broadcast time
+ s and platforms have not yet been published\; check the tours' official vi
+ ewing pages closer to the event.\nSchedule details may change.\nPGA TOUR s
+ ource: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-ann
+ ounces-2027-schedule-through-tour-championship\nDP World Tour source: http
+ s://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b9901134-e3c0-5bc5-b2cd-39a952594f57
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270726
+SUMMARY:3M Open
+LOCATION:TPC Twin Cities - Blaine\, Minnesota\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: July 19-25\, 2027.\nFedExCup points: 500.\nCourse(s
+ ): TPC Twin Cities.\nLocation: Blaine\, Minnesota\, USA.\nViewing: Exact 2
+ 027 broadcast times and platforms have not yet been published\; check the 
+ tours' official viewing pages closer to the event.\nSchedule details may c
+ hange.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026/
+ 08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP World
+  Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a8104753-089e-5bfc-a2a0-523e6c499072
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270726
+SUMMARY:ISPS HANDA Senior Open
+LOCATION:Royal Porthcawl Golf Club - Bridgend\, Wales
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -07-22 through 2027-07-25.\nCourse: Royal Porthcawl Golf Club.\nLocation: 
+ Bridgend\, Wales.\nViewing: PGA TOUR Champions announced national Golf Cha
+ nnel coverage\; exact daily windows will be added when published.\nSchedul
+ e details may change.\nOfficial source: https://www.pgatour.com/pgatour-ch
+ ampions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedu
+ le-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1c3d26f9-a3c7-5c4a-8013-cbeca81fd54c
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270802
+SUMMARY:Sompo Championship
+LOCATION:Silverado Resort (North Course) - Napa\, California\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: July 26-Aug. 1\, 2027.\nFedExCup points: 500.\nCour
+ se(s): Silverado Resort (North Course).\nLocation: Napa\, California\, USA
+ .\nNew full-field event for 2027.\nViewing: Exact 2027 broadcast times and
+  platforms have not yet been published\; check the tours' official viewing
+  pages closer to the event.\nSchedule details may change.\nPGA TOUR source
+ : https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announce
+ s-2027-schedule-through-tour-championship\nDP World Tour source: https://w
+ ww.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0b22f903-40fd-58af-afd0-37c50093148a
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270802
+SUMMARY:Portugal Invitational
+LOCATION:The Els Club Vilamoura - Vilamoura\, Portugal
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-07-30 through 2027-08-01.\nCourse: The Els Club Vilamoura.\nLocation: V
+ ilamoura\, Portugal.\nViewing: PGA TOUR Champions announced national Golf 
+ Channel coverage\; exact daily windows will be added when published.\nSche
+ dule details may change.\nOfficial source: https://www.pgatour.com/pgatour
+ -champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-sch
+ edule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a356651d-8ddd-5658-aa6a-b062be10027e
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270809
+SUMMARY:GO by Raymond James
+LOCATION:Sedgefield Country Club - Greensboro\, North Carolina\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
+ icial tournament week: Aug. 2-8\, 2027.\nFedExCup points: 500.\nCourse(s):
+  Sedgefield Country Club.\nLocation: Greensboro\, North Carolina\, USA.\nF
+ edExCup regular-season finale.\nViewing: Exact 2027 broadcast times and pl
+ atforms have not yet been published\; check the tours' official viewing pa
+ ges closer to the event.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2ab5d9b8-069f-5529-88ca-c8339090a382
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270816
+SUMMARY:2027 U.S. Amateur
+LOCATION:Oak Hill Country Club (East and West Courses) - Pittsford\, New Yo
+ rk\, USA
+DESCRIPTION:Championship dates: 2027-08-09 through 2027-08-15.\nCourse: Oak
+  Hill Country Club (East and West Courses).\nLocation: Pittsford\, New Yor
+ k\, USA.\nViewing: Golf Channel is the announced U.S. rights holder. Exact
+  2027 broadcast dates and times have not yet been published.\nDates\, venu
+ es and viewing details may change.\nEvent source: https://championships.us
+ ga.org/usamateur/future-sites.html\nViewing source: https://www.usga.org/c
+ ontent/usga/home-page/articles/2025/08/NBCUniversal-USGA-extend-media-righ
+ ts-agreement-through-2032.html
+URL:https://championships.usga.org/usamateur/future-sites.html
+CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,USGA,U.S. AMATEUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:adaae9ff-0c42-599a-b896-ee8a5df52458
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270816
+SUMMARY:FedEx St. Jude Championship
+LOCATION:TPC Southwind - Memphis\, Tennessee\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: FedExCup Playoffs.\n
+ Official tournament week: Aug. 9-15\, 2027.\nFedExCup points: 750.\nCourse
+ (s): TPC Southwind.\nLocation: Memphis\, Tennessee\, USA.\nViewing: Exact 
+ 2027 broadcast times and platforms have not yet been published\; check the
+  tours' official viewing pages closer to the event.\nSchedule details may 
+ change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026
+ /08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP Worl
+ d Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:32a0aca4-1e2e-5e36-85b8-b39b00767f16
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270816
+SUMMARY:Boeing Classic
+LOCATION:The Club at Snoqualmie Ridge - Snoqualmie\, Washington\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-08-13 through 2027-08-15.\nCourse: The Club at Snoqualmie Ridge.\nLocat
+ ion: Snoqualmie\, Washington\, USA.\nViewing: PGA TOUR Champions announced
+  national Golf Channel coverage\; exact daily windows will be added when p
+ ublished.\nSchedule details may change.\nOfficial source: https://www.pgat
+ our.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-cha
+ mpions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7bb53b99-cd24-5090-8c0d-cefff198864a
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270823
+SUMMARY:BMW Championship
+LOCATION:Liberty National Golf Club - Jersey City\, New Jersey\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: FedExCup Playoffs.\n
+ Official tournament week: Aug. 16-22\, 2027.\nFedExCup points: 750.\nCours
+ e(s): Liberty National Golf Club.\nLocation: Jersey City\, New Jersey\, US
+ A.\nViewing: Exact 2027 broadcast times and platforms have not yet been pu
+ blished\; check the tours' official viewing pages closer to the event.\nSc
+ hedule details may change.\nPGA TOUR source: https://www.pgatour.com/artic
+ le/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-ch
+ ampionship\nDP World Tour source: https://www.europeantour.com/dpworld-tou
+ r/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:89a85407-a662-5835-8845-c11363b65bb1
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270823
+SUMMARY:Husqvarna British Masters hosted by Sir Nick Faldo
+LOCATION:The Belfry Hotel & Resort - Sutton Coldfield\, England
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
+ bai ranking points: 5\,000.\nCourse(s): The Belfry Hotel & Resort.\nLocati
+ on: Sutton Coldfield\, England.\nViewing: Exact 2027 broadcast times and p
+ latforms have not yet been published\; check the tours' official viewing p
+ ages closer to the event.\nSchedule details may change.\nPGA TOUR source: 
+ https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-
+ 2027-schedule-through-tour-championship\nDP World Tour source: https://www
+ .europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:96143197-168e-5b9b-8a71-b525b1ab4557
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270823
+SUMMARY:Rogers Charity Classic
+LOCATION:Canyon Meadows Golf & Country Club - Calgary\, Alberta\, Canada
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-08-20 through 2027-08-22.\nCourse: Canyon Meadows Golf & Country Club.\
+ nLocation: Calgary\, Alberta\, Canada.\nViewing: PGA TOUR Champions announ
+ ced national Golf Channel coverage\; exact daily windows will be added whe
+ n published.\nSchedule details may change.\nOfficial source: https://www.p
+ gatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-
+ champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:96e0b9e6-5917-5e19-94a6-75c56dc36c43
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
+SUMMARY:TOUR Championship
+LOCATION:East Lake Golf Club - Atlanta\, Georgia\, USA
+DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: FedExCup Playoffs.\n
+ Official tournament week: Aug. 23-29\, 2027.\nCourse(s): East Lake Golf Cl
+ ub.\nLocation: Atlanta\, Georgia\, USA.\nViewing: Exact 2027 broadcast tim
+ es and platforms have not yet been published\; check the tours' official v
+ iewing pages closer to the event.\nSchedule details may change.\nPGA TOUR 
+ source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
+ nounces-2027-schedule-through-tour-championship\nDP World Tour source: htt
+ ps://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f06eff0b-4730-54c1-aceb-433c81836c42
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:The Ally Challenge
+LOCATION:Warwick Hills Golf & Country Club - Grand Blanc\, Michigan\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-08-27 through 2027-08-29.\nCourse: Warwick Hills Golf & Country Club.\n
+ Location: Grand Blanc\, Michigan\, USA.\nViewing: PGA TOUR Champions annou
+ nced national Golf Channel coverage\; exact daily windows will be added wh
+ en published.\nSchedule details may change.\nOfficial source: https://www.
+ pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour
+ -champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a577cccf-fda7-5396-ae2b-56e4d6d3830a
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270906
+SUMMARY:Omega European Masters
+LOCATION:Crans-sur-Sierre Golf Club - Crans-Montana\, Switzerland
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
+ bai ranking points: 5\,000.\nCourse(s): Crans-sur-Sierre Golf Club.\nLocat
+ ion: Crans-Montana\, Switzerland.\nViewing: Exact 2027 broadcast times and
+  platforms have not yet been published\; check the tours' official viewing
+  pages closer to the event.\nSchedule details may change.\nPGA TOUR source
+ : https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announce
+ s-2027-schedule-through-tour-championship\nDP World Tour source: https://w
+ ww.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d63db584-f7fd-5729-8367-8edf6d4657ca
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270913
+SUMMARY:FedEx Open de France
+LOCATION:Le Golf National - Saint-Quentin-en-Yvelines\, France
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
+ bai ranking points: 5\,000.\nCourse(s): Le Golf National.\nLocation: Saint
+ -Quentin-en-Yvelines\, France.\nViewing: Exact 2027 broadcast times and pl
+ atforms have not yet been published\; check the tours' official viewing pa
+ ges closer to the event.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1d70a09d-5a23-57f2-8488-f040f47eaec0
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270913
+SUMMARY:Sanford International
+LOCATION:Minnehaha Country Club - Sioux Falls\, South Dakota\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-09-10 through 2027-09-12.\nCourse: Minnehaha Country Club.\nLocation: S
+ ioux Falls\, South Dakota\, USA.\nViewing: PGA TOUR Champions announced na
+ tional Golf Channel coverage\; exact daily windows will be added when publ
+ ished.\nSchedule details may change.\nOfficial source: https://www.pgatour
+ .com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champi
+ ons-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d26b5168-b328-508a-8e6e-f4991c1ab69e
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+SUMMARY:2027 Ryder Cup
+LOCATION:Adare Manor - Limerick\, Ireland
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
+ bai ranking points: 0.\nCourse(s): Adare Manor.\nLocation: Limerick\, Irel
+ and.\nViewing: Exact 2027 broadcast times and platforms have not yet been 
+ published\; check the tours' official viewing pages closer to the event.\n
+ Schedule details may change.\nPGA TOUR source: https://www.pgatour.com/art
+ icle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-
+ championship\nDP World Tour source: https://www.europeantour.com/dpworld-t
+ our/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f3fc110b-1af7-5b9e-8379-699269e3dde9
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270924
+SUMMARY:2027 U.S. Mid-Amateur
+LOCATION:Jupiter Hills Club (Hills Course\; Village Course for stroke-play 
+ co-hosting) - Tequesta\, Florida\, USA
+DESCRIPTION:Championship dates: 2027-09-18 through 2027-09-23.\nCourse: Jup
+ iter Hills Club (Hills Course\; Village Course for stroke-play co-hosting)
+ .\nLocation: Tequesta\, Florida\, USA.\nViewing: No official 2027 televisi
+ on or streaming schedule has been announced.\nDates\, venues and viewing d
+ etails may change.\nEvent source: https://championships.usga.org/usmidamat
+ eur/future-sites.html
+URL:https://championships.usga.org/usmidamateur/future-sites.html
+CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,USGA,U.S. MID-AMATEUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e09f5b6b-f5b2-52c2-8d0a-be46e1229741
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270927
+SUMMARY:BMW PGA Championship
+LOCATION:Wentworth Club - Virginia Water\, Surrey\, England
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
+ bai ranking points: 8\,000.\nCourse(s): Wentworth Club.\nLocation: Virgini
+ a Water\, Surrey\, England.\nViewing: Exact 2027 broadcast times and platf
+ orms have not yet been published\; check the tours' official viewing pages
+  closer to the event.\nSchedule details may change.\nPGA TOUR source: http
+ s://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027
+ -schedule-through-tour-championship\nDP World Tour source: https://www.eur
+ opeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0e831be5-cffd-59e2-b61f-0d1a4cbfad2d
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+SUMMARY:PURE Insurance Championship
+LOCATION:Pebble Beach Golf Links - Pebble Beach\, California\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-09-24 through 2027-09-26.\nCourse: Pebble Beach Golf Links.\nLocation: 
+ Pebble Beach\, California\, USA.\nPairs PGA TOUR Champions players with ju
+ niors from First Tee.\nViewing: PGA TOUR Champions announced national Golf
+  Channel coverage\; exact daily windows will be added when published.\nSch
+ edule details may change.\nOfficial source: https://www.pgatour.com/pgatou
+ r-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-sc
+ hedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d9d536bf-512f-59b2-ac83-6b518e4cc1d8
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271004
+SUMMARY:Alfred Dunhill Links Championship
+LOCATION:Old Course at St Andrews\; Carnoustie Golf Links\; Kingsbarns Golf
+  Links - Fife and Angus\, Scotland
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
+ bai ranking points: 5\,000.\nCourse(s): Old Course at St Andrews\; Carnous
+ tie Golf Links\; Kingsbarns Golf Links.\nLocation: Fife and Angus\, Scotla
+ nd.\nViewing: Exact 2027 broadcast times and platforms have not yet been p
+ ublished\; check the tours' official viewing pages closer to the event.\nS
+ chedule details may change.\nPGA TOUR source: https://www.pgatour.com/arti
+ cle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-c
+ hampionship\nDP World Tour source: https://www.europeantour.com/dpworld-to
+ ur/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:822eda63-0e20-545f-afd6-e87851eb3d66
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271004
+SUMMARY:Jefferson Lehigh Valley Classic
+LOCATION:Lehigh Country Club - Allentown\, Pennsylvania\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-10-01 through 2027-10-03.\nCourse: Lehigh Country Club.\nLocation: Alle
+ ntown\, Pennsylvania\, USA.\nViewing: PGA TOUR Champions announced nationa
+ l Golf Channel coverage\; exact daily windows will be added when published
+ .\nSchedule details may change.\nOfficial source: https://www.pgatour.com/
+ pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-f
+ ull-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:28c40829-5647-5cc8-8db1-a91a94ab760a
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271011
+SUMMARY:Open de España presented by Madrid
+LOCATION:Real Club de Campo Villa de Madrid - Madrid\, Spain
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
+ bai ranking points: 5\,000.\nCourse(s): Real Club de Campo Villa de Madrid
+ .\nLocation: Madrid\, Spain.\nViewing: Exact 2027 broadcast times and plat
+ forms have not yet been published\; check the tours' official viewing page
+ s closer to the event.\nSchedule details may change.\nPGA TOUR source: htt
+ ps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-202
+ 7-schedule-through-tour-championship\nDP World Tour source: https://www.eu
+ ropeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c11b766f-5165-514a-93da-0876e7b34eb9
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271011
+SUMMARY:Constellation FURYK & FRIENDS
+LOCATION:Ocean Course at Hammock Beach - Palm Coast\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-10-08 through 2027-10-10.\nCourse: Ocean Course at Hammock Beach.\nLoca
+ tion: Palm Coast\, Florida\, USA.\nViewing: PGA TOUR Champions announced n
+ ational Golf Channel coverage\; exact daily windows will be added when pub
+ lished.\nSchedule details may change.\nOfficial source: https://www.pgatou
+ r.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champ
+ ions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7571fe10-f47e-5c46-a830-0631a4031429
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271018
+SUMMARY:SAS Championship
+LOCATION:Prestonwood Country Club - Cary\, North Carolina\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-10-15 through 2027-10-17.\nCourse: Prestonwood Country Club.\nLocation:
+  Cary\, North Carolina\, USA.\nViewing: PGA TOUR Champions announced natio
+ nal Golf Channel coverage\; exact daily windows will be added when publish
+ ed.\nSchedule details may change.\nOfficial source: https://www.pgatour.co
+ m/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champions
+ -full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b9bc435c-20f6-5fa0-8efd-5edfcf5e1ac9
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271025
+SUMMARY:Hong Kong Open
+LOCATION:Hong Kong Golf Club - Hong Kong\, China
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
+ bai ranking points: 5\,000.\nCourse(s): Hong Kong Golf Club.\nLocation: Ho
+ ng Kong\, China.\nViewing: Exact 2027 broadcast times and platforms have n
+ ot yet been published\; check the tours' official viewing pages closer to 
+ the event.\nSchedule details may change.\nPGA TOUR source: https://www.pga
+ tour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-t
+ hrough-tour-championship\nDP World Tour source: https://www.europeantour.c
+ om/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a2dcaf2f-93f8-5ffd-8272-ef6c2570c3bf
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271025
+SUMMARY:Stifel Charity Classic
+LOCATION:Norwood Hills Country Club - St. Louis\, Missouri\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Charles Schwab Cup Playoffs.\nTournam
+ ent dates: 2027-10-22 through 2027-10-24.\nCourse: Norwood Hills Country C
+ lub.\nLocation: St. Louis\, Missouri\, USA.\nViewing: PGA TOUR Champions a
+ nnounced national Golf Channel coverage\; exact daily windows will be adde
+ d when published.\nSchedule details may change.\nOfficial source: https://
+ www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-
+ tour-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHARLES SCHWAB CUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e502e950-ede2-510a-9b52-6ac291b46d25
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271101
+SUMMARY:Simmons Bank Championship
+LOCATION:Pleasant Valley Country Club - Little Rock\, Arkansas\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Charles Schwab Cup Playoffs.\nTournam
+ ent dates: 2027-10-29 through 2027-10-31.\nCourse: Pleasant Valley Country
+  Club.\nLocation: Little Rock\, Arkansas\, USA.\nViewing: PGA TOUR Champio
+ ns announced national Golf Channel coverage\; exact daily windows will be 
+ added when published.\nSchedule details may change.\nOfficial source: http
+ s://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-
+ pga-tour-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHARLES SCHWAB CUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:52f1928c-a878-5d73-adfe-e673c335a4cd
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271108
+SUMMARY:Abu Dhabi Championship
+LOCATION:Yas Links Golf Club - Abu Dhabi\, United Arab Emirates
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: DP World Tour Play-
+ Offs.\nRace to Dubai ranking points: 9\,000.\nCourse(s): Yas Links Golf Cl
+ ub.\nLocation: Abu Dhabi\, United Arab Emirates.\nViewing: Exact 2027 broa
+ dcast times and platforms have not yet been published\; check the tours' o
+ fficial viewing pages closer to the event.\nSchedule details may change.\n
+ PGA TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pg
+ a-tour-announces-2027-schedule-through-tour-championship\nDP World Tour so
+ urce: https://www.europeantour.com/dpworld-tour/schedule/2027/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d9c62455-7b47-5395-86c1-1f4f4030a6dd
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271115
+SUMMARY:DP World Tour Championship\, Dubai
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: DP World Tour Play-
+ Offs.\nRace to Dubai ranking points: 12\,000.\nCourse(s): Jumeirah Golf Es
+ tates\, Earth Course.\nLocation: Dubai\, United Arab Emirates.\nViewing: E
+ xact 2027 broadcast times and platforms have not yet been published\; chec
+ k the tours' official viewing pages closer to the event.\nSchedule details
+  may change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest
+ /2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP
+  World Tour source: https://www.europeantour.com/dpworld-tour/schedule/202
+ 7/
+URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
+CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c35ef4f6-c158-5c00-8fff-5f6e5bac4e8c
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271115
+SUMMARY:Charles Schwab Cup Championship
+LOCATION:Papago Golf Club - Phoenix\, Arizona\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Charles Schwab Cup Playoffs.\nTournam
+ ent dates: 2027-11-12 through 2027-11-14.\nCourse: Papago Golf Club.\nLoca
+ tion: Phoenix\, Arizona\, USA.\nViewing: PGA TOUR Champions announced nati
+ onal Golf Channel coverage\; exact daily windows will be added when publis
+ hed.\nSchedule details may change.\nOfficial source: https://www.pgatour.c
+ om/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champion
+ s-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHARLES SCHWAB CUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:817195cf-12a9-55cd-8f3c-a935eecd81a5
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271206
+SUMMARY:Skechers World Champions Cup supporting Shriners Children's
+LOCATION:To be announced - To be announced
+DESCRIPTION:PGA TOUR Champions 2027 - Challenge Season.\nTournament dates: 
+ 2027-12-02 through 2027-12-05.\nCourse: To be announced.\nLocation: To be 
+ announced.\nDates are official\; the course and location have not yet been
+  announced.\nViewing: PGA TOUR Champions announced national Golf Channel c
+ overage\; exact daily windows will be added when published.\nSchedule deta
+ ils may change.\nOfficial source: https://www.pgatour.com/pgatour-champion
+ s/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedule-ann
+ ounced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHALLENGE SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:54dab751-1acb-5051-9f6a-3deecff9fb33
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20271220
+SUMMARY:PNC Championship
+LOCATION:Ritz-Carlton Golf Club Orlando - Orlando\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Challenge Season.\nTournament dates: 
+ 2027-12-18 through 2027-12-19.\nCourse: Ritz-Carlton Golf Club Orlando.\nL
+ ocation: Orlando\, Florida\, USA.\nFamily team event.\nViewing: PGA TOUR C
+ hampions announced national Golf Channel coverage\; exact daily windows wi
+ ll be added when published.\nSchedule details may change.\nOfficial source
+ : https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28
+ /2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHALLENGE SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

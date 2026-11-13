@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Pancoast//Golf iCal Subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+UID:urn:uuid:7711219a-8cb2-4939-9d98-c37a46e08c71
+NAME:U.S. Amateur\, U.S. Mid-Amateur & Walker Cup
+X-WR-CALNAME:U.S. Amateur\, U.S. Mid-Amateur & Walker Cup
+DESCRIPTION:Confirmed championship dates and locations for the 2027 U.S. Am
+ ateur\, 2027 U.S. Mid-Amateur and the next Walker Cup in 2028\, plus the l
+ atest official viewing information.
+X-WR-CALDESC:Confirmed championship dates and locations for the 2027 U.S. A
+ mateur\, 2027 U.S. Mid-Amateur and the next Walker Cup in 2028\, plus the 
+ latest official viewing information.
+LAST-MODIFIED:20260906T130803Z
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:urn:uuid:542dc77c-27c4-5428-83c3-991eeb2e9d20
+DTSTAMP:20260906T130803Z
+LAST-MODIFIED:20260906T130803Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270816
+SUMMARY:2027 U.S. Amateur
+LOCATION:Oak Hill Country Club (East and West Courses) - Pittsford\, New Yo
+ rk\, USA
+DESCRIPTION:Championship dates: 2027-08-09 through 2027-08-15.\nCourse: Oak
+  Hill Country Club (East and West Courses).\nLocation: Pittsford\, New Yor
+ k\, USA.\nViewing: Golf Channel is the announced U.S. rights holder. Exact
+  2027 broadcast dates and times have not yet been published.\nDates\, venu
+ es and viewing details may change.\nEvent source: https://championships.us
+ ga.org/usamateur/future-sites.html\nViewing source: https://www.usga.org/c
+ ontent/usga/home-page/articles/2025/08/NBCUniversal-USGA-extend-media-righ
+ ts-agreement-through-2032.html
+URL:https://championships.usga.org/usamateur/future-sites.html
+CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,USGA,U.S. AMATEUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b314ab41-4a3b-500f-90e4-717f686386a9
+DTSTAMP:20260906T130803Z
+LAST-MODIFIED:20260906T130803Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270924
+SUMMARY:2027 U.S. Mid-Amateur
+LOCATION:Jupiter Hills Club (Hills Course\; Village Course for stroke-play 
+ co-hosting) - Tequesta\, Florida\, USA
+DESCRIPTION:Championship dates: 2027-09-18 through 2027-09-23.\nCourse: Jup
+ iter Hills Club (Hills Course\; Village Course for stroke-play co-hosting)
+ .\nLocation: Tequesta\, Florida\, USA.\nViewing: No official 2027 televisi
+ on or streaming schedule has been announced.\nDates\, venues and viewing d
+ etails may change.\nEvent source: https://championships.usga.org/usmidamat
+ eur/future-sites.html
+URL:https://championships.usga.org/usmidamateur/future-sites.html
+CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,USGA,U.S. MID-AMATEUR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b88e6264-f2c7-5f25-946e-071115f267a3
+DTSTAMP:20260906T130803Z
+LAST-MODIFIED:20260906T130803Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20280909
+DTEND;VALUE=DATE:20280911
+SUMMARY:2028 Walker Cup
+LOCATION:Bandon Dunes Golf Resort (Bandon Dunes Course) - Bandon\, Oregon\,
+  USA
+DESCRIPTION:Championship dates: 2028-09-09 through 2028-09-10.\nCourse: Ban
+ don Dunes Golf Resort (Bandon Dunes Course).\nLocation: Bandon\, Oregon\, 
+ USA.\nViewing: Golf Channel is the announced U.S. rights holder. Exact 202
+ 8 broadcast dates and times have not yet been published.\nThere is no Walk
+ er Cup in 2027. The biennial match moved to even-numbered years beginning 
+ in 2026.\nDates\, venues and viewing details may change.\nEvent source: ht
+ tps://championships.usga.org/walkercup/future-sites-walker-cup.html\nViewi
+ ng source: https://www.usga.org/content/usga/home-page/articles/2025/08/NB
+ CUniversal-USGA-extend-media-rights-agreement-through-2032.html
+URL:https://championships.usga.org/walkercup/future-sites-walker-cup.html
+CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,USGA,THE R&A,WALKER CUP,TEAM EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

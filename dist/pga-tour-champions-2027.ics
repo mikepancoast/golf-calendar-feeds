@@ -1,0 +1,693 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Pancoast//Golf iCal Subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+UID:urn:uuid:2b70c62f-5e34-43f4-a976-287d97408b3f
+NAME:PGA TOUR Champions 2027
+X-WR-CALNAME:PGA TOUR Champions 2027
+DESCRIPTION:Officially announced 2027 PGA TOUR Champions schedule: 24 regul
+ ar-season events\, three Charles Schwab Cup Playoff events and two Challen
+ ge Season events.
+X-WR-CALDESC:Officially announced 2027 PGA TOUR Champions schedule: 24 regu
+ lar-season events\, three Charles Schwab Cup Playoff events and two Challe
+ nge Season events.
+LAST-MODIFIED:20261107T133129Z
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+BEGIN:VEVENT
+UID:urn:uuid:6650d243-2653-5861-999c-a930b1c727e3
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270117
+SUMMARY:Sony Championship Hawaii
+LOCATION:Waialae Country Club - Honolulu\, Hawaii\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-01-14 through 2027-01-16.\nCourse: Waialae Country Club.\nLocation: Hon
+ olulu\, Hawaii\, USA.\nViewing: PGA TOUR Champions announced national Golf
+  Channel coverage\; exact daily windows will be added when published.\nSch
+ edule details may change.\nOfficial source: https://www.pgatour.com/pgatou
+ r-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-sc
+ hedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a832e71a-3ec1-5975-bae0-fe607d200a5b
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270124
+SUMMARY:Mitsubishi Electric Championship at Hualalai
+LOCATION:Hualalai Golf Course - Ka'upulehu-Kona\, Hawaii\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-01-21 through 2027-01-23.\nCourse: Hualalai Golf Course.\nLocation: Ka'
+ upulehu-Kona\, Hawaii\, USA.\nThe tournament site confirms a Saturday fini
+ sh on January 23\, matching the PGA TOUR Champions announcement text. Tour
+ nament schedule: https://www.mecgolf.com/\nViewing: PGA TOUR Champions ann
+ ounced national Golf Channel coverage\; exact daily windows will be added 
+ when published.\nSchedule details may change.\nOfficial source: https://ww
+ w.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-to
+ ur-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:ef63b171-137a-5b48-adff-4306d62ee3be
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270215
+SUMMARY:Chubb Classic
+LOCATION:Tiburón Golf Club\, Black Course - Naples\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-02-12 through 2027-02-14.\nCourse: Tiburón Golf Club\, Black Course.\n
+ Location: Naples\, Florida\, USA.\nViewing: PGA TOUR Champions announced n
+ ational Golf Channel coverage\; exact daily windows will be added when pub
+ lished.\nSchedule details may change.\nOfficial source: https://www.pgatou
+ r.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champ
+ ions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e13bba70-eac6-539f-9600-8cc23afff885
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270308
+SUMMARY:James Hardie Pro Football Hall of Fame Invitational
+LOCATION:The Old Course at Broken Sound Club - Boca Raton\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-03-05 through 2027-03-07.\nCourse: The Old Course at Broken Sound Club.
+ \nLocation: Boca Raton\, Florida\, USA.\nViewing: PGA TOUR Champions annou
+ nced national Golf Channel coverage\; exact daily windows will be added wh
+ en published.\nSchedule details may change.\nOfficial source: https://www.
+ pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour
+ -champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7e1eca7f-65f3-56af-81da-ed3196f1343d
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270322
+SUMMARY:Cologuard Classic
+LOCATION:La Paloma Country Club - Tucson\, Arizona\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-03-19 through 2027-03-21.\nCourse: La Paloma Country Club.\nLocation: T
+ ucson\, Arizona\, USA.\nViewing: PGA TOUR Champions announced national Gol
+ f Channel coverage\; exact daily windows will be added when published.\nSc
+ hedule details may change.\nOfficial source: https://www.pgatour.com/pgato
+ ur-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-s
+ chedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:43585b01-4199-5130-9346-197256ea5ab4
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270329
+SUMMARY:Hoag Senior Players Championship Newport Beach
+LOCATION:Newport Beach Country Club - Newport Beach\, California\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -03-25 through 2027-03-28.\nCourse: Newport Beach Country Club.\nLocation:
+  Newport Beach\, California\, USA.\nViewing: PGA TOUR Champions announced 
+ national Golf Channel coverage\; exact daily windows will be added when pu
+ blished.\nSchedule details may change.\nOfficial source: https://www.pgato
+ ur.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-cham
+ pions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d02879b4-7b59-5192-bdef-31f974b3a2fb
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270419
+SUMMARY:Senior PGA Championship
+LOCATION:The Concession Golf Club - Bradenton\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -04-15 through 2027-04-18.\nCourse: The Concession Golf Club.\nLocation: B
+ radenton\, Florida\, USA.\nViewing: PGA TOUR Champions announced national 
+ Golf Channel coverage\; exact daily windows will be added when published.\
+ nSchedule details may change.\nOfficial source: https://www.pgatour.com/pg
+ atour-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-ful
+ l-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:746f9729-4011-551e-aea8-bffb8f252d18
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270503
+SUMMARY:The Insperity
+LOCATION:The Woodlands Country Club\, Tournament Course - The Woodlands\, T
+ exas\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-04-30 through 2027-05-02.\nCourse: The Woodlands Country Club\, Tournam
+ ent Course.\nLocation: The Woodlands\, Texas\, USA.\nViewing: PGA TOUR Cha
+ mpions announced national Golf Channel coverage\; exact daily windows will
+  be added when published.\nSchedule details may change.\nOfficial source: 
+ https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2
+ 027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4cbbcc72-3ed8-55f3-965f-a19545718212
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270510
+SUMMARY:Mitsubishi Electric Classic
+LOCATION:TPC Sugarloaf - Duluth\, Georgia\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-05-07 through 2027-05-09.\nCourse: TPC Sugarloaf.\nLocation: Duluth\, G
+ eorgia\, USA.\nViewing: PGA TOUR Champions announced national Golf Channel
+  coverage\; exact daily windows will be added when published.\nSchedule de
+ tails may change.\nOfficial source: https://www.pgatour.com/pgatour-champi
+ ons/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedule-a
+ nnounced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8e26d737-a86b-5ed3-93ad-cef94136180a
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:Regions Tradition
+LOCATION:Greystone Golf & Country Club - Birmingham\, Alabama\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -05-13 through 2027-05-16.\nCourse: Greystone Golf & Country Club.\nLocati
+ on: Birmingham\, Alabama\, USA.\nViewing: PGA TOUR Champions announced nat
+ ional Golf Channel coverage\; exact daily windows will be added when publi
+ shed.\nSchedule details may change.\nOfficial source: https://www.pgatour.
+ com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champio
+ ns-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8cdfaeb2-9462-5aa5-af44-1b50d0951732
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:Principal Charity Classic
+LOCATION:Wakonda Club - Des Moines\, Iowa\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-06-04 through 2027-06-06.\nCourse: Wakonda Club.\nLocation: Des Moines\
+ , Iowa\, USA.\nViewing: PGA TOUR Champions announced national Golf Channel
+  coverage\; exact daily windows will be added when published.\nSchedule de
+ tails may change.\nOfficial source: https://www.pgatour.com/pgatour-champi
+ ons/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedule-a
+ nnounced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2a40fb20-2605-5e52-83ce-193d77b2a26f
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270614
+SUMMARY:American Family Insurance Championship
+LOCATION:University Ridge Golf Course - Madison\, Wisconsin\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-06-11 through 2027-06-13.\nCourse: University Ridge Golf Course.\nLocat
+ ion: Madison\, Wisconsin\, USA.\nPGA TOUR Champions' two-man team event.\n
+ Viewing: PGA TOUR Champions announced national Golf Channel coverage\; exa
+ ct daily windows will be added when published.\nSchedule details may chang
+ e.\nOfficial source: https://www.pgatour.com/pgatour-champions/article/new
+ s/latest/2026/10/28/2027-pga-tour-champions-full-schedule-announced-charle
+ s-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9c3fd2ab-cbd3-5c8d-8e53-55bad03993ea
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270628
+SUMMARY:DICK'S Open
+LOCATION:En-Joie Golf Course - Endicott\, New York\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-06-25 through 2027-06-27.\nCourse: En-Joie Golf Course.\nLocation: Endi
+ cott\, New York\, USA.\nViewing: PGA TOUR Champions announced national Gol
+ f Channel coverage\; exact daily windows will be added when published.\nSc
+ hedule details may change.\nOfficial source: https://www.pgatour.com/pgato
+ ur-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-s
+ chedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6337f98d-5ce5-5e33-a9b8-560aab68a3f6
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270705
+SUMMARY:U.S. Senior Open Championship
+LOCATION:Oak Tree National - Edmond\, Oklahoma\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -07-01 through 2027-07-04.\nCourse: Oak Tree National.\nLocation: Edmond\,
+  Oklahoma\, USA.\nViewing: PGA TOUR Champions announced national Golf Chan
+ nel coverage\; exact daily windows will be added when published.\nSchedule
+  details may change.\nOfficial source: https://www.pgatour.com/pgatour-cha
+ mpions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedul
+ e-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7f4b783f-0095-51ea-9a63-9b241699fadb
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270726
+SUMMARY:ISPS HANDA Senior Open
+LOCATION:Royal Porthcawl Golf Club - Bridgend\, Wales
+DESCRIPTION:PGA TOUR Champions 2027 - Senior Major.\nTournament dates: 2027
+ -07-22 through 2027-07-25.\nCourse: Royal Porthcawl Golf Club.\nLocation: 
+ Bridgend\, Wales.\nViewing: PGA TOUR Champions announced national Golf Cha
+ nnel coverage\; exact daily windows will be added when published.\nSchedul
+ e details may change.\nOfficial source: https://www.pgatour.com/pgatour-ch
+ ampions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedu
+ le-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,SENIOR MAJOR
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8d91678d-a521-5cf0-8342-0e0c4747926e
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270802
+SUMMARY:Portugal Invitational
+LOCATION:The Els Club Vilamoura - Vilamoura\, Portugal
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-07-30 through 2027-08-01.\nCourse: The Els Club Vilamoura.\nLocation: V
+ ilamoura\, Portugal.\nViewing: PGA TOUR Champions announced national Golf 
+ Channel coverage\; exact daily windows will be added when published.\nSche
+ dule details may change.\nOfficial source: https://www.pgatour.com/pgatour
+ -champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-sch
+ edule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1306e34f-3748-5714-a894-744ce7b1acf2
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270816
+SUMMARY:Boeing Classic
+LOCATION:The Club at Snoqualmie Ridge - Snoqualmie\, Washington\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-08-13 through 2027-08-15.\nCourse: The Club at Snoqualmie Ridge.\nLocat
+ ion: Snoqualmie\, Washington\, USA.\nViewing: PGA TOUR Champions announced
+  national Golf Channel coverage\; exact daily windows will be added when p
+ ublished.\nSchedule details may change.\nOfficial source: https://www.pgat
+ our.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-cha
+ mpions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:35180d7d-cbd4-5679-9cca-e2e7a1bc4961
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270823
+SUMMARY:Rogers Charity Classic
+LOCATION:Canyon Meadows Golf & Country Club - Calgary\, Alberta\, Canada
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-08-20 through 2027-08-22.\nCourse: Canyon Meadows Golf & Country Club.\
+ nLocation: Calgary\, Alberta\, Canada.\nViewing: PGA TOUR Champions announ
+ ced national Golf Channel coverage\; exact daily windows will be added whe
+ n published.\nSchedule details may change.\nOfficial source: https://www.p
+ gatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-
+ champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e362e462-3a88-5e23-82b0-048bdfffe3c8
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270830
+SUMMARY:The Ally Challenge
+LOCATION:Warwick Hills Golf & Country Club - Grand Blanc\, Michigan\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-08-27 through 2027-08-29.\nCourse: Warwick Hills Golf & Country Club.\n
+ Location: Grand Blanc\, Michigan\, USA.\nViewing: PGA TOUR Champions annou
+ nced national Golf Channel coverage\; exact daily windows will be added wh
+ en published.\nSchedule details may change.\nOfficial source: https://www.
+ pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour
+ -champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:6cdd1546-63c4-5a91-acda-e03df15d822e
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270913
+SUMMARY:Sanford International
+LOCATION:Minnehaha Country Club - Sioux Falls\, South Dakota\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-09-10 through 2027-09-12.\nCourse: Minnehaha Country Club.\nLocation: S
+ ioux Falls\, South Dakota\, USA.\nViewing: PGA TOUR Champions announced na
+ tional Golf Channel coverage\; exact daily windows will be added when publ
+ ished.\nSchedule details may change.\nOfficial source: https://www.pgatour
+ .com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champi
+ ons-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8e00b4bc-0fd7-5a8f-8cae-24ebd522b39f
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+SUMMARY:PURE Insurance Championship
+LOCATION:Pebble Beach Golf Links - Pebble Beach\, California\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-09-24 through 2027-09-26.\nCourse: Pebble Beach Golf Links.\nLocation: 
+ Pebble Beach\, California\, USA.\nPairs PGA TOUR Champions players with ju
+ niors from First Tee.\nViewing: PGA TOUR Champions announced national Golf
+  Channel coverage\; exact daily windows will be added when published.\nSch
+ edule details may change.\nOfficial source: https://www.pgatour.com/pgatou
+ r-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-full-sc
+ hedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:cc334119-dc69-5479-ab2c-fb28fea7a4bb
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271004
+SUMMARY:Jefferson Lehigh Valley Classic
+LOCATION:Lehigh Country Club - Allentown\, Pennsylvania\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-10-01 through 2027-10-03.\nCourse: Lehigh Country Club.\nLocation: Alle
+ ntown\, Pennsylvania\, USA.\nViewing: PGA TOUR Champions announced nationa
+ l Golf Channel coverage\; exact daily windows will be added when published
+ .\nSchedule details may change.\nOfficial source: https://www.pgatour.com/
+ pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champions-f
+ ull-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:128976ec-7c22-5bee-a60e-39283728a1c4
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271011
+SUMMARY:Constellation FURYK & FRIENDS
+LOCATION:Ocean Course at Hammock Beach - Palm Coast\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-10-08 through 2027-10-10.\nCourse: Ocean Course at Hammock Beach.\nLoca
+ tion: Palm Coast\, Florida\, USA.\nViewing: PGA TOUR Champions announced n
+ ational Golf Channel coverage\; exact daily windows will be added when pub
+ lished.\nSchedule details may change.\nOfficial source: https://www.pgatou
+ r.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champ
+ ions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b9c63f69-f7ce-518b-9f95-0d4e66768dc1
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271018
+SUMMARY:SAS Championship
+LOCATION:Prestonwood Country Club - Cary\, North Carolina\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Regular Season.\nTournament dates: 20
+ 27-10-15 through 2027-10-17.\nCourse: Prestonwood Country Club.\nLocation:
+  Cary\, North Carolina\, USA.\nViewing: PGA TOUR Champions announced natio
+ nal Golf Channel coverage\; exact daily windows will be added when publish
+ ed.\nSchedule details may change.\nOfficial source: https://www.pgatour.co
+ m/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champions
+ -full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:fc0eb24f-be45-5ff8-80bd-03f5bf930f3d
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271025
+SUMMARY:Stifel Charity Classic
+LOCATION:Norwood Hills Country Club - St. Louis\, Missouri\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Charles Schwab Cup Playoffs.\nTournam
+ ent dates: 2027-10-22 through 2027-10-24.\nCourse: Norwood Hills Country C
+ lub.\nLocation: St. Louis\, Missouri\, USA.\nViewing: PGA TOUR Champions a
+ nnounced national Golf Channel coverage\; exact daily windows will be adde
+ d when published.\nSchedule details may change.\nOfficial source: https://
+ www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-pga-
+ tour-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHARLES SCHWAB CUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a47932fd-331a-5886-a9b9-e412efc53aab
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271101
+SUMMARY:Simmons Bank Championship
+LOCATION:Pleasant Valley Country Club - Little Rock\, Arkansas\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Charles Schwab Cup Playoffs.\nTournam
+ ent dates: 2027-10-29 through 2027-10-31.\nCourse: Pleasant Valley Country
+  Club.\nLocation: Little Rock\, Arkansas\, USA.\nViewing: PGA TOUR Champio
+ ns announced national Golf Channel coverage\; exact daily windows will be 
+ added when published.\nSchedule details may change.\nOfficial source: http
+ s://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28/2027-
+ pga-tour-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHARLES SCHWAB CUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e8be4beb-6d34-5e29-9256-34f178762807
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271115
+SUMMARY:Charles Schwab Cup Championship
+LOCATION:Papago Golf Club - Phoenix\, Arizona\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Charles Schwab Cup Playoffs.\nTournam
+ ent dates: 2027-11-12 through 2027-11-14.\nCourse: Papago Golf Club.\nLoca
+ tion: Phoenix\, Arizona\, USA.\nViewing: PGA TOUR Champions announced nati
+ onal Golf Channel coverage\; exact daily windows will be added when publis
+ hed.\nSchedule details may change.\nOfficial source: https://www.pgatour.c
+ om/pgatour-champions/article/news/latest/2026/10/28/2027-pga-tour-champion
+ s-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHARLES SCHWAB CUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:57058745-bf6a-58b3-b1a8-14cbfab46c0a
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271206
+SUMMARY:Skechers World Champions Cup supporting Shriners Children's
+LOCATION:To be announced - To be announced
+DESCRIPTION:PGA TOUR Champions 2027 - Challenge Season.\nTournament dates: 
+ 2027-12-02 through 2027-12-05.\nCourse: To be announced.\nLocation: To be 
+ announced.\nDates are official\; the course and location have not yet been
+  announced.\nViewing: PGA TOUR Champions announced national Golf Channel c
+ overage\; exact daily windows will be added when published.\nSchedule deta
+ ils may change.\nOfficial source: https://www.pgatour.com/pgatour-champion
+ s/article/news/latest/2026/10/28/2027-pga-tour-champions-full-schedule-ann
+ ounced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHALLENGE SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:cdd654e1-d2e2-58c4-b5b3-03c0465e575e
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20271220
+SUMMARY:PNC Championship
+LOCATION:Ritz-Carlton Golf Club Orlando - Orlando\, Florida\, USA
+DESCRIPTION:PGA TOUR Champions 2027 - Challenge Season.\nTournament dates: 
+ 2027-12-18 through 2027-12-19.\nCourse: Ritz-Carlton Golf Club Orlando.\nL
+ ocation: Orlando\, Florida\, USA.\nFamily team event.\nViewing: PGA TOUR C
+ hampions announced national Golf Channel coverage\; exact daily windows wi
+ ll be added when published.\nSchedule details may change.\nOfficial source
+ : https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/28
+ /2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+URL:https://www.pgatour.com/pgatour-champions/article/news/latest/2026/10/2
+ 8/2027-pga-tour-champions-full-schedule-announced-charles-schwab-cup
+CATEGORIES:SPORTS,GOLF,PGA TOUR CHAMPIONS,CHALLENGE SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

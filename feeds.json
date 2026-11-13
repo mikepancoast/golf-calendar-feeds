@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "feeds": [
+    {
+      "id": "pga-tour-2027",
+      "kind": "pga-tour",
+      "source": "sources/pga-tour-2027.json",
+      "filename": "pga-tour-2027.ics"
+    },
+    {
+      "id": "dp-world-tour-2027",
+      "kind": "dp-world-tour",
+      "source": "sources/dp-world-tour-2027.json",
+      "filename": "dp-world-tour-2027.ics"
+    },
+    {
+      "id": "amateur-golf-2027-2028",
+      "kind": "amateur",
+      "source": "sources/amateur-golf-2027-2028.json",
+      "filename": "amateur-golf-2027-2028.ics"
+    },
+    {
+      "id": "pga-tour-champions-2027",
+      "kind": "pga-tour-champions",
+      "source": "sources/pga-tour-champions-2027.json",
+      "filename": "pga-tour-champions-2027.ics"
+    },
+    {
+      "id": "tgl-2027",
+      "kind": "tgl",
+      "source": "sources/tgl-2027.json",
+      "filename": "tgl-2027.ics"
+    },
+    {
+      "id": "golf-broadcasts",
+      "kind": "broadcasts",
+      "source": "sources/broadcast-schedules.json",
+      "filename": "golf-broadcasts.ics"
+    },
+    {
+      "id": "golf-late-2026",
+      "kind": "year-end",
+      "source": "sources/golf-late-2026.json",
+      "includeSources": ["dp-world-tour-2027", "tgl-2027", "golf-broadcasts"],
+      "from": "2026-11-02",
+      "through": "2026-12-31",
+      "filename": "golf-late-2026.ics"
+    },
+    {
+      "id": "golf-2027-pga-dp-world",
+      "kind": "combined",
+      "members": ["pga-tour-2027", "dp-world-tour-2027"],
+      "championsSource": "pga-tour-champions-2027",
+      "amateurSource": "amateur-golf-2027-2028",
+      "broadcastSource": "golf-broadcasts",
+      "tglSource": "tgl-2027",
+      "yearEndSource": "golf-late-2026",
+      "filename": "golf-2027-pga-dp-world.ics",
+      "calendar": {
+        "name": "Golf Calendar - Late 2026 + All Announced 2027 (No LPGA)",
+        "description": "Combined late-2026 and officially announced 2027 PGA TOUR, DP World Tour, PGA TOUR Champions, TGL and USGA amateur calendar, plus confirmed special-event broadcasts. LPGA and LPGA co-sanctioned events are excluded.",
+        "namespace": "bc2b0499-20d3-47aa-9c0b-3b528be5ee64",
+        "generatedAt": "20261019T180000Z"
+      }
+    }
+  ]
+}

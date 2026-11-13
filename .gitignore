@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+# Local project provenance and automation instructions stay on this Mac.
+/README.md
+/AUTOMATION.md
+/PUBLISHING.md

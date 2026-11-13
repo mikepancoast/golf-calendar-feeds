@@ -1,0 +1,758 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Pancoast//Golf iCal Subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+UID:urn:uuid:2ddaf50b-6bbc-4ac0-9838-04694882692e
+NAME:PGA TOUR 2027 - Competition Days
+X-WR-CALNAME:PGA TOUR 2027 - Competition Days
+DESCRIPTION:Unofficial calendar based on the PGA TOUR's published 2027 sche
+ dule through the TOUR Championship. The FedExCup Fall schedule has not yet
+  been announced.
+X-WR-CALDESC:Unofficial calendar based on the PGA TOUR's published 2027 sch
+ edule through the TOUR Championship. The FedExCup Fall schedule has not ye
+ t been announced.
+LAST-MODIFIED:20260905T183500Z
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+URL:https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announc
+ es-2027-schedule-through-tour-championship
+BEGIN:VEVENT
+UID:urn:uuid:a237412a-3d41-5f9f-9cdc-55bdc47c531d
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+SUMMARY:The American Express
+LOCATION:PGA WEST (Pete Dye Stadium Course\, Nicklaus Tournament Course\, L
+ a Quinta Country Club) - La Quinta\, California\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Jan.
+  18-24\, 2027.\nCourse(s): PGA WEST (Pete Dye Stadium Course\, Nicklaus To
+ urnament Course\, La Quinta Country Club).\nLocation: La Quinta\, Californ
+ ia\, USA.\nFedExCup points: 500.\nSchedule details may change.\nSource: ht
+ tps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-20
+ 27-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:78b7eba0-5f24-5317-8924-cd8e9a72cf99
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270131
+SUMMARY:The Sentry
+LOCATION:Torrey Pines Golf Course (South Course\, North Course) - San Diego
+ \, California\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Jan.
+  25-30\, 2027.\nCourse(s): Torrey Pines Golf Course (South Course\, North 
+ Course).\nLocation: San Diego\, California\, USA.\nFedExCup points: 500.\n
+ Wednesday-Saturday competition\; the only scheduled Saturday finish on TOU
+ R.\nSchedule details may change.\nSource: https://www.pgatour.com/article/
+ news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champ
+ ionship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2d9af94f-1e2e-5c3f-8210-f97aea818601
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270208
+SUMMARY:AT&T Pebble Beach Pro-Am
+LOCATION:Pebble Beach Golf Links\, Spyglass Hill Golf Course - Pebble Beach
+ \, California\, USA
+DESCRIPTION:PGA TOUR 2027 - Signature Event.\nOfficial tournament week: Feb
+ . 1-7\, 2027.\nCourse(s): Pebble Beach Golf Links\, Spyglass Hill Golf Cou
+ rse.\nLocation: Pebble Beach\, California\, USA.\nFedExCup points: 700.\nS
+ chedule details may change.\nSource: https://www.pgatour.com/article/news/
+ latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championsh
+ ip
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,SIGNATURE EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:92211c70-62ea-5b73-9d95-bd6f4428790d
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270215
+SUMMARY:WM Phoenix Open
+LOCATION:TPC Scottsdale (Stadium Course) - Scottsdale\, Arizona\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Feb.
+  8-14\, 2027.\nCourse(s): TPC Scottsdale (Stadium Course).\nLocation: Scot
+ tsdale\, Arizona\, USA.\nFedExCup points: 500.\nSchedule details may chang
+ e.\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tou
+ r-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b0172246-4126-5265-9632-e405855e4531
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+SUMMARY:The Genesis Invitational
+LOCATION:The Riviera Country Club - Pacific Palisades\, California\, USA
+DESCRIPTION:PGA TOUR 2027 - Signature Event.\nOfficial tournament week: Feb
+ . 15-21\, 2027.\nCourse(s): The Riviera Country Club.\nLocation: Pacific P
+ alisades\, California\, USA.\nFedExCup points: 700.\nSchedule details may 
+ change.\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/pg
+ a-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,SIGNATURE EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9d958871-815e-5d5f-be3e-128ce0c01dd8
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+SUMMARY:PGA TOUR event (TBD)
+DESCRIPTION:PGA TOUR 2027 - Additional Event.\nOfficial tournament week: Fe
+ b. 15-21\, 2027.\nFedExCup points: 300.\nTournament name\, venue and locat
+ ion remain to be announced.\nSchedule details may change.\nSource: https:/
+ /www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-sc
+ hedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,ADDITIONAL EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5c082dac-8004-5882-9bd8-27386d8ab7a8
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:Cognizant Classic in The Palm Beaches
+LOCATION:PGA National Resort (The Champion Course) - Palm Beach Gardens\, F
+ lorida\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Feb.
+  22-28\, 2027.\nCourse(s): PGA National Resort (The Champion Course).\nLoc
+ ation: Palm Beach Gardens\, Florida\, USA.\nFedExCup points: 500.\nSchedul
+ e details may change.\nSource: https://www.pgatour.com/article/news/latest
+ /2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:20626b18-a511-5c98-95c8-12c29a483041
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270308
+SUMMARY:Cadillac Championship
+LOCATION:Trump National Doral (Blue Monster) - Miami\, Florida\, USA
+DESCRIPTION:PGA TOUR 2027 - Signature Event.\nOfficial tournament week: Mar
+ ch 1-7\, 2027.\nCourse(s): Trump National Doral (Blue Monster).\nLocation:
+  Miami\, Florida\, USA.\nFedExCup points: 700.\nSchedule details may chang
+ e.\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tou
+ r-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,SIGNATURE EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:63e05c99-d9f5-5137-8332-771218a79ed0
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+SUMMARY:THE PLAYERS Championship
+LOCATION:TPC Sawgrass (THE PLAYERS Stadium Course) - Ponte Vedra Beach\, Fl
+ orida\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Marc
+ h 8-14\, 2027.\nCourse(s): TPC Sawgrass (THE PLAYERS Stadium Course).\nLoc
+ ation: Ponte Vedra Beach\, Florida\, USA.\nFedExCup points: 750.\nSchedule
+  details may change.\nSource: https://www.pgatour.com/article/news/latest/
+ 2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a45b17d0-85fa-59eb-8e2e-4159b15c6dc9
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:Arnold Palmer Invitational presented by Mastercard
+LOCATION:Arnold Palmer's Bay Hill Club & Lodge - Orlando\, Florida\, USA
+DESCRIPTION:PGA TOUR 2027 - Signature Event.\nOfficial tournament week: Mar
+ ch 15-21\, 2027.\nCourse(s): Arnold Palmer's Bay Hill Club & Lodge.\nLocat
+ ion: Orlando\, Florida\, USA.\nFedExCup points: 700.\nSchedule details may
+  change.\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/p
+ ga-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,SIGNATURE EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:dae1a5fe-7a13-5281-bbd4-1883ace57b87
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270329
+SUMMARY:Texas Children's Houston Open
+LOCATION:Memorial Park Golf Course - Houston\, Texas\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Marc
+ h 22-28\, 2027.\nCourse(s): Memorial Park Golf Course.\nLocation: Houston\
+ , Texas\, USA.\nFedExCup points: 500.\nSchedule details may change.\nSourc
+ e: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announc
+ es-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4522caa4-44f7-5377-9570-667dd5529561
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+SUMMARY:Valero Texas Open
+LOCATION:TPC San Antonio (Oaks Course) - San Antonio\, Texas\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Marc
+ h 29-April 4\, 2027.\nCourse(s): TPC San Antonio (Oaks Course).\nLocation:
+  San Antonio\, Texas\, USA.\nFedExCup points: 500.\nSchedule details may c
+ hange.\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/pga
+ -tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:25ce924e-caea-5e59-bf32-f187364232cc
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+SUMMARY:Masters Tournament
+LOCATION:Augusta National Golf Club - Augusta\, Georgia\, USA
+DESCRIPTION:PGA TOUR 2027 - Major Championship.\nOfficial tournament week: 
+ April 5-11\, 2027.\nCourse(s): Augusta National Golf Club.\nLocation: Augu
+ sta\, Georgia\, USA.\nFedExCup points: 750.\nNot PGA TOUR co-sponsored.\nS
+ chedule details may change.\nSource: https://www.pgatour.com/article/news/
+ latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championsh
+ ip
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,MAJOR CHAMPIONSHIP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:bda3e793-1f01-5155-8ece-99c440fe8022
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270419
+SUMMARY:RBC Heritage
+LOCATION:Harbour Town Golf Links - Hilton Head Island\, South Carolina\, US
+ A
+DESCRIPTION:PGA TOUR 2027 - Signature Event.\nOfficial tournament week: Apr
+ il 12-18\, 2027.\nCourse(s): Harbour Town Golf Links.\nLocation: Hilton He
+ ad Island\, South Carolina\, USA.\nFedExCup points: 700.\nSchedule details
+  may change.\nSource: https://www.pgatour.com/article/news/latest/2026/08/
+ 26/pga-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,SIGNATURE EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:fc445f9f-01cf-50e6-bcb1-d1a955379245
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270426
+SUMMARY:Zurich Classic of New Orleans
+LOCATION:TPC Louisiana - Avondale\, Louisiana\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Apri
+ l 19-25\, 2027.\nCourse(s): TPC Louisiana.\nLocation: Avondale\, Louisiana
+ \, USA.\nFedExCup points: 400.\nSchedule details may change.\nSource: http
+ s://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027
+ -schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:98ed8d12-340c-539f-ae8f-0b10ee70df2a
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+SUMMARY:THE CJ CUP Byron Nelson
+LOCATION:TPC Craig Ranch - McKinney\, Texas\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Apri
+ l 26-May 2\, 2027.\nCourse(s): TPC Craig Ranch.\nLocation: McKinney\, Texa
+ s\, USA.\nFedExCup points: 500.\nSchedule details may change.\nSource: htt
+ ps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-202
+ 7-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3df6f954-d744-5e93-817f-6bd62b067441
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+SUMMARY:Valspar Championship
+LOCATION:Innisbrook Resort (Copperhead Course) - Palm Harbor\, Florida\, US
+ A
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: May 
+ 3-9\, 2027.\nCourse(s): Innisbrook Resort (Copperhead Course).\nLocation: 
+ Palm Harbor\, Florida\, USA.\nFedExCup points: 500.\nSchedule details may 
+ change.\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/pg
+ a-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:05dbbc56-825a-50e8-95f1-0b9cb102abb1
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:Truist Championship
+LOCATION:Quail Hollow Club - Charlotte\, North Carolina\, USA
+DESCRIPTION:PGA TOUR 2027 - Signature Event.\nOfficial tournament week: May
+  10-16\, 2027.\nCourse(s): Quail Hollow Club.\nLocation: Charlotte\, North
+  Carolina\, USA.\nFedExCup points: 700.\nSchedule details may change.\nSou
+ rce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-annou
+ nces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,SIGNATURE EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0d3f4639-fc9d-50ae-933a-d14abaa0edff
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:ONEflight Myrtle Beach Classic
+LOCATION:Dunes Golf and Beach Club - Myrtle Beach\, South Carolina\, USA
+DESCRIPTION:PGA TOUR 2027 - Additional Event.\nOfficial tournament week: Ma
+ y 10-16\, 2027.\nCourse(s): Dunes Golf and Beach Club.\nLocation: Myrtle B
+ each\, South Carolina\, USA.\nFedExCup points: 300.\nSchedule details may 
+ change.\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/pg
+ a-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,ADDITIONAL EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:77173c09-7dd8-5681-b768-049aa168e7de
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270524
+SUMMARY:PGA Championship
+LOCATION:Fields Ranch East at PGA Frisco - Frisco\, Texas\, USA
+DESCRIPTION:PGA TOUR 2027 - Major Championship.\nOfficial tournament week: 
+ May 17-23\, 2027.\nCourse(s): Fields Ranch East at PGA Frisco.\nLocation: 
+ Frisco\, Texas\, USA.\nFedExCup points: 750.\nNot PGA TOUR co-sponsored.\n
+ Schedule details may change.\nSource: https://www.pgatour.com/article/news
+ /latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champions
+ hip
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,MAJOR CHAMPIONSHIP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9b0726a7-4e23-5c1c-ac16-876734d439c0
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270531
+SUMMARY:Charles Schwab Challenge
+LOCATION:Colonial Country Club - Fort Worth\, Texas\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: May 
+ 24-30\, 2027.\nCourse(s): Colonial Country Club.\nLocation: Fort Worth\, T
+ exas\, USA.\nFedExCup points: 500.\nSchedule details may change.\nSource: 
+ https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-
+ 2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2ae5d8f9-2f0c-5587-a8bd-0da17ec17932
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270607
+SUMMARY:the Memorial Tournament presented by Workday
+LOCATION:Muirfield Village Golf Club - Dublin\, Ohio\, USA
+DESCRIPTION:PGA TOUR 2027 - Signature Event.\nOfficial tournament week: May
+  31-June 6\, 2027.\nCourse(s): Muirfield Village Golf Club.\nLocation: Dub
+ lin\, Ohio\, USA.\nFedExCup points: 700.\nSchedule details may change.\nSo
+ urce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-anno
+ unces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,SIGNATURE EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c7f9ff0a-d7fa-5125-8545-8713765587e4
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270614
+SUMMARY:RBC Canadian Open
+LOCATION:TPC Toronto at Osprey Valley (North Course) - Caledon\, Ontario\, 
+ Canada
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: June
+  7-13\, 2027.\nCourse(s): TPC Toronto at Osprey Valley (North Course).\nLo
+ cation: Caledon\, Ontario\, Canada.\nFedExCup points: 500.\nSchedule detai
+ ls may change.\nSource: https://www.pgatour.com/article/news/latest/2026/0
+ 8/26/pga-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c8c3e560-ba9b-5088-8219-6e03a8720524
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270621
+SUMMARY:U.S. Open
+LOCATION:Pebble Beach Golf Links - Pebble Beach\, California\, USA
+DESCRIPTION:PGA TOUR 2027 - Major Championship.\nOfficial tournament week: 
+ June 14-20\, 2027.\nCourse(s): Pebble Beach Golf Links.\nLocation: Pebble 
+ Beach\, California\, USA.\nFedExCup points: 750.\nNot PGA TOUR co-sponsore
+ d.\nSchedule details may change.\nSource: https://www.pgatour.com/article/
+ news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champ
+ ionship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,MAJOR CHAMPIONSHIP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a30623ff-cb3d-5e6f-9ecd-0bb646780c26
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270628
+SUMMARY:Travelers Championship
+LOCATION:TPC River Highlands - Cromwell\, Connecticut\, USA
+DESCRIPTION:PGA TOUR 2027 - Signature Event.\nOfficial tournament week: Jun
+ e 21-27\, 2027.\nCourse(s): TPC River Highlands.\nLocation: Cromwell\, Con
+ necticut\, USA.\nFedExCup points: 700.\nSchedule details may change.\nSour
+ ce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announ
+ ces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,SIGNATURE EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4899babb-b017-51cb-b314-0f37a9e3efe7
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270705
+SUMMARY:John Deere Classic
+LOCATION:TPC Deere Run - Silvis\, Illinois\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: June
+  28-July 4\, 2027.\nCourse(s): TPC Deere Run.\nLocation: Silvis\, Illinois
+ \, USA.\nFedExCup points: 500.\nSchedule details may change.\nSource: http
+ s://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027
+ -schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:afb008c0-4eaa-57c0-9f57-b830d5281ebe
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:Genesis Scottish Open
+LOCATION:The Renaissance Club - North Berwick\, Scotland
+DESCRIPTION:PGA TOUR 2027 - Co-sanctioned Event.\nOfficial tournament week:
+  July 5-11\, 2027.\nCourse(s): The Renaissance Club.\nLocation: North Berw
+ ick\, Scotland.\nFedExCup points: 500.\nCo-sanctioned with the DP World To
+ ur.\nSchedule details may change.\nSource: https://www.pgatour.com/article
+ /news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-cham
+ pionship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,CO-SANCTIONED EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:40d9be04-4121-591a-a0c5-19ffff3d18b8
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:ISCO Championship
+LOCATION:Hurstbourne Country Club - Louisville\, Kentucky\, USA
+DESCRIPTION:PGA TOUR 2027 - Additional Event.\nOfficial tournament week: Ju
+ ly 5-11\, 2027.\nCourse(s): Hurstbourne Country Club.\nLocation: Louisvill
+ e\, Kentucky\, USA.\nFedExCup points: 300.\nSchedule details may change.\n
+ Source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
+ nounces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,ADDITIONAL EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9e46c08d-d66b-5a60-8abc-447e487906d8
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270719
+SUMMARY:The Open Championship
+LOCATION:St Andrews Links (Old Course) - Fife\, Scotland
+DESCRIPTION:PGA TOUR 2027 - Major Championship.\nOfficial tournament week: 
+ July 12-18\, 2027.\nCourse(s): St Andrews Links (Old Course).\nLocation: F
+ ife\, Scotland.\nFedExCup points: 750.\nNot PGA TOUR co-sponsored.\nSchedu
+ le details may change.\nSource: https://www.pgatour.com/article/news/lates
+ t/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,MAJOR CHAMPIONSHIP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:380bba41-4642-5541-b786-6577a6322d66
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270719
+SUMMARY:Corales Puntacana Championship
+LOCATION:Puntacana Resort & Club (Corales Golf Course) - Punta Cana\, Domin
+ ican Republic
+DESCRIPTION:PGA TOUR 2027 - Additional Event.\nOfficial tournament week: Ju
+ ly 12-18\, 2027.\nCourse(s): Puntacana Resort & Club (Corales Golf Course)
+ .\nLocation: Punta Cana\, Dominican Republic.\nFedExCup points: 300.\nSche
+ dule details may change.\nSource: https://www.pgatour.com/article/news/lat
+ est/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,ADDITIONAL EVENT
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:93521a79-3821-51ad-bd4d-787458b9e1f2
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270726
+SUMMARY:3M Open
+LOCATION:TPC Twin Cities - Blaine\, Minnesota\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: July
+  19-25\, 2027.\nCourse(s): TPC Twin Cities.\nLocation: Blaine\, Minnesota\
+ , USA.\nFedExCup points: 500.\nSchedule details may change.\nSource: https
+ ://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-
+ schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:8d26fb6d-7250-5800-9203-421508dc1a69
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270802
+SUMMARY:Sompo Championship
+LOCATION:Silverado Resort (North Course) - Napa\, California\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: July
+  26-Aug. 1\, 2027.\nCourse(s): Silverado Resort (North Course).\nLocation:
+  Napa\, California\, USA.\nFedExCup points: 500.\nNew full-field event for
+  2027.\nSchedule details may change.\nSource: https://www.pgatour.com/arti
+ cle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-c
+ hampionship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:cdb59952-99e4-5eb5-a06c-531d0bb72a9c
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270809
+SUMMARY:GO by Raymond James
+LOCATION:Sedgefield Country Club - Greensboro\, North Carolina\, USA
+DESCRIPTION:PGA TOUR 2027 - Regular Season.\nOfficial tournament week: Aug.
+  2-8\, 2027.\nCourse(s): Sedgefield Country Club.\nLocation: Greensboro\, 
+ North Carolina\, USA.\nFedExCup points: 500.\nFedExCup regular-season fina
+ le.\nSchedule details may change.\nSource: https://www.pgatour.com/article
+ /news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-cham
+ pionship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,REGULAR SEASON
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:289f0589-2c22-562d-a5a0-36030408daff
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270816
+SUMMARY:FedEx St. Jude Championship
+LOCATION:TPC Southwind - Memphis\, Tennessee\, USA
+DESCRIPTION:PGA TOUR 2027 - FedExCup Playoffs.\nOfficial tournament week: A
+ ug. 9-15\, 2027.\nCourse(s): TPC Southwind.\nLocation: Memphis\, Tennessee
+ \, USA.\nFedExCup points: 750.\nSchedule details may change.\nSource: http
+ s://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027
+ -schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,FEDEXCUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:9d60f61d-5f81-502e-9deb-03d29629aa2a
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270823
+SUMMARY:BMW Championship
+LOCATION:Liberty National Golf Club - Jersey City\, New Jersey\, USA
+DESCRIPTION:PGA TOUR 2027 - FedExCup Playoffs.\nOfficial tournament week: A
+ ug. 16-22\, 2027.\nCourse(s): Liberty National Golf Club.\nLocation: Jerse
+ y City\, New Jersey\, USA.\nFedExCup points: 750.\nSchedule details may ch
+ ange.\nSource: https://www.pgatour.com/article/news/latest/2026/08/26/pga-
+ tour-announces-2027-schedule-through-tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,FEDEXCUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:682a504a-eb30-5c5d-95d0-ede7723adeef
+DTSTAMP:20260905T183500Z
+LAST-MODIFIED:20260905T183500Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
+SUMMARY:TOUR Championship
+LOCATION:East Lake Golf Club - Atlanta\, Georgia\, USA
+DESCRIPTION:PGA TOUR 2027 - FedExCup Playoffs.\nOfficial tournament week: A
+ ug. 23-29\, 2027.\nCourse(s): East Lake Golf Club.\nLocation: Atlanta\, Ge
+ orgia\, USA.\nSchedule details may change.\nSource: https://www.pgatour.co
+ m/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-
+ tour-championship
+URL:https://www.pgatour.com/schedule/2027
+CATEGORIES:SPORTS,GOLF,PGA TOUR,FEDEXCUP PLAYOFFS
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

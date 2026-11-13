@@ -1,0 +1,47 @@
+{
+  "calendar": {
+    "name": "U.S. Amateur, U.S. Mid-Amateur & Walker Cup",
+    "description": "Confirmed championship dates and locations for the 2027 U.S. Amateur, 2027 U.S. Mid-Amateur and the next Walker Cup in 2028, plus the latest official viewing information.",
+    "namespace": "7711219a-8cb2-4939-9d98-c37a46e08c71",
+    "generatedAt": "20260906T130803Z"
+  },
+  "events": [
+    {
+      "id": "us-amateur-2027",
+      "summary": "2027 U.S. Amateur",
+      "start": "2027-08-09",
+      "end": "2027-08-15",
+      "course": "Oak Hill Country Club (East and West Courses)",
+      "location": "Pittsford, New York, USA",
+      "viewing": "Golf Channel is the announced U.S. rights holder. Exact 2027 broadcast dates and times have not yet been published.",
+      "source": "https://championships.usga.org/usamateur/future-sites.html",
+      "viewingSource": "https://www.usga.org/content/usga/home-page/articles/2025/08/NBCUniversal-USGA-extend-media-rights-agreement-through-2032.html",
+      "categories": ["USGA", "U.S. AMATEUR"]
+    },
+    {
+      "id": "us-mid-amateur-2027",
+      "summary": "2027 U.S. Mid-Amateur",
+      "start": "2027-09-18",
+      "end": "2027-09-23",
+      "course": "Jupiter Hills Club (Hills Course; Village Course for stroke-play co-hosting)",
+      "location": "Tequesta, Florida, USA",
+      "viewing": "No official 2027 television or streaming schedule has been announced.",
+      "source": "https://championships.usga.org/usmidamateur/future-sites.html",
+      "viewingSource": null,
+      "categories": ["USGA", "U.S. MID-AMATEUR"]
+    },
+    {
+      "id": "walker-cup-2028",
+      "summary": "2028 Walker Cup",
+      "start": "2028-09-09",
+      "end": "2028-09-10",
+      "course": "Bandon Dunes Golf Resort (Bandon Dunes Course)",
+      "location": "Bandon, Oregon, USA",
+      "viewing": "Golf Channel is the announced U.S. rights holder. Exact 2028 broadcast dates and times have not yet been published.",
+      "source": "https://championships.usga.org/walkercup/future-sites-walker-cup.html",
+      "viewingSource": "https://www.usga.org/content/usga/home-page/articles/2025/08/NBCUniversal-USGA-extend-media-rights-agreement-through-2032.html",
+      "note": "There is no Walker Cup in 2027. The biennial match moved to even-numbered years beginning in 2026.",
+      "categories": ["USGA", "THE R&A", "WALKER CUP", "TEAM EVENT"]
+    }
+  ]
+}

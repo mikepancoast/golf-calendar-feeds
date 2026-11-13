@@ -1,0 +1,742 @@
+{
+  "calendar": {
+    "name": "Golf Broadcast Schedule",
+    "description": "Confirmed television and streaming windows for tournaments in the golf calendar. Times are stored in UTC and displayed in the subscriber's local time zone.",
+    "namespace": "8de9f640-2344-4bcd-a3bf-2d2a79b244f1",
+    "generatedAt": "20261111T131020Z",
+    "sourceUrls": [
+      "https://www.pgatour.com/watch",
+      "https://internationalmedia.pgatour.com/schedules",
+      "https://www.europeantour.com/dpworld-tour/watch/",
+      "https://www.usga.org/content/usga/home-page/watch.html"
+    ]
+  },
+  "events": [
+    {
+      "id": "optum-golf-channel-games-2026-12-16-golf-channel-usa-network",
+      "summary": "Watch: Optum Golf Channel Games",
+      "tournament": "Optum Golf Channel Games",
+      "tour": "Golf Channel / PGA TOUR Studios",
+      "coverageType": "Live primetime event coverage",
+      "startUtc": "2026-12-17T00:00:00Z",
+      "endUtc": "2026-12-17T04:00:00Z",
+      "platforms": [
+        "Golf Channel",
+        "USA Network"
+      ],
+      "publishedTimeLabel": "Wednesday, December 16, 2026, 7-11 p.m. ET",
+      "territory": "United States",
+      "location": "Trump National Golf Club Jupiter - Jupiter, Florida, USA",
+      "note": "Rory McIlroy and Scottie Scheffler captain opposing four-player teams. Golf Channel lists pregame from 7–7:30 p.m., competition from 7:30–10:30 p.m., and postgame from 10:30–11 p.m. Eastern.",
+      "sourceUrl": "https://thegolfchannelgames.com/",
+      "announcementUrl": "https://www.golfchannel.com/news/news/2026-optum-golf-channel-games-how-to-watch-teams-competition-lineup",
+      "sequence": 1,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "abu-dhabi-aldar-2026-2026-11-05-round-coverage-golf-channel",
+      "summary": "Watch: Abu Dhabi Aldar Championship",
+      "tournament": "Abu Dhabi Aldar Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-05T07:00:00Z",
+      "endUtc": "2026-11-05T13:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 5, 2026, 2-8 a.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm-this-week",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "abu-dhabi-aldar-2026-2026-11-06-round-coverage-golf-channel",
+      "summary": "Watch: Abu Dhabi Aldar Championship",
+      "tournament": "Abu Dhabi Aldar Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-06T07:00:00Z",
+      "endUtc": "2026-11-06T13:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 6, 2026, 2-8 a.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm-this-week",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "abu-dhabi-aldar-2026-2026-11-07-round-coverage-golf-channel",
+      "summary": "Watch: Abu Dhabi Aldar Championship",
+      "tournament": "Abu Dhabi Aldar Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-07T07:00:00Z",
+      "endUtc": "2026-11-07T13:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 7, 2026, 2-8 a.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm-this-week",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "abu-dhabi-aldar-2026-2026-11-08-round-coverage-golf-channel",
+      "summary": "Watch: Abu Dhabi Aldar Championship",
+      "tournament": "Abu Dhabi Aldar Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-08T06:30:00Z",
+      "endUtc": "2026-11-08T12:30:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 8, 2026, 1:30-7:30 a.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm-this-week",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "hero-world-challenge-2026-2026-12-03-round-coverage-golf-channel",
+      "summary": "Watch: Hero World Challenge",
+      "tournament": "Hero World Challenge",
+      "tour": "PGA TOUR unofficial event",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-12-03T18:30:00Z",
+      "endUtc": "2026-12-03T21:30:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "December 3, 2026, 1:30-4:30 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://heroworldchallenge.com/spectator/",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "hero-world-challenge-2026-2026-12-04-round-coverage-golf-channel",
+      "summary": "Watch: Hero World Challenge",
+      "tournament": "Hero World Challenge",
+      "tour": "PGA TOUR unofficial event",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-12-04T18:30:00Z",
+      "endUtc": "2026-12-04T21:30:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "December 4, 2026, 1:30-4:30 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://heroworldchallenge.com/spectator/",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "hero-world-challenge-2026-2026-12-05-round-coverage-golf-channel",
+      "summary": "Watch: Hero World Challenge",
+      "tournament": "Hero World Challenge",
+      "tour": "PGA TOUR unofficial event",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-12-05T17:00:00Z",
+      "endUtc": "2026-12-05T19:30:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "December 5, 2026, 12-2:30 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://heroworldchallenge.com/spectator/",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "hero-world-challenge-2026-2026-12-05-round-coverage-nbc",
+      "summary": "Watch: Hero World Challenge",
+      "tournament": "Hero World Challenge",
+      "tour": "PGA TOUR unofficial event",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-12-05T19:30:00Z",
+      "endUtc": "2026-12-05T22:00:00Z",
+      "platforms": [
+        "NBC"
+      ],
+      "publishedTimeLabel": "December 5, 2026, 2:30-5 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://heroworldchallenge.com/spectator/",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "hero-world-challenge-2026-2026-12-06-round-coverage-golf-channel",
+      "summary": "Watch: Hero World Challenge",
+      "tournament": "Hero World Challenge",
+      "tour": "PGA TOUR unofficial event",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-12-06T16:30:00Z",
+      "endUtc": "2026-12-06T18:30:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "December 6, 2026, 11:30 a.m.-1:30 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://heroworldchallenge.com/spectator/",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "hero-world-challenge-2026-2026-12-06-round-coverage-nbc",
+      "summary": "Watch: Hero World Challenge",
+      "tournament": "Hero World Challenge",
+      "tour": "PGA TOUR unofficial event",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-12-06T18:30:00Z",
+      "endUtc": "2026-12-06T21:30:00Z",
+      "platforms": [
+        "NBC"
+      ],
+      "publishedTimeLabel": "December 6, 2026, 1:30-4:30 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://heroworldchallenge.com/spectator/",
+      "sequence": 0,
+      "lastModified": "20261103T142413Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "world-wide-technology-championship-2026-2026-11-05-round-coverage-golf-channel",
+      "summary": "Watch: World Wide Technology Championship",
+      "tournament": "World Wide Technology Championship",
+      "tour": "PGA TOUR",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-05T20:00:00Z",
+      "endUtc": "2026-11-05T23:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 5, 2026, 3-6 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-details-leaderboard-updates",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15,
+      "announcementUrl": "https://www.golfchannel.com/pga-tour/news/2026-world-wide-technology-championship-round-1-tee-times-groupings-how-to-watch"
+    },
+    {
+      "id": "world-wide-technology-championship-2026-2026-11-06-round-coverage-golf-channel",
+      "summary": "Watch: World Wide Technology Championship",
+      "tournament": "World Wide Technology Championship",
+      "tour": "PGA TOUR",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-06T20:00:00Z",
+      "endUtc": "2026-11-06T23:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 6, 2026, 3-6 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-details-leaderboard-updates",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15,
+      "announcementUrl": "https://www.golfchannel.com/pga-tour/news/2026-world-wide-technology-championship-round-2-tee-times-groupings-and-how-to-watch"
+    },
+    {
+      "id": "world-wide-technology-championship-2026-2026-11-07-round-coverage-golf-channel",
+      "summary": "Watch: World Wide Technology Championship",
+      "tournament": "World Wide Technology Championship",
+      "tour": "PGA TOUR",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-07T20:00:00Z",
+      "endUtc": "2026-11-07T23:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 7, 2026, 3-6 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-details-leaderboard-updates",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15,
+      "announcementUrl": "https://www.golfchannel.com/watch/on-air-schedule"
+    },
+    {
+      "id": "world-wide-technology-championship-2026-2026-11-08-round-coverage-golf-channel",
+      "summary": "Watch: World Wide Technology Championship",
+      "tournament": "World Wide Technology Championship",
+      "tour": "PGA TOUR",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-08T20:00:00Z",
+      "endUtc": "2026-11-08T23:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 8, 2026, 3-6 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-details-leaderboard-updates",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15,
+      "announcementUrl": "https://www.golfchannel.com/watch/on-air-schedule"
+    },
+    {
+      "id": "the-rsm-classic-2026-2026-11-19-round-coverage-golf-channel",
+      "summary": "Watch: The RSM Classic",
+      "tournament": "The RSM Classic",
+      "tour": "PGA TOUR",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-19T17:00:00Z",
+      "endUtc": "2026-11-19T20:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 19, 2026, 12-3pm (Sea Island local time)",
+      "territory": "United States",
+      "sourceUrl": "https://rsmclassic.com/spectator-info/all/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "the-rsm-classic-2026-2026-11-20-round-coverage-golf-channel",
+      "summary": "Watch: The RSM Classic",
+      "tournament": "The RSM Classic",
+      "tour": "PGA TOUR",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-20T17:00:00Z",
+      "endUtc": "2026-11-20T20:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 20, 2026, 12-3pm (Sea Island local time)",
+      "territory": "United States",
+      "sourceUrl": "https://rsmclassic.com/spectator-info/all/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "the-rsm-classic-2026-2026-11-21-round-coverage-golf-channel",
+      "summary": "Watch: The RSM Classic",
+      "tournament": "The RSM Classic",
+      "tour": "PGA TOUR",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-21T18:00:00Z",
+      "endUtc": "2026-11-21T21:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 21, 2026, 1-4pm (Sea Island local time)",
+      "territory": "United States",
+      "sourceUrl": "https://rsmclassic.com/spectator-info/all/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "the-rsm-classic-2026-2026-11-22-round-coverage-golf-channel",
+      "summary": "Watch: The RSM Classic",
+      "tournament": "The RSM Classic",
+      "tour": "PGA TOUR",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-22T18:00:00Z",
+      "endUtc": "2026-11-22T21:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 22, 2026, 1-4pm (Sea Island local time)",
+      "territory": "United States",
+      "sourceUrl": "https://rsmclassic.com/spectator-info/all/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "skechers-world-champions-cup-2026-2026-12-03-round-coverage-golf-channel",
+      "summary": "Watch: Skechers World Champions Cup supporting Shriners Children's",
+      "tournament": "Skechers World Champions Cup supporting Shriners Children's",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live round 1 coverage",
+      "startUtc": "2026-12-03T14:30:00Z",
+      "endUtc": "2026-12-03T17:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "December 3, 2026, 9:30 AM – 12:00 PM ET",
+      "territory": "United States",
+      "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "skechers-world-champions-cup-2026-2026-12-03-round-coverage-espn2",
+      "summary": "Watch: Skechers World Champions Cup supporting Shriners Children's",
+      "tournament": "Skechers World Champions Cup supporting Shriners Children's",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live round 2 coverage",
+      "startUtc": "2026-12-03T17:00:00Z",
+      "endUtc": "2026-12-03T21:00:00Z",
+      "platforms": [
+        "ESPN2"
+      ],
+      "publishedTimeLabel": "December 3, 2026, 12:00 PM – 4:00 PM ET",
+      "territory": "United States",
+      "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "skechers-world-champions-cup-2026-2026-12-04-round-coverage-golf-channel",
+      "summary": "Watch: Skechers World Champions Cup supporting Shriners Children's",
+      "tournament": "Skechers World Champions Cup supporting Shriners Children's",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live round 3 coverage",
+      "startUtc": "2026-12-04T14:30:00Z",
+      "endUtc": "2026-12-04T17:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "December 4, 2026, 9:30 AM – 12:00 PM ET",
+      "territory": "United States",
+      "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "skechers-world-champions-cup-2026-2026-12-04-round-coverage-espn2",
+      "summary": "Watch: Skechers World Champions Cup supporting Shriners Children's",
+      "tournament": "Skechers World Champions Cup supporting Shriners Children's",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live round 4 coverage",
+      "startUtc": "2026-12-04T17:00:00Z",
+      "endUtc": "2026-12-04T21:00:00Z",
+      "platforms": [
+        "ESPN2"
+      ],
+      "publishedTimeLabel": "December 4, 2026, 12:00 PM – 4:00 PM ET",
+      "territory": "United States",
+      "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "skechers-world-champions-cup-2026-2026-12-06-round-coverage-golf-channel",
+      "summary": "Watch: Skechers World Champions Cup supporting Shriners Children's",
+      "tournament": "Skechers World Champions Cup supporting Shriners Children's",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live round 5 coverage",
+      "startUtc": "2026-12-06T14:30:00Z",
+      "endUtc": "2026-12-06T16:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "December 6, 2026, 9:30 AM – 11:00 AM ET",
+      "territory": "United States",
+      "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "skechers-world-champions-cup-2026-2026-12-06-round-coverage-abc",
+      "summary": "Watch: Skechers World Champions Cup supporting Shriners Children's",
+      "tournament": "Skechers World Champions Cup supporting Shriners Children's",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live round 6 coverage",
+      "startUtc": "2026-12-06T18:00:00Z",
+      "endUtc": "2026-12-06T21:00:00Z",
+      "platforms": [
+        "ABC"
+      ],
+      "publishedTimeLabel": "December 6, 2026, 1:00 PM – 4:00 PM ET",
+      "territory": "United States",
+      "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
+      "sequence": 0,
+      "lastModified": "20261107T133129Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "austin-championship-2026-2026-11-12-round-coverage-golf-channel",
+      "summary": "Watch: Austin Championship presented by Compliance Solutions",
+      "tournament": "Austin Championship presented by Compliance Solutions",
+      "tour": "PGA TOUR",
+      "coverageType": "Live first round coverage",
+      "startUtc": "2026-11-12T19:00:00Z",
+      "endUtc": "2026-11-12T22:00:00Z",
+      "platforms": [
+        "Golf Channel",
+        "GOLF App"
+      ],
+      "publishedTimeLabel": "November 12, 2026, 1:00-4:00 p.m. CST",
+      "territory": "United States",
+      "sourceUrl": "https://www.austinchampionship.com/about/broadcast-times/",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "charles-schwab-cup-championship-2026-2026-11-12-round-coverage-golf-channel",
+      "summary": "Watch: Charles Schwab Cup Championship",
+      "tournament": "Charles Schwab Cup Championship",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live first round coverage",
+      "startUtc": "2026-11-12T22:00:00Z",
+      "endUtc": "2026-11-13T00:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 12, 2026, 3 p.m. - 5 p.m.",
+      "territory": "United States",
+      "sourceUrl": "https://www.charlesschwabcupchampionship.com/fans/schedule-of-events",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15,
+      "note": "The tournament spectator schedule is interpreted in Phoenix local time for the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET streaming start without a published end time."
+    },
+    {
+      "id": "austin-championship-2026-2026-11-13-round-coverage-golf-channel",
+      "summary": "Watch: Austin Championship presented by Compliance Solutions",
+      "tournament": "Austin Championship presented by Compliance Solutions",
+      "tour": "PGA TOUR",
+      "coverageType": "Live second round coverage",
+      "startUtc": "2026-11-13T19:00:00Z",
+      "endUtc": "2026-11-13T22:00:00Z",
+      "platforms": [
+        "Golf Channel",
+        "GOLF App"
+      ],
+      "publishedTimeLabel": "November 13, 2026, 1:00-4:00 p.m. CST",
+      "territory": "United States",
+      "sourceUrl": "https://www.austinchampionship.com/about/broadcast-times/",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "charles-schwab-cup-championship-2026-2026-11-13-round-coverage-golf-channel",
+      "summary": "Watch: Charles Schwab Cup Championship",
+      "tournament": "Charles Schwab Cup Championship",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live second round coverage",
+      "startUtc": "2026-11-13T22:00:00Z",
+      "endUtc": "2026-11-14T00:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 13, 2026, 3 p.m. - 5 p.m.",
+      "territory": "United States",
+      "sourceUrl": "https://www.charlesschwabcupchampionship.com/fans/schedule-of-events",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15,
+      "note": "The tournament spectator schedule is interpreted in Phoenix local time for the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET streaming start without a published end time."
+    },
+    {
+      "id": "austin-championship-2026-2026-11-14-round-coverage-golf-channel",
+      "summary": "Watch: Austin Championship presented by Compliance Solutions",
+      "tournament": "Austin Championship presented by Compliance Solutions",
+      "tour": "PGA TOUR",
+      "coverageType": "Live third round coverage",
+      "startUtc": "2026-11-14T19:00:00Z",
+      "endUtc": "2026-11-14T22:00:00Z",
+      "platforms": [
+        "Golf Channel",
+        "GOLF App"
+      ],
+      "publishedTimeLabel": "November 14, 2026, 1:00-4:00 p.m. CST",
+      "territory": "United States",
+      "sourceUrl": "https://www.austinchampionship.com/about/broadcast-times/",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "charles-schwab-cup-championship-2026-2026-11-14-round-coverage-golf-channel",
+      "summary": "Watch: Charles Schwab Cup Championship",
+      "tournament": "Charles Schwab Cup Championship",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live third round coverage",
+      "startUtc": "2026-11-14T22:00:00Z",
+      "endUtc": "2026-11-15T00:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 14, 2026, 3 p.m. - 5 p.m.",
+      "territory": "United States",
+      "sourceUrl": "https://www.charlesschwabcupchampionship.com/fans/schedule-of-events",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15,
+      "note": "The tournament spectator schedule is interpreted in Phoenix local time for the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET streaming start without a published end time."
+    },
+    {
+      "id": "austin-championship-2026-2026-11-15-round-coverage-golf-channel",
+      "summary": "Watch: Austin Championship presented by Compliance Solutions",
+      "tournament": "Austin Championship presented by Compliance Solutions",
+      "tour": "PGA TOUR",
+      "coverageType": "Live final round coverage",
+      "startUtc": "2026-11-15T19:00:00Z",
+      "endUtc": "2026-11-15T22:00:00Z",
+      "platforms": [
+        "Golf Channel",
+        "GOLF App"
+      ],
+      "publishedTimeLabel": "November 15, 2026, 1:00-4:00 p.m. CST",
+      "territory": "United States",
+      "sourceUrl": "https://www.austinchampionship.com/about/broadcast-times/",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "charles-schwab-cup-championship-2026-2026-11-15-round-coverage-golf-channel",
+      "summary": "Watch: Charles Schwab Cup Championship",
+      "tournament": "Charles Schwab Cup Championship",
+      "tour": "PGA TOUR Champions",
+      "coverageType": "Live final round coverage",
+      "startUtc": "2026-11-15T22:00:00Z",
+      "endUtc": "2026-11-16T00:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 15, 2026, 3 p.m. - 5 p.m.",
+      "territory": "United States",
+      "sourceUrl": "https://www.charlesschwabcupchampionship.com/fans/schedule-of-events",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15,
+      "note": "The tournament spectator schedule is interpreted in Phoenix local time for the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET streaming start without a published end time."
+    },
+    {
+      "id": "austin-championship-2026-2026-11-12-round-coverage-espn-plus",
+      "summary": "Watch: Austin Championship presented by Compliance Solutions",
+      "tournament": "Austin Championship presented by Compliance Solutions",
+      "tour": "PGA TOUR",
+      "coverageType": "Live first round coverage",
+      "startUtc": "2026-11-12T14:30:00Z",
+      "endUtc": "2026-11-12T22:00:00Z",
+      "platforms": [
+        "ESPN+"
+      ],
+      "publishedTimeLabel": "November 12, 2026, 9:30 a.m.-5 p.m. ET",
+      "territory": "United States",
+      "sourceUrl": "https://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-first-look-austin-championship-omni-barton-creek",
+      "sequence": 1,
+      "lastModified": "20261110T140105Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "austin-championship-2026-2026-11-13-round-coverage-espn-plus",
+      "summary": "Watch: Austin Championship presented by Compliance Solutions",
+      "tournament": "Austin Championship presented by Compliance Solutions",
+      "tour": "PGA TOUR",
+      "coverageType": "Live second round coverage",
+      "startUtc": "2026-11-13T14:30:00Z",
+      "endUtc": "2026-11-13T22:00:00Z",
+      "platforms": [
+        "ESPN+"
+      ],
+      "publishedTimeLabel": "November 13, 2026, 8:30 a.m.-4:00 p.m. CST",
+      "territory": "United States",
+      "sourceUrl": "https://www.austinchampionship.com/about/broadcast-times/",
+      "sequence": 0,
+      "lastModified": "20261108T130231Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "dp-world-tour-championship-2026-2026-11-12-round-coverage-golf-channel",
+      "summary": "Watch: DP World Tour Championship",
+      "tournament": "DP World Tour Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-12T07:00:00Z",
+      "endUtc": "2026-11-12T13:00:00Z",
+      "platforms": [
+        "Golf Channel",
+        "Golf Channel mobile"
+      ],
+      "publishedTimeLabel": "November 12, 2026, 2-8AM EST",
+      "territory": "United States",
+      "location": "Jumeirah Golf Estates, Earth Course - Dubai, United Arab Emirates",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stream",
+      "sequence": 0,
+      "lastModified": "20261111T131020Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "dp-world-tour-championship-2026-2026-11-13-round-coverage-golf-channel",
+      "summary": "Watch: DP World Tour Championship",
+      "tournament": "DP World Tour Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-13T07:00:00Z",
+      "endUtc": "2026-11-13T13:00:00Z",
+      "platforms": [
+        "Golf Channel",
+        "Golf Channel mobile"
+      ],
+      "publishedTimeLabel": "November 13, 2026, 2-8AM EST",
+      "territory": "United States",
+      "location": "Jumeirah Golf Estates, Earth Course - Dubai, United Arab Emirates",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stream",
+      "sequence": 0,
+      "lastModified": "20261111T131020Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "dp-world-tour-championship-2026-2026-11-14-round-coverage-golf-channel",
+      "summary": "Watch: DP World Tour Championship",
+      "tournament": "DP World Tour Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-14T07:00:00Z",
+      "endUtc": "2026-11-14T13:00:00Z",
+      "platforms": [
+        "Golf Channel",
+        "Golf Channel mobile"
+      ],
+      "publishedTimeLabel": "November 14, 2026, 2-8AM EST",
+      "territory": "United States",
+      "location": "Jumeirah Golf Estates, Earth Course - Dubai, United Arab Emirates",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stream",
+      "sequence": 0,
+      "lastModified": "20261111T131020Z",
+      "alarmMinutes": 15
+    },
+    {
+      "id": "dp-world-tour-championship-2026-2026-11-15-round-coverage-golf-channel",
+      "summary": "Watch: DP World Tour Championship",
+      "tournament": "DP World Tour Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live tournament coverage",
+      "startUtc": "2026-11-15T06:30:00Z",
+      "endUtc": "2026-11-15T12:30:00Z",
+      "platforms": [
+        "Golf Channel",
+        "Golf Channel mobile"
+      ],
+      "publishedTimeLabel": "November 15, 2026, 1:30-7:30AM EST",
+      "territory": "United States",
+      "location": "Jumeirah Golf Estates, Earth Course - Dubai, United Arab Emirates",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stream",
+      "sequence": 0,
+      "lastModified": "20261111T131020Z",
+      "alarmMinutes": 15
+    }
+  ]
+}

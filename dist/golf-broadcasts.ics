@@ -1,0 +1,1026 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Michael Pancoast//Golf iCal Subscriptions//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+UID:urn:uuid:8de9f640-2344-4bcd-a3bf-2d2a79b244f1
+NAME:Golf Broadcast Schedule
+X-WR-CALNAME:Golf Broadcast Schedule
+DESCRIPTION:Confirmed television and streaming windows for tournaments in t
+ he golf calendar. Times are stored in UTC and displayed in the subscriber'
+ s local time zone.
+X-WR-CALDESC:Confirmed television and streaming windows for tournaments in 
+ the golf calendar. Times are stored in UTC and displayed in the subscriber
+ 's local time zone.
+LAST-MODIFIED:20261111T131020Z
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+URL:https://www.pgatour.com/watch
+BEGIN:VEVENT
+UID:urn:uuid:c50b32ab-8bd4-558d-af7f-2f8273607ac1
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:1
+DTSTART:20261217T000000Z
+DTEND:20261217T040000Z
+SUMMARY:Watch: Optum Golf Channel Games
+LOCATION:Trump National Golf Club Jupiter - Jupiter\, Florida\, USA
+DESCRIPTION:Live primetime event coverage of Optum Golf Channel Games.\nTou
+ r or organizer: Golf Channel / PGA TOUR Studios.\nWatch on: Golf Channel +
+  USA Network.\nPublished time: Wednesday\, December 16\, 2026\, 7-11 p.m. 
+ ET.\nTerritory: United States.\nRory McIlroy and Scottie Scheffler captain
+  opposing four-player teams. Golf Channel lists pregame from 7–7:30 p.m.
+ \, competition from 7:30–10:30 p.m.\, and postgame from 10:30–11 p.m. 
+ Eastern.\nBroadcast details may change.\nOfficial source: https://thegolfc
+ hannelgames.com/\nOfficial announcement: https://www.golfchannel.com/news/
+ news/2026-optum-golf-channel-games-how-to-watch-teams-competition-lineup
+URL:https://thegolfchannelgames.com/
+CATEGORIES:SPORTS,GOLF,BROADCAST,GOLF CHANNEL / PGA TOUR STUDIOS,GOLF CHANN
+ EL,USA NETWORK
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Optum Golf Channel Games
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:85fc0556-e9fe-59c3-94ae-2bca0269826f
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261105T070000Z
+DTEND:20261105T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship
+DESCRIPTION:Live tournament coverage of Abu Dhabi Aldar Championship.\nTour
+  or organizer: DP World Tour.\nWatch on: Golf Channel.\nPublished time: No
+ vember 5\, 2026\, 2-8 a.m. ET.\nTerritory: United States.\nBroadcast detai
+ ls may change.\nOfficial source: https://www.golfchannel.com/dp-world-tour
+ /news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm
+ -this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:18e60c62-90c7-55f0-a856-402155c045d3
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261106T070000Z
+DTEND:20261106T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship
+DESCRIPTION:Live tournament coverage of Abu Dhabi Aldar Championship.\nTour
+  or organizer: DP World Tour.\nWatch on: Golf Channel.\nPublished time: No
+ vember 6\, 2026\, 2-8 a.m. ET.\nTerritory: United States.\nBroadcast detai
+ ls may change.\nOfficial source: https://www.golfchannel.com/dp-world-tour
+ /news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm
+ -this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5015d5f7-9378-5bcd-91f0-51b1f9dcafb4
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261107T070000Z
+DTEND:20261107T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship
+DESCRIPTION:Live tournament coverage of Abu Dhabi Aldar Championship.\nTour
+  or organizer: DP World Tour.\nWatch on: Golf Channel.\nPublished time: No
+ vember 7\, 2026\, 2-8 a.m. ET.\nTerritory: United States.\nBroadcast detai
+ ls may change.\nOfficial source: https://www.golfchannel.com/dp-world-tour
+ /news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm
+ -this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0f3f9b07-8077-5ef1-9798-3f677ae1876c
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261108T063000Z
+DTEND:20261108T123000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship
+DESCRIPTION:Live tournament coverage of Abu Dhabi Aldar Championship.\nTour
+  or organizer: DP World Tour.\nWatch on: Golf Channel.\nPublished time: No
+ vember 8\, 2026\, 1:30-7:30 a.m. ET.\nTerritory: United States.\nBroadcast
+  details may change.\nOfficial source: https://www.golfchannel.com/dp-worl
+ d-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jo
+ n-rahm-this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7cd2361e-291b-5dc9-85f7-4447f8d4293e
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261203T183000Z
+DTEND:20261203T213000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
+ : December 3\, 2026\, 1:30-4:30 p.m. ET.\nTerritory: United States.\nBroad
+ cast details may change.\nOfficial source: https://heroworldchallenge.com/
+ spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:da3461e6-cdb0-56f8-86f1-43ecf4f99bb0
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261204T183000Z
+DTEND:20261204T213000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
+ : December 4\, 2026\, 1:30-4:30 p.m. ET.\nTerritory: United States.\nBroad
+ cast details may change.\nOfficial source: https://heroworldchallenge.com/
+ spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c26b5a4f-a5c8-51c6-b965-9bb30e1f1fb4
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261205T170000Z
+DTEND:20261205T193000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
+ : December 5\, 2026\, 12-2:30 p.m. ET.\nTerritory: United States.\nBroadca
+ st details may change.\nOfficial source: https://heroworldchallenge.com/sp
+ ectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e67636ec-fc9a-58ee-a5a9-69ed47b18c89
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261205T193000Z
+DTEND:20261205T220000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: NBC.\nPublished time: Decembe
+ r 5\, 2026\, 2:30-5 p.m. ET.\nTerritory: United States.\nBroadcast details
+  may change.\nOfficial source: https://heroworldchallenge.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,NBC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:49be9762-a473-58d3-9bfe-97e4352b526c
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261206T163000Z
+DTEND:20261206T183000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
+ : December 6\, 2026\, 11:30 a.m.-1:30 p.m. ET.\nTerritory: United States.\
+ nBroadcast details may change.\nOfficial source: https://heroworldchalleng
+ e.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c310772c-93f5-5812-ac86-acdb6324f013
+DTSTAMP:20261103T142413Z
+LAST-MODIFIED:20261103T142413Z
+SEQUENCE:0
+DTSTART:20261206T183000Z
+DTEND:20261206T213000Z
+SUMMARY:Watch: Hero World Challenge
+DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
+ nizer: PGA TOUR unofficial event.\nWatch on: NBC.\nPublished time: Decembe
+ r 6\, 2026\, 1:30-4:30 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://heroworldchallenge.com/spectator
+ /
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,NBC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:840c4c95-af1a-5fb8-a94a-caa5300aff14
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261105T200000Z
+DTEND:20261105T230000Z
+SUMMARY:Watch: World Wide Technology Championship
+DESCRIPTION:Live tournament coverage of World Wide Technology Championship.
+ \nTour or organizer: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: N
+ ovember 5\, 2026\, 3-6 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://beta.pgatour.com/article/news/la
+ test/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fed
+ excup-fall-tv-times-coverage-details-leaderboard-updates\nOfficial announc
+ ement: https://www.golfchannel.com/pga-tour/news/2026-world-wide-technolog
+ y-championship-round-1-tee-times-groupings-how-to-watch
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3d86f6fd-5718-5de9-826f-224816f97c7b
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261106T200000Z
+DTEND:20261106T230000Z
+SUMMARY:Watch: World Wide Technology Championship
+DESCRIPTION:Live tournament coverage of World Wide Technology Championship.
+ \nTour or organizer: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: N
+ ovember 6\, 2026\, 3-6 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://beta.pgatour.com/article/news/la
+ test/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fed
+ excup-fall-tv-times-coverage-details-leaderboard-updates\nOfficial announc
+ ement: https://www.golfchannel.com/pga-tour/news/2026-world-wide-technolog
+ y-championship-round-2-tee-times-groupings-and-how-to-watch
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d1cb7f5b-cab5-5919-adb2-eb6218d3d83c
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:Watch: World Wide Technology Championship
+DESCRIPTION:Live tournament coverage of World Wide Technology Championship.
+ \nTour or organizer: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: N
+ ovember 7\, 2026\, 3-6 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://beta.pgatour.com/article/news/la
+ test/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fed
+ excup-fall-tv-times-coverage-details-leaderboard-updates\nOfficial announc
+ ement: https://www.golfchannel.com/watch/on-air-schedule
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:06b4ed33-e97c-54ac-8499-3bcf53f09b64
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261108T200000Z
+DTEND:20261108T230000Z
+SUMMARY:Watch: World Wide Technology Championship
+DESCRIPTION:Live tournament coverage of World Wide Technology Championship.
+ \nTour or organizer: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: N
+ ovember 8\, 2026\, 3-6 p.m. ET.\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://beta.pgatour.com/article/news/la
+ test/2026/11/03/how-to-watch-world-wide-technology-championship-mexico-fed
+ excup-fall-tv-times-coverage-details-leaderboard-updates\nOfficial announc
+ ement: https://www.golfchannel.com/watch/on-air-schedule
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:e60791a5-de51-5db8-b152-9ba5b782ca49
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261119T170000Z
+DTEND:20261119T200000Z
+SUMMARY:Watch: The RSM Classic
+DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
+ : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 19\, 2026\,
+  12-3pm (Sea Island local time).\nTerritory: United States.\nBroadcast det
+ ails may change.\nOfficial source: https://rsmclassic.com/spectator-info/a
+ ll/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2699f877-a5a3-5480-8ff5-f608c59df056
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261120T170000Z
+DTEND:20261120T200000Z
+SUMMARY:Watch: The RSM Classic
+DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
+ : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 20\, 2026\,
+  12-3pm (Sea Island local time).\nTerritory: United States.\nBroadcast det
+ ails may change.\nOfficial source: https://rsmclassic.com/spectator-info/a
+ ll/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:cf04f103-a195-5666-99c4-2e0e05f173f4
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:Watch: The RSM Classic
+DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
+ : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 21\, 2026\,
+  1-4pm (Sea Island local time).\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://rsmclassic.com/spectator-info/al
+ l/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:95f3ed91-4d3d-508e-8093-51f2d0c0349f
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Watch: The RSM Classic
+DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
+ : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 22\, 2026\,
+  1-4pm (Sea Island local time).\nTerritory: United States.\nBroadcast deta
+ ils may change.\nOfficial source: https://rsmclassic.com/spectator-info/al
+ l/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c9f1f9e4-5248-5ecf-8392-f78167113ad4
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261203T143000Z
+DTEND:20261203T170000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 1 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ Golf Channel.\nPublished time: December 3\, 2026\, 9:30 AM – 12:00 PM ET
+ .\nTerritory: United States.\nBroadcast details may change.\nOfficial sour
+ ce: https://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f4c91af2-c53b-5962-baa8-8d1d24f60680
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261203T170000Z
+DTEND:20261203T210000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 2 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ ESPN2.\nPublished time: December 3\, 2026\, 12:00 PM – 4:00 PM ET.\nTerr
+ itory: United States.\nBroadcast details may change.\nOfficial source: htt
+ ps://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4c425606-5326-566a-b1f4-41134b3fe210
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261204T143000Z
+DTEND:20261204T170000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 3 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ Golf Channel.\nPublished time: December 4\, 2026\, 9:30 AM – 12:00 PM ET
+ .\nTerritory: United States.\nBroadcast details may change.\nOfficial sour
+ ce: https://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:59e393f4-68c0-5c2a-9963-5bdae9c6c235
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261204T170000Z
+DTEND:20261204T210000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 4 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ ESPN2.\nPublished time: December 4\, 2026\, 12:00 PM – 4:00 PM ET.\nTerr
+ itory: United States.\nBroadcast details may change.\nOfficial source: htt
+ ps://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,ESPN2
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:57547016-dd72-599c-84ab-a90da70d08a5
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261206T143000Z
+DTEND:20261206T160000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 5 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ Golf Channel.\nPublished time: December 6\, 2026\, 9:30 AM – 11:00 AM ET
+ .\nTerritory: United States.\nBroadcast details may change.\nOfficial sour
+ ce: https://worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d6dafa68-f5ab-572f-9883-6be9cfa0db16
+DTSTAMP:20261107T133129Z
+LAST-MODIFIED:20261107T133129Z
+SEQUENCE:0
+DTSTART:20261206T180000Z
+DTEND:20261206T210000Z
+SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
+DESCRIPTION:Live round 6 coverage of Skechers World Champions Cup supportin
+ g Shriners Children's.\nTour or organizer: PGA TOUR Champions.\nWatch on: 
+ ABC.\nPublished time: December 6\, 2026\, 1:00 PM – 4:00 PM ET.\nTerrito
+ ry: United States.\nBroadcast details may change.\nOfficial source: https:
+ //worldchampionscup.com/broadcast-schedule/
+URL:https://worldchampionscup.com/broadcast-schedule/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,ABC
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Skechers World Champions Cup supporting Shriners Childre
+ n's
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f37410bf-d206-5a08-a015-91d2bb7d7374
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261112T190000Z
+DTEND:20261112T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live first round coverage of Austin Championship presented by C
+ ompliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: Golf Channel
+  + GOLF App.\nPublished time: November 12\, 2026\, 1:00-4:00 p.m. CST.\nTe
+ rritory: United States.\nBroadcast details may change.\nOfficial source: h
+ ttps://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL,GOLF APP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:58bf8765-614f-5b63-b597-e0cd638b13ad
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261112T220000Z
+DTEND:20261113T000000Z
+SUMMARY:Watch: Charles Schwab Cup Championship
+DESCRIPTION:Live first round coverage of Charles Schwab Cup Championship.\n
+ Tour or organizer: PGA TOUR Champions.\nWatch on: Golf Channel.\nPublished
+  time: November 12\, 2026\, 3 p.m. - 5 p.m..\nTerritory: United States.\nT
+ he tournament spectator schedule is interpreted in Phoenix local time for 
+ the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET s
+ treaming start without a published end time.\nBroadcast details may change
+ .\nOfficial source: https://www.charlesschwabcupchampionship.com/fans/sche
+ dule-of-events
+URL:https://www.charlesschwabcupchampionship.com/fans/schedule-of-events
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Charles Schwab Cup Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b6c9b058-632c-51e0-b68c-961c0a00834a
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261113T190000Z
+DTEND:20261113T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live second round coverage of Austin Championship presented by 
+ Compliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: Golf Channe
+ l + GOLF App.\nPublished time: November 13\, 2026\, 1:00-4:00 p.m. CST.\nT
+ erritory: United States.\nBroadcast details may change.\nOfficial source: 
+ https://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL,GOLF APP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2f30c2a4-ce90-5f38-bc32-44ddd8c74833
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261113T220000Z
+DTEND:20261114T000000Z
+SUMMARY:Watch: Charles Schwab Cup Championship
+DESCRIPTION:Live second round coverage of Charles Schwab Cup Championship.\
+ nTour or organizer: PGA TOUR Champions.\nWatch on: Golf Channel.\nPublishe
+ d time: November 13\, 2026\, 3 p.m. - 5 p.m..\nTerritory: United States.\n
+ The tournament spectator schedule is interpreted in Phoenix local time for
+  the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET 
+ streaming start without a published end time.\nBroadcast details may chang
+ e.\nOfficial source: https://www.charlesschwabcupchampionship.com/fans/sch
+ edule-of-events
+URL:https://www.charlesschwabcupchampionship.com/fans/schedule-of-events
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Charles Schwab Cup Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:03704f58-bbac-5621-a8c7-5021bb4209e3
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live third round coverage of Austin Championship presented by C
+ ompliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: Golf Channel
+  + GOLF App.\nPublished time: November 14\, 2026\, 1:00-4:00 p.m. CST.\nTe
+ rritory: United States.\nBroadcast details may change.\nOfficial source: h
+ ttps://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL,GOLF APP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:003535a1-5057-5fe5-bcf5-756aeba92931
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261114T220000Z
+DTEND:20261115T000000Z
+SUMMARY:Watch: Charles Schwab Cup Championship
+DESCRIPTION:Live third round coverage of Charles Schwab Cup Championship.\n
+ Tour or organizer: PGA TOUR Champions.\nWatch on: Golf Channel.\nPublished
+  time: November 14\, 2026\, 3 p.m. - 5 p.m..\nTerritory: United States.\nT
+ he tournament spectator schedule is interpreted in Phoenix local time for 
+ the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET s
+ treaming start without a published end time.\nBroadcast details may change
+ .\nOfficial source: https://www.charlesschwabcupchampionship.com/fans/sche
+ dule-of-events
+URL:https://www.charlesschwabcupchampionship.com/fans/schedule-of-events
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Charles Schwab Cup Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5d47a2fd-99bc-5982-98d8-ef0c7602a7c0
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261115T190000Z
+DTEND:20261115T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live final round coverage of Austin Championship presented by C
+ ompliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: Golf Channel
+  + GOLF App.\nPublished time: November 15\, 2026\, 1:00-4:00 p.m. CST.\nTe
+ rritory: United States.\nBroadcast details may change.\nOfficial source: h
+ ttps://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL,GOLF APP
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:471f7601-c16c-5e43-b8f8-b8bf4535ea3b
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261115T220000Z
+DTEND:20261116T000000Z
+SUMMARY:Watch: Charles Schwab Cup Championship
+DESCRIPTION:Live final round coverage of Charles Schwab Cup Championship.\n
+ Tour or organizer: PGA TOUR Champions.\nWatch on: Golf Channel.\nPublished
+  time: November 15\, 2026\, 3 p.m. - 5 p.m..\nTerritory: United States.\nT
+ he tournament spectator schedule is interpreted in Phoenix local time for 
+ the Golf Channel television broadcast. The broadcaster lists a 4 p.m. ET s
+ treaming start without a published end time.\nBroadcast details may change
+ .\nOfficial source: https://www.charlesschwabcupchampionship.com/fans/sche
+ dule-of-events
+URL:https://www.charlesschwabcupchampionship.com/fans/schedule-of-events
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR CHAMPIONS,GOLF CHANNEL
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Charles Schwab Cup Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:1ad96fe9-e5a8-54a7-8e01-a1886b07bd66
+DTSTAMP:20261110T140105Z
+LAST-MODIFIED:20261110T140105Z
+SEQUENCE:1
+DTSTART:20261112T143000Z
+DTEND:20261112T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live first round coverage of Austin Championship presented by C
+ ompliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: ESPN+.\nPubl
+ ished time: November 12\, 2026\, 9:30 a.m.-5 p.m. ET.\nTerritory: United S
+ tates.\nBroadcast details may change.\nOfficial source: https://beta.pgato
+ ur.com/es/article/news/the-first-look/2026/11/09/the-first-look-austin-cha
+ mpionship-omni-barton-creek
+URL:https://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-
+ first-look-austin-championship-omni-barton-creek
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,ESPN+
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4ebcd621-d1cc-5de7-a509-c35f47bbeb06
+DTSTAMP:20261108T130231Z
+LAST-MODIFIED:20261108T130231Z
+SEQUENCE:0
+DTSTART:20261113T143000Z
+DTEND:20261113T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions
+DESCRIPTION:Live second round coverage of Austin Championship presented by 
+ Compliance Solutions.\nTour or organizer: PGA TOUR.\nWatch on: ESPN+.\nPub
+ lished time: November 13\, 2026\, 8:30 a.m.-4:00 p.m. CST.\nTerritory: Uni
+ ted States.\nBroadcast details may change.\nOfficial source: https://www.a
+ ustinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,ESPN+
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:10e150db-fac9-5378-acc7-1c0a6af81a97
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART:20261112T070000Z
+DTEND:20261112T130000Z
+SUMMARY:Watch: DP World Tour Championship
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Live tournament coverage of DP World Tour Championship.\nTour o
+ r organizer: DP World Tour.\nWatch on: Golf Channel + Golf Channel mobile.
+ \nPublished time: November 12\, 2026\, 2-8AM EST.\nTerritory: United State
+ s.\nBroadcast details may change.\nOfficial source: https://www.golfchanne
+ l.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stre
+ am
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL,GOLF CHANNEL MO
+ BILE
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:13be5f77-708b-5f01-880d-24d03481cf67
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART:20261113T070000Z
+DTEND:20261113T130000Z
+SUMMARY:Watch: DP World Tour Championship
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Live tournament coverage of DP World Tour Championship.\nTour o
+ r organizer: DP World Tour.\nWatch on: Golf Channel + Golf Channel mobile.
+ \nPublished time: November 13\, 2026\, 2-8AM EST.\nTerritory: United State
+ s.\nBroadcast details may change.\nOfficial source: https://www.golfchanne
+ l.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stre
+ am
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL,GOLF CHANNEL MO
+ BILE
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:83bdec33-bb5d-5e75-bf3b-a792f95a1fe0
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART:20261114T070000Z
+DTEND:20261114T130000Z
+SUMMARY:Watch: DP World Tour Championship
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Live tournament coverage of DP World Tour Championship.\nTour o
+ r organizer: DP World Tour.\nWatch on: Golf Channel + Golf Channel mobile.
+ \nPublished time: November 14\, 2026\, 2-8AM EST.\nTerritory: United State
+ s.\nBroadcast details may change.\nOfficial source: https://www.golfchanne
+ l.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watch-stre
+ am
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL,GOLF CHANNEL MO
+ BILE
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:02ac98b2-ec80-59f0-9f7d-7566302039ec
+DTSTAMP:20261111T131020Z
+LAST-MODIFIED:20261111T131020Z
+SEQUENCE:0
+DTSTART:20261115T063000Z
+DTEND:20261115T123000Z
+SUMMARY:Watch: DP World Tour Championship
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:Live tournament coverage of DP World Tour Championship.\nTour o
+ r organizer: DP World Tour.\nWatch on: Golf Channel + Golf Channel mobile.
+ \nPublished time: November 15\, 2026\, 1:30-7:30AM EST.\nTerritory: United
+  States.\nBroadcast details may change.\nOfficial source: https://www.golf
+ channel.com/dp-world-tour/news/2026-dp-world-tour-championship-how-to-watc
+ h-stream
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST,DP WORLD TOUR,GOLF CHANNEL,GOLF CHANNEL MO
+ BILE
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship
+END:VALARM
+END:VEVENT
+END:VCALENDAR
