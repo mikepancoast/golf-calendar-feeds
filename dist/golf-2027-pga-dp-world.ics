@@ -6,90 +6,264 @@ METHOD:PUBLISH
 UID:urn:uuid:bc2b0499-20d3-47aa-9c0b-3b528be5ee64
 NAME:Men’s Golf — Tournaments & Viewing
 X-WR-CALNAME:Men’s Golf — Tournaments & Viewing
-DESCRIPTION:PGA TOUR\, DP World Tour\, men’s majors and team cups\, U.S. 
- Amateur\, Walker Cup\, Eisenhower Trophy\, men’s exhibitions\, TGL and m
- en’s Olympic golf. All-day events updated with U.S. viewing details.
-X-WR-CALDESC:PGA TOUR\, DP World Tour\, men’s majors and team cups\, U.S.
-  Amateur\, Walker Cup\, Eisenhower Trophy\, men’s exhibitions\, TGL and 
- men’s Olympic golf. All-day events updated with U.S. viewing details.
-LAST-MODIFIED:20261113T014932Z
+DESCRIPTION:All-day tournament placeholders become timed U.S. viewing windo
+ ws when announced. Men’s PGA TOUR\, DP World Tour\, majors\, team cups\,
+  selected amateur championships\, exhibitions\, TGL and Olympic golf.
+X-WR-CALDESC:All-day tournament placeholders become timed U.S. viewing wind
+ ows when announced. Men’s PGA TOUR\, DP World Tour\, majors\, team cups\
+ , selected amateur championships\, exhibitions\, TGL and Olympic golf.
+LAST-MODIFIED:20261113T015616Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:urn:uuid:5b946cb6-696c-5185-addd-1d74551bfc84
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261109
-SUMMARY:Abu Dhabi Aldar Championship
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261105T070000Z
+DTEND:20261105T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship — Golf Channel
 LOCATION:Yas Links Golf Club - Abu Dhabi\, United Arab Emirates
 DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
  -11-05 through 2026-11-08.\nCourse: Yas Links Golf Club.\nLocation: Abu Dh
  abi\, United Arab Emirates.\nSchedule details may change.\nOfficial source
  : https://www.europeantour.com/dpworld-tour/abu-dhabi-championship-2026/\n
- \nConfirmed U.S. viewing (Central Time):\nNov 5\, 1:00 AM CST – Nov 5\, 
- 7:00 AM CST | Golf Channel | Live tournament coverage\nhttps://www.golfcha
- nnel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch
- -rory-mcilroy-jon-rahm-this-week\nNov 6\, 1:00 AM CST – Nov 6\, 7:00 AM 
- CST | Golf Channel | Live tournament coverage\nhttps://www.golfchannel.com
- /dp-world-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mc
- ilroy-jon-rahm-this-week\nNov 7\, 1:00 AM CST – Nov 7\, 7:00 AM CST | Go
- lf Channel | Live tournament coverage\nhttps://www.golfchannel.com/dp-worl
- d-tour/news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jo
- n-rahm-this-week\nNov 8\, 12:30 AM CST – Nov 8\, 6:30 AM CST | Golf Chan
- nel | Live tournament coverage\nhttps://www.golfchannel.com/dp-world-tour/
- news/2026-abu-dhabi-aldar-championship-how-to-watch-rory-mcilroy-jon-rahm-
- this-week
-URL:https://www.europeantour.com/dpworld-tour/abu-dhabi-championship-2026/
-CATEGORIES:SPORTS,GOLF,LATE 2026,DP WORLD TOUR,RACE TO DUBAI PLAY-OFF
+ \nLive tournament coverage\nWatch on: Golf Channel\nNov 5\, 1:00 AM CST 
+ – Nov 5\, 7:00 AM CST\nTerritory: United States\nOfficial source: https:
+ //www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship
+ -how-to-watch-rory-mcilroy-jon-rahm-this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c863fac6-4f54-544c-8cf7-a861ed7f28f5
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261106T070000Z
+DTEND:20261106T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship — Golf Channel
+LOCATION:Yas Links Golf Club - Abu Dhabi\, United Arab Emirates
+DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
+ -11-05 through 2026-11-08.\nCourse: Yas Links Golf Club.\nLocation: Abu Dh
+ abi\, United Arab Emirates.\nSchedule details may change.\nOfficial source
+ : https://www.europeantour.com/dpworld-tour/abu-dhabi-championship-2026/\n
+ \nLive tournament coverage\nWatch on: Golf Channel\nNov 6\, 1:00 AM CST 
+ – Nov 6\, 7:00 AM CST\nTerritory: United States\nOfficial source: https:
+ //www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship
+ -how-to-watch-rory-mcilroy-jon-rahm-this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b2fba919-6333-58c5-a8bc-0561c151e57c
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261107T070000Z
+DTEND:20261107T130000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship — Golf Channel
+LOCATION:Yas Links Golf Club - Abu Dhabi\, United Arab Emirates
+DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
+ -11-05 through 2026-11-08.\nCourse: Yas Links Golf Club.\nLocation: Abu Dh
+ abi\, United Arab Emirates.\nSchedule details may change.\nOfficial source
+ : https://www.europeantour.com/dpworld-tour/abu-dhabi-championship-2026/\n
+ \nLive tournament coverage\nWatch on: Golf Channel\nNov 7\, 1:00 AM CST 
+ – Nov 7\, 7:00 AM CST\nTerritory: United States\nOfficial source: https:
+ //www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship
+ -how-to-watch-rory-mcilroy-jon-rahm-this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:3c0ee0d4-3609-5df8-a92e-80a76a6535e1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261108T063000Z
+DTEND:20261108T123000Z
+SUMMARY:Watch: Abu Dhabi Aldar Championship — Golf Channel
+LOCATION:Yas Links Golf Club - Abu Dhabi\, United Arab Emirates
+DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
+ -11-05 through 2026-11-08.\nCourse: Yas Links Golf Club.\nLocation: Abu Dh
+ abi\, United Arab Emirates.\nSchedule details may change.\nOfficial source
+ : https://www.europeantour.com/dpworld-tour/abu-dhabi-championship-2026/\n
+ \nLive tournament coverage\nWatch on: Golf Channel\nNov 8\, 12:30 AM CST 
+ – Nov 8\, 6:30 AM CST\nTerritory: United States\nOfficial source: https:
+ //www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-championship
+ -how-to-watch-rory-mcilroy-jon-rahm-this-week
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-abu-dhabi-aldar-cha
+ mpionship-how-to-watch-rory-mcilroy-jon-rahm-this-week
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Abu Dhabi Aldar Championship — Golf Channel
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:18e8495c-e0bf-5076-b273-e83b913536b0
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261109
-SUMMARY:World Wide Technology Championship
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261105T200000Z
+DTEND:20261105T230000Z
+SUMMARY:Watch: World Wide Technology Championship — Golf Channel
 LOCATION:El Cardonal at Diamante - Los Cabos\, Mexico
 DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-05 through
   2026-11-08.\nCourse: El Cardonal at Diamante.\nLocation: Los Cabos\, Mexi
  co.\nSchedule details may change.\nOfficial source: https://www.pgatour.co
  m/tournaments/2026/world-wide-technology-championship/R2026457/overview\n\
- nConfirmed U.S. viewing (Central Time):\nNov 5\, 2:00 PM CST – Nov 5\, 5
- :00 PM CST | Golf Channel | Live tournament coverage\nhttps://beta.pgatour
- .com/article/news/latest/2026/11/03/how-to-watch-world-wide-technology-cha
- mpionship-mexico-fedexcup-fall-tv-times-coverage-details-leaderboard-updat
- es\nNov 6\, 2:00 PM CST – Nov 6\, 5:00 PM CST | Golf Channel | Live tour
- nament coverage\nhttps://beta.pgatour.com/article/news/latest/2026/11/03/h
- ow-to-watch-world-wide-technology-championship-mexico-fedexcup-fall-tv-tim
- es-coverage-details-leaderboard-updates\nNov 7\, 2:00 PM CST – Nov 7\, 5
- :00 PM CST | Golf Channel | Live tournament coverage\nhttps://beta.pgatour
- .com/article/news/latest/2026/11/03/how-to-watch-world-wide-technology-cha
- mpionship-mexico-fedexcup-fall-tv-times-coverage-details-leaderboard-updat
- es\nNov 8\, 2:00 PM CST – Nov 8\, 5:00 PM CST | Golf Channel | Live tour
- nament coverage\nhttps://beta.pgatour.com/article/news/latest/2026/11/03/h
- ow-to-watch-world-wide-technology-championship-mexico-fedexcup-fall-tv-tim
- es-coverage-details-leaderboard-updates
-URL:https://www.pgatour.com/tournaments/2026/world-wide-technology-champion
- ship/R2026457/overview
-CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR,FEDEXCUP FALL
+ nLive tournament coverage\nWatch on: Golf Channel\nNov 5\, 2:00 PM CST –
+  Nov 5\, 5:00 PM CST\nTerritory: United States\nOfficial source: https://b
+ eta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-world-wide-tec
+ hnology-championship-mexico-fedexcup-fall-tv-times-coverage-details-leader
+ board-updates
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:58eaa219-e3e3-5ec1-9f9c-982a4296a165
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261106T200000Z
+DTEND:20261106T230000Z
+SUMMARY:Watch: World Wide Technology Championship — Golf Channel
+LOCATION:El Cardonal at Diamante - Los Cabos\, Mexico
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-05 through
+  2026-11-08.\nCourse: El Cardonal at Diamante.\nLocation: Los Cabos\, Mexi
+ co.\nSchedule details may change.\nOfficial source: https://www.pgatour.co
+ m/tournaments/2026/world-wide-technology-championship/R2026457/overview\n\
+ nLive tournament coverage\nWatch on: Golf Channel\nNov 6\, 2:00 PM CST –
+  Nov 6\, 5:00 PM CST\nTerritory: United States\nOfficial source: https://b
+ eta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-world-wide-tec
+ hnology-championship-mexico-fedexcup-fall-tv-times-coverage-details-leader
+ board-updates
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:99178627-2a5e-57a8-8247-4ae516fae1fa
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261107T200000Z
+DTEND:20261107T230000Z
+SUMMARY:Watch: World Wide Technology Championship — Golf Channel
+LOCATION:El Cardonal at Diamante - Los Cabos\, Mexico
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-05 through
+  2026-11-08.\nCourse: El Cardonal at Diamante.\nLocation: Los Cabos\, Mexi
+ co.\nSchedule details may change.\nOfficial source: https://www.pgatour.co
+ m/tournaments/2026/world-wide-technology-championship/R2026457/overview\n\
+ nLive tournament coverage\nWatch on: Golf Channel\nNov 7\, 2:00 PM CST –
+  Nov 7\, 5:00 PM CST\nTerritory: United States\nOfficial source: https://b
+ eta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-world-wide-tec
+ hnology-championship-mexico-fedexcup-fall-tv-times-coverage-details-leader
+ board-updates
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:4cad6cc8-8033-524a-85a8-b0001fb25c53
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261108T200000Z
+DTEND:20261108T230000Z
+SUMMARY:Watch: World Wide Technology Championship — Golf Channel
+LOCATION:El Cardonal at Diamante - Los Cabos\, Mexico
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-05 through
+  2026-11-08.\nCourse: El Cardonal at Diamante.\nLocation: Los Cabos\, Mexi
+ co.\nSchedule details may change.\nOfficial source: https://www.pgatour.co
+ m/tournaments/2026/world-wide-technology-championship/R2026457/overview\n\
+ nLive tournament coverage\nWatch on: Golf Channel\nNov 8\, 2:00 PM CST –
+  Nov 8\, 5:00 PM CST\nTerritory: United States\nOfficial source: https://b
+ eta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-world-wide-tec
+ hnology-championship-mexico-fedexcup-fall-tv-times-coverage-details-leader
+ board-updates
+URL:https://beta.pgatour.com/article/news/latest/2026/11/03/how-to-watch-wo
+ rld-wide-technology-championship-mexico-fedexcup-fall-tv-times-coverage-de
+ tails-leaderboard-updates
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: World Wide Technology Championship — Golf Channel
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:a3f311b1-0ba6-5e14-898f-d4ecb837cbaf
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261116
-SUMMARY:Austin Championship presented by Compliance Solutions
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:3
+DTSTART:20261112T143000Z
+DTEND:20261112T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions — ES
+ PN+
 LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
  exas\, USA
 DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
@@ -97,96 +271,423 @@ DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
  e.\nLocation: Austin\, Texas\, USA.\nSchedule details may change.\nOfficia
  l source: https://www.pgatour.com/article/news/latest/2026/11/02/complianc
  e-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-f
- all\n\nConfirmed U.S. viewing (Central Time):\nNov 12\, 8:30 AM CST – No
- v 12\, 4:00 PM CST | ESPN+ | Live first round coverage\nhttps://beta.pgato
- ur.com/es/article/news/the-first-look/2026/11/09/the-first-look-austin-cha
- mpionship-omni-barton-creek\nNov 12\, 1:00 PM CST – Nov 12\, 4:00 PM CST
-  | Golf Channel + GOLF App | Live first round coverage\nhttps://www.austin
- championship.com/about/broadcast-times/\nNov 13\, 8:30 AM CST – Nov 13\,
-  4:00 PM CST | ESPN+ | Live second round coverage\nhttps://www.austinchamp
- ionship.com/about/broadcast-times/\nNov 13\, 1:00 PM CST – Nov 13\, 4:00
-  PM CST | Golf Channel + GOLF App | Live second round coverage\nhttps://ww
- w.austinchampionship.com/about/broadcast-times/\nNov 14\, 1:00 PM CST – 
- Nov 14\, 4:00 PM CST | Golf Channel + GOLF App | Live third round coverage
- \nhttps://www.austinchampionship.com/about/broadcast-times/\nNov 15\, 1:00
-  PM CST – Nov 15\, 4:00 PM CST | Golf Channel + GOLF App | Live final ro
- und coverage\nhttps://www.austinchampionship.com/about/broadcast-times/
-URL:https://www.pgatour.com/article/news/latest/2026/11/02/compliance-solut
- ions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-fall
-CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR,FEDEXCUP FALL
+ all\n\nLive first round coverage\nWatch on: ESPN+\nNov 12\, 8:30 AM CST 
+ – Nov 12\, 4:00 PM CST\nTerritory: United States\nOfficial source: https
+ ://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-first-lo
+ ok-austin-championship-omni-barton-creek
+URL:https://beta.pgatour.com/es/article/news/the-first-look/2026/11/09/the-
+ first-look-austin-championship-omni-barton-creek
+CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
+ — ESPN+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:664e0b3e-74b0-55a4-b0ef-2395260b24bd
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261112T190000Z
+DTEND:20261112T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions — Go
+ lf Channel + GOLF App
+LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
+ exas\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
+  2026-11-15.\nCourse: Omni Barton Creek Resort & Spa\, Fazio Canyons Cours
+ e.\nLocation: Austin\, Texas\, USA.\nSchedule details may change.\nOfficia
+ l source: https://www.pgatour.com/article/news/latest/2026/11/02/complianc
+ e-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-f
+ all\n\nLive first round coverage\nWatch on: Golf Channel + GOLF App\nNov 1
+ 2\, 1:00 PM CST – Nov 12\, 4:00 PM CST\nTerritory: United States\nOffici
+ al source: https://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
+ — Golf Channel + GOLF App
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:eaba0882-3004-5942-b425-4d0820178326
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261113T143000Z
+DTEND:20261113T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions — ES
+ PN+
+LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
+ exas\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
+  2026-11-15.\nCourse: Omni Barton Creek Resort & Spa\, Fazio Canyons Cours
+ e.\nLocation: Austin\, Texas\, USA.\nSchedule details may change.\nOfficia
+ l source: https://www.pgatour.com/article/news/latest/2026/11/02/complianc
+ e-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-f
+ all\n\nLive second round coverage\nWatch on: ESPN+\nNov 13\, 8:30 AM CST 
+ – Nov 13\, 4:00 PM CST\nTerritory: United States\nOfficial source: https
+ ://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
+ — ESPN+
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:293cfa3e-7432-54a0-adfe-abcd7c1ee35b
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261113T190000Z
+DTEND:20261113T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions — Go
+ lf Channel + GOLF App
+LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
+ exas\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
+  2026-11-15.\nCourse: Omni Barton Creek Resort & Spa\, Fazio Canyons Cours
+ e.\nLocation: Austin\, Texas\, USA.\nSchedule details may change.\nOfficia
+ l source: https://www.pgatour.com/article/news/latest/2026/11/02/complianc
+ e-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-f
+ all\n\nLive second round coverage\nWatch on: Golf Channel + GOLF App\nNov 
+ 13\, 1:00 PM CST – Nov 13\, 4:00 PM CST\nTerritory: United States\nOffic
+ ial source: https://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
+ — Golf Channel + GOLF App
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7661ad05-cd06-54d5-9233-4c9d72a4d531
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions — Go
+ lf Channel + GOLF App
+LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
+ exas\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
+  2026-11-15.\nCourse: Omni Barton Creek Resort & Spa\, Fazio Canyons Cours
+ e.\nLocation: Austin\, Texas\, USA.\nSchedule details may change.\nOfficia
+ l source: https://www.pgatour.com/article/news/latest/2026/11/02/complianc
+ e-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-f
+ all\n\nLive third round coverage\nWatch on: Golf Channel + GOLF App\nNov 1
+ 4\, 1:00 PM CST – Nov 14\, 4:00 PM CST\nTerritory: United States\nOffici
+ al source: https://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
+ — Golf Channel + GOLF App
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:43b1fc28-d03b-5a4e-9f1e-a3d06ecf30e9
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261115T190000Z
+DTEND:20261115T220000Z
+SUMMARY:Watch: Austin Championship presented by Compliance Solutions — Go
+ lf Channel + GOLF App
+LOCATION:Omni Barton Creek Resort & Spa\, Fazio Canyons Course - Austin\, T
+ exas\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-12 through
+  2026-11-15.\nCourse: Omni Barton Creek Resort & Spa\, Fazio Canyons Cours
+ e.\nLocation: Austin\, Texas\, USA.\nSchedule details may change.\nOfficia
+ l source: https://www.pgatour.com/article/news/latest/2026/11/02/complianc
+ e-solutions-joins-as-presenting-sponsor-for-austin-championship-fedexcup-f
+ all\n\nLive final round coverage\nWatch on: Golf Channel + GOLF App\nNov 1
+ 5\, 1:00 PM CST – Nov 15\, 4:00 PM CST\nTerritory: United States\nOffici
+ al source: https://www.austinchampionship.com/about/broadcast-times/
+URL:https://www.austinchampionship.com/about/broadcast-times/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Austin Championship presented by Compliance Solutions 
+ — Golf Channel + GOLF App
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:fda0f3d5-5e09-5038-b325-adb6dcb30fb7
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261116
-SUMMARY:DP World Tour Championship\, Dubai
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261112T070000Z
+DTEND:20261112T130000Z
+SUMMARY:Watch: DP World Tour Championship\, Dubai — Golf Channel + Golf C
+ hannel mobile
 LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
  s
 DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
  -11-12 through 2026-11-15.\nCourse: Jumeirah Golf Estates\, Earth Course.\
  nLocation: Dubai\, United Arab Emirates.\nSchedule details may change.\nOf
  ficial source: https://www.europeantour.com/dpworld-tour/dp-world-tour-cha
- mpionship-dubai-2026/\n\nConfirmed U.S. viewing (Central Time):\nNov 12\, 
- 1:00 AM CST – Nov 12\, 7:00 AM CST | Golf Channel + Golf Channel mobile 
- | Live tournament coverage\nhttps://www.golfchannel.com/dp-world-tour/news
- /2026-dp-world-tour-championship-how-to-watch-stream\nNov 13\, 1:00 AM CST
-  – Nov 13\, 7:00 AM CST | Golf Channel + Golf Channel mobile | Live tour
- nament coverage\nhttps://www.golfchannel.com/dp-world-tour/news/2026-dp-wo
- rld-tour-championship-how-to-watch-stream\nNov 14\, 1:00 AM CST – Nov 14
- \, 7:00 AM CST | Golf Channel + Golf Channel mobile | Live tournament cove
- rage\nhttps://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-ch
- ampionship-how-to-watch-stream\nNov 15\, 12:30 AM CST – Nov 15\, 6:30 AM
-  CST | Golf Channel + Golf Channel mobile | Live tournament coverage\nhttp
- s://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-championship
- -how-to-watch-stream
-URL:https://www.europeantour.com/dpworld-tour/dp-world-tour-championship-du
- bai-2026/
-CATEGORIES:SPORTS,GOLF,LATE 2026,DP WORLD TOUR,RACE TO DUBAI PLAY-OFF
+ mpionship-dubai-2026/\n\nLive tournament coverage\nWatch on: Golf Channel 
+ + Golf Channel mobile\nNov 12\, 1:00 AM CST – Nov 12\, 7:00 AM CST\nTerr
+ itory: United States\nOfficial source: https://www.golfchannel.com/dp-worl
+ d-tour/news/2026-dp-world-tour-championship-how-to-watch-stream
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship\, Dubai — Golf Channel + Go
+ lf Channel mobile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5d614164-877e-5076-a6e6-be085e1cf012
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261113T070000Z
+DTEND:20261113T130000Z
+SUMMARY:Watch: DP World Tour Championship\, Dubai — Golf Channel + Golf C
+ hannel mobile
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
+ -11-12 through 2026-11-15.\nCourse: Jumeirah Golf Estates\, Earth Course.\
+ nLocation: Dubai\, United Arab Emirates.\nSchedule details may change.\nOf
+ ficial source: https://www.europeantour.com/dpworld-tour/dp-world-tour-cha
+ mpionship-dubai-2026/\n\nLive tournament coverage\nWatch on: Golf Channel 
+ + Golf Channel mobile\nNov 13\, 1:00 AM CST – Nov 13\, 7:00 AM CST\nTerr
+ itory: United States\nOfficial source: https://www.golfchannel.com/dp-worl
+ d-tour/news/2026-dp-world-tour-championship-how-to-watch-stream
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship\, Dubai — Golf Channel + Go
+ lf Channel mobile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:0e9ade02-a644-5afb-b162-c302c9bd6d67
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261114T070000Z
+DTEND:20261114T130000Z
+SUMMARY:Watch: DP World Tour Championship\, Dubai — Golf Channel + Golf C
+ hannel mobile
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
+ -11-12 through 2026-11-15.\nCourse: Jumeirah Golf Estates\, Earth Course.\
+ nLocation: Dubai\, United Arab Emirates.\nSchedule details may change.\nOf
+ ficial source: https://www.europeantour.com/dpworld-tour/dp-world-tour-cha
+ mpionship-dubai-2026/\n\nLive tournament coverage\nWatch on: Golf Channel 
+ + Golf Channel mobile\nNov 14\, 1:00 AM CST – Nov 14\, 7:00 AM CST\nTerr
+ itory: United States\nOfficial source: https://www.golfchannel.com/dp-worl
+ d-tour/news/2026-dp-world-tour-championship-how-to-watch-stream
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship\, Dubai — Golf Channel + Go
+ lf Channel mobile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b3acfbb4-7072-54b3-b26f-6a1907d3908f
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261115T063000Z
+DTEND:20261115T123000Z
+SUMMARY:Watch: DP World Tour Championship\, Dubai — Golf Channel + Golf C
+ hannel mobile
+LOCATION:Jumeirah Golf Estates\, Earth Course - Dubai\, United Arab Emirate
+ s
+DESCRIPTION:DP World Tour - Race to Dubai Play-Off.\nTournament dates: 2026
+ -11-12 through 2026-11-15.\nCourse: Jumeirah Golf Estates\, Earth Course.\
+ nLocation: Dubai\, United Arab Emirates.\nSchedule details may change.\nOf
+ ficial source: https://www.europeantour.com/dpworld-tour/dp-world-tour-cha
+ mpionship-dubai-2026/\n\nLive tournament coverage\nWatch on: Golf Channel 
+ + Golf Channel mobile\nNov 15\, 12:30 AM CST – Nov 15\, 6:30 AM CST\nTer
+ ritory: United States\nOfficial source: https://www.golfchannel.com/dp-wor
+ ld-tour/news/2026-dp-world-tour-championship-how-to-watch-stream
+URL:https://www.golfchannel.com/dp-world-tour/news/2026-dp-world-tour-champ
+ ionship-how-to-watch-stream
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: DP World Tour Championship\, Dubai — Golf Channel + Go
+ lf Channel mobile
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5f55591c-9371-5c56-abe2-53db63e8f228
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261123
-SUMMARY:The RSM Classic
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261119T170000Z
+DTEND:20261119T200000Z
+SUMMARY:Watch: The RSM Classic — Golf Channel
 LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
   Island\, Georgia\, USA
 DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
   2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
  s.\nLocation: St. Simons Island\, Georgia\, USA.\nSchedule details may cha
  nge.\nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-cl
- assic/R2026493/overview\n\nConfirmed U.S. viewing (Central Time):\nNov 19\
- , 11:00 AM CST – Nov 19\, 2:00 PM CST | Golf Channel | Live tournament c
- overage\nhttps://rsmclassic.com/spectator-info/all/\nNov 20\, 11:00 AM CST
-  – Nov 20\, 2:00 PM CST | Golf Channel | Live tournament coverage\nhttps
- ://rsmclassic.com/spectator-info/all/\nNov 21\, 12:00 PM CST – Nov 21\, 
- 3:00 PM CST | Golf Channel | Live tournament coverage\nhttps://rsmclassic.
- com/spectator-info/all/\nNov 22\, 12:00 PM CST – Nov 22\, 3:00 PM CST | 
- Golf Channel | Live tournament coverage\nhttps://rsmclassic.com/spectator-
- info/all/
-URL:https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493/overv
- iew
-CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR,FEDEXCUP FALL
+ assic/R2026493/overview\n\nLive tournament coverage\nWatch on: Golf Channe
+ l\nNov 19\, 11:00 AM CST – Nov 19\, 2:00 PM CST\nTerritory: United State
+ s\nOfficial source: https://rsmclassic.com/spectator-info/all/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:33d4497c-4a64-5715-99e6-591e06979797
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261120T170000Z
+DTEND:20261120T200000Z
+SUMMARY:Watch: The RSM Classic — Golf Channel
+LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
+  Island\, Georgia\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
+  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+ s.\nLocation: St. Simons Island\, Georgia\, USA.\nSchedule details may cha
+ nge.\nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-cl
+ assic/R2026493/overview\n\nLive tournament coverage\nWatch on: Golf Channe
+ l\nNov 20\, 11:00 AM CST – Nov 20\, 2:00 PM CST\nTerritory: United State
+ s\nOfficial source: https://rsmclassic.com/spectator-info/all/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:5909ef0a-4e3f-5440-823b-17eb6c73bbee
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261121T180000Z
+DTEND:20261121T210000Z
+SUMMARY:Watch: The RSM Classic — Golf Channel
+LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
+  Island\, Georgia\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
+  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+ s.\nLocation: St. Simons Island\, Georgia\, USA.\nSchedule details may cha
+ nge.\nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-cl
+ assic/R2026493/overview\n\nLive tournament coverage\nWatch on: Golf Channe
+ l\nNov 21\, 12:00 PM CST – Nov 21\, 3:00 PM CST\nTerritory: United State
+ s\nOfficial source: https://rsmclassic.com/spectator-info/all/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:597a01d1-0dfc-57da-89a1-3edae15b07d4
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
+SUMMARY:Watch: The RSM Classic — Golf Channel
+LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
+  Island\, Georgia\, USA
+DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
+  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+ s.\nLocation: St. Simons Island\, Georgia\, USA.\nSchedule details may cha
+ nge.\nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-cl
+ assic/R2026493/overview\n\nLive tournament coverage\nWatch on: Golf Channe
+ l\nNov 22\, 12:00 PM CST – Nov 22\, 3:00 PM CST\nTerritory: United State
+ s\nOfficial source: https://rsmclassic.com/spectator-info/all/
+URL:https://rsmclassic.com/spectator-info/all/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: The RSM Classic — Golf Channel
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:526e5aa6-b0f4-5ab6-8858-5d9db7874f58
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
 SUMMARY:BMW Australian PGA Championship
@@ -197,8 +698,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
  ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
  027-schedule-through-tour-championship\nDP World Tour source: https://www.
  europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. 
- This entry will be updated when official U.S. broadcast details are availa
- ble.
+ This placeholder will become timed viewing entries when confirmed coverage
+  is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -207,11 +708,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5db3d3c5-3e85-5790-ae43-9da9a81e99d4
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261127T140000Z
+DTEND:20261127T190000Z
 SUMMARY:Watch: Farmers Insurance Skins Game
 LOCATION:Atlantic Fields Club - Hobe Sound\, Florida\, USA
 DESCRIPTION:PGA TOUR Studios - Special event.\nPublished start: Friday\, No
@@ -224,8 +725,7 @@ DESCRIPTION:PGA TOUR Studios - Special event.\nPublished start: Friday\, No
   corrected if an official window is published.\nSchedule details may chang
  e.\nOfficial source: https://www.pgatour.com/article/news/latest/2026/10/1
  3/jackson-koivun-brooks-koepka-wyndham-clark-justin-thomas-skins-game-blac
- k-friday-prime-video-atlantic-field-club\n\nViewing: Nov 27\, 8:00 AM CST 
- | Prime Video. See official source for final coverage duration.
+ k-friday-prime-video-atlantic-field-club
 URL:https://www.pgatour.com/article/news/latest/2026/10/13/jackson-koivun-b
  rooks-koepka-wyndham-clark-justin-thomas-skins-game-black-friday-prime-vid
  eo-atlantic-field-club
@@ -233,12 +733,17 @@ CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR STUDIOS,SPECIAL EVENT,PRIME VIDEO
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Farmers Insurance Skins Game
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:3b83443b-a88c-5244-b63e-8d340c4afcf5
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261207
 SUMMARY:Capital.com Australian Open
@@ -249,8 +754,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
  ource: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-ann
  ounces-2027-schedule-through-tour-championship\nDP World Tour source: http
  s://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule p
- ending. This entry will be updated when official U.S. broadcast details ar
- e available.
+ ending. This placeholder will become timed viewing entries when confirmed 
+ coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -259,40 +764,171 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:c8527b14-e141-5da9-8268-c08a9682862a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261207
-SUMMARY:Hero World Challenge
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261203T183000Z
+DTEND:20261203T213000Z
+SUMMARY:Watch: Hero World Challenge — Golf Channel
 LOCATION:Albany Golf Course - Albany\, Bahamas
 DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
  26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
  y\, Bahamas.\nSchedule details may change.\nOfficial source: https://www.p
- gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nConf
- irmed U.S. viewing (Central Time):\nDec 3\, 12:30 PM CST – Dec 3\, 3:30 
- PM CST | Golf Channel | Live tournament coverage\nhttps://heroworldchallen
- ge.com/spectator/\nDec 4\, 12:30 PM CST – Dec 4\, 3:30 PM CST | Golf Cha
- nnel | Live tournament coverage\nhttps://heroworldchallenge.com/spectator/
- \nDec 5\, 11:00 AM CST – Dec 5\, 1:30 PM CST | Golf Channel | Live tourn
- ament coverage\nhttps://heroworldchallenge.com/spectator/\nDec 5\, 1:30 PM
-  CST – Dec 5\, 4:00 PM CST | NBC | Live tournament coverage\nhttps://her
- oworldchallenge.com/spectator/\nDec 6\, 10:30 AM CST – Dec 6\, 12:30 PM 
- CST | Golf Channel | Live tournament coverage\nhttps://heroworldchallenge.
- com/spectator/\nDec 6\, 12:30 PM CST – Dec 6\, 3:30 PM CST | NBC | Live 
- tournament coverage\nhttps://heroworldchallenge.com/spectator/
-URL:https://www.pgatour.com/tournaments/2026/hero-world-challenge/R2026478/
- overview
-CATEGORIES:SPORTS,GOLF,LATE 2026,PGA TOUR UNOFFICIAL EVENT,INVITATIONAL
+ gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nLive
+  tournament coverage\nWatch on: Golf Channel\nDec 3\, 12:30 PM CST – Dec
+  3\, 3:30 PM CST\nTerritory: United States\nOfficial source: https://herow
+ orldchallenge.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:546a7d13-44f6-5b92-8a93-2b3efcd071b9
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261204T183000Z
+DTEND:20261204T213000Z
+SUMMARY:Watch: Hero World Challenge — Golf Channel
+LOCATION:Albany Golf Course - Albany\, Bahamas
+DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
+ 26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
+ y\, Bahamas.\nSchedule details may change.\nOfficial source: https://www.p
+ gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nLive
+  tournament coverage\nWatch on: Golf Channel\nDec 4\, 12:30 PM CST – Dec
+  4\, 3:30 PM CST\nTerritory: United States\nOfficial source: https://herow
+ orldchallenge.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a3101f66-d779-5437-9066-78f50ceb2b7d
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261205T170000Z
+DTEND:20261205T193000Z
+SUMMARY:Watch: Hero World Challenge — Golf Channel
+LOCATION:Albany Golf Course - Albany\, Bahamas
+DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
+ 26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
+ y\, Bahamas.\nSchedule details may change.\nOfficial source: https://www.p
+ gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nLive
+  tournament coverage\nWatch on: Golf Channel\nDec 5\, 11:00 AM CST – Dec
+  5\, 1:30 PM CST\nTerritory: United States\nOfficial source: https://herow
+ orldchallenge.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:7b874ae1-45e9-5de0-b86e-45c950bd6856
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261205T193000Z
+DTEND:20261205T220000Z
+SUMMARY:Watch: Hero World Challenge — NBC
+LOCATION:Albany Golf Course - Albany\, Bahamas
+DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
+ 26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
+ y\, Bahamas.\nSchedule details may change.\nOfficial source: https://www.p
+ gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nLive
+  tournament coverage\nWatch on: NBC\nDec 5\, 1:30 PM CST – Dec 5\, 4:00 
+ PM CST\nTerritory: United States\nOfficial source: https://heroworldchalle
+ nge.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge — NBC
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a6dcb4bc-ddae-55d4-bc86-4d5bba2f6ea5
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261206T163000Z
+DTEND:20261206T183000Z
+SUMMARY:Watch: Hero World Challenge — Golf Channel
+LOCATION:Albany Golf Course - Albany\, Bahamas
+DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
+ 26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
+ y\, Bahamas.\nSchedule details may change.\nOfficial source: https://www.p
+ gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nLive
+  tournament coverage\nWatch on: Golf Channel\nDec 6\, 10:30 AM CST – Dec
+  6\, 12:30 PM CST\nTerritory: United States\nOfficial source: https://hero
+ worldchallenge.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:b51666f9-a476-5f61-ba23-a761b034efb3
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261206T183000Z
+DTEND:20261206T213000Z
+SUMMARY:Watch: Hero World Challenge — NBC
+LOCATION:Albany Golf Course - Albany\, Bahamas
+DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
+ 26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
+ y\, Bahamas.\nSchedule details may change.\nOfficial source: https://www.p
+ gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nLive
+  tournament coverage\nWatch on: NBC\nDec 6\, 12:30 PM CST – Dec 6\, 3:30
+  PM CST\nTerritory: United States\nOfficial source: https://heroworldchall
+ enge.com/spectator/
+URL:https://heroworldchallenge.com/spectator/
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Hero World Challenge — NBC
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:4616b56b-7863-5d34-8a24-d7a8d99d554c
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261207
 SUMMARY:Nedbank Golf Challenge in honour of Gary Player
@@ -303,8 +939,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
   source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-a
  nnounces-2027-schedule-through-tour-championship\nDP World Tour source: ht
  tps://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule
-  pending. This entry will be updated when official U.S. broadcast details 
- are available.
+  pending. This placeholder will become timed viewing entries when confirme
+ d coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -313,9 +949,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:d4fba4b9-42af-5f49-a9f6-0e74bdb3f721
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261214
 SUMMARY:AfrAsia Bank Mauritius Open
@@ -326,8 +962,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
  e: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announc
  es-2027-schedule-through-tour-championship\nDP World Tour source: https://
  www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pendi
- ng. This entry will be updated when official U.S. broadcast details are av
- ailable.
+ ng. This placeholder will become timed viewing entries when confirmed cove
+ rage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -336,11 +972,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:dab74d2e-681c-5b89-8b35-63fecdf4fa80
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261227T180000Z
+DTEND:20261227T200000Z
 SUMMARY:TGL: Boston Common Golf vs. Motor City Golf Club
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Boston Common Golf vs. Mot
@@ -350,21 +986,25 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Boston Common Golf vs. Mot
  etion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule
   announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-
  so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-r
- ules\n\nViewing: Dec 27\, 12:00 PM CST | ESPN. See official source for fin
- al coverage duration.
+ ules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Boston Common Golf vs. Motor City Golf Club
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:9df7dae0-b387-553e-b4fe-1d2ae046ac67
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20261227T200000Z
+DTEND:20261227T220000Z
 SUMMARY:TGL: Jupiter Links Golf Club vs. Los Angeles Golf Club
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Jupiter Links Golf Club vs
@@ -374,21 +1014,25 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Jupiter Links Golf Club vs
  completion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSch
  edule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presente
  d-by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offic
- ial-rules\n\nViewing: Dec 27\, 2:00 PM CST | ABC. See official source for 
- final coverage duration.
+ ial-rules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Jupiter Links Golf Club vs. Los Angeles Golf Club
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:f7691b65-d9ce-5e5d-b411-e53e58941b91
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270103
-DTEND;VALUE=DATE:20270104
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270103T180000Z
+DTEND:20270103T200000Z
 SUMMARY:TGL: The Bay Golf Club vs. New York Golf Club
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: The Bay Golf Club vs. New 
@@ -397,22 +1041,25 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: The Bay Golf Club vs. New
  start based on TGL's official approximate match length\; actual completion
   may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule anno
  uncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi
- -season-schedule\nDuration basis: https://tglgolf.com/info/official-rules\
- n\nViewing: Jan 3\, 12:00 PM CST | ESPN. See official source for final cov
- erage duration.
+ -season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: The Bay Golf Club vs. New York Golf Club
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5bcdd933-4838-5ff9-836e-564615e72b1a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270106T020000Z
+DTEND:20270106T040000Z
 SUMMARY:TGL: Atlanta Drive GC vs. The Bay Golf Club
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Atlanta Drive GC vs. The B
@@ -421,22 +1068,25 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Atlanta Drive GC vs. The B
  start based on TGL's official approximate match length\; actual completion
   may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule anno
  uncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi
- -season-schedule\nDuration basis: https://tglgolf.com/info/official-rules\
- n\nViewing: Jan 5\, 8:00 PM CST | ESPN2. See official source for final cov
- erage duration.
+ -season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Atlanta Drive GC vs. The Bay Golf Club
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:769119e1-b96c-5f4a-bdbc-edacf083a949
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270109T170000Z
+DTEND:20270109T190000Z
 SUMMARY:TGL: New York Golf Club vs. Atlanta Drive GC
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: New York Golf Club vs. Atl
@@ -445,22 +1095,25 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: New York Golf Club vs. Atl
  art based on TGL's official approximate match length\; actual completion m
  ay vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule announ
  cement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-s
- eason-schedule\nDuration basis: https://tglgolf.com/info/official-rules\n\
- nViewing: Jan 9\, 11:00 AM CST | ABC. See official source for final covera
- ge duration.
+ eason-schedule\nDuration basis: https://tglgolf.com/info/official-rules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: New York Golf Club vs. Atlanta Drive GC
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:81fd7a3e-87c4-5142-b3a6-41467a71452e
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270110
-DTEND;VALUE=DATE:20270111
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270110T210000Z
+DTEND:20270110T230000Z
 SUMMARY:TGL: Motor City Golf Club vs. Jupiter Links Golf Club
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Motor City Golf Club vs. J
@@ -470,21 +1123,25 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Motor City Golf Club vs. J
  mpletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSched
  ule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-
  by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/officia
- l-rules\n\nViewing: Jan 10\, 3:00 PM CST | ABC. See official source for fi
- nal coverage duration.
+ l-rules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ABC
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Motor City Golf Club vs. Jupiter Links Golf Club
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:4d19963f-37ca-5f43-b7c2-ac3f02dca9c9
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270113T000000Z
+DTEND:20270113T020000Z
 SUMMARY:TGL: Jupiter Links Golf Club vs. Boston Common Golf
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Jupiter Links Golf Club vs
@@ -494,19 +1151,23 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Jupiter Links Golf Club vs
  mpletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSched
  ule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-
  by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/officia
- l-rules\n\nViewing: Jan 12\, 6:00 PM CST | ESPN. See official source for f
- inal coverage duration.
+ l-rules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Jupiter Links Golf Club vs. Boston Common Golf
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:d7e33512-3207-5a12-9bf0-0ef635384848
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270118
 SUMMARY:Team Cup
@@ -517,8 +1178,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
  GA TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga
  -tour-announces-2027-schedule-through-tour-championship\nDP World Tour sou
  rce: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing s
- chedule pending. This entry will be updated when official U.S. broadcast d
- etails are available.
+ chedule pending. This placeholder will become timed viewing entries when c
+ onfirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -527,9 +1188,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5853f21b-06e4-599f-b4a7-811a6a20f2f6
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270119
 SUMMARY:TGL: Los Angeles Golf Club vs. New York Golf Club — date tentativ
@@ -542,8 +1203,8 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Los Angeles Golf Club vs.
  ar range will be replaced with a timed event when the date is confirmed.\n
  Official schedule: https://tglgolf.com/schedule\nSchedule announcement: ht
  tps://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-sche
- dule\n\nViewing schedule pending. This entry will be updated when official
-  U.S. broadcast details are available.
+ dule\n\nViewing schedule pending. This placeholder will become timed viewi
+ ng entries when confirmed coverage is announced.
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
 CLASS:PUBLIC
@@ -552,9 +1213,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:43a84800-8d0f-59f0-a22f-63d427c8c2a4
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270119
 SUMMARY:TGL: The Bay Golf Club vs. Motor City Golf Club — date tentative
@@ -566,8 +1227,8 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: The Bay Golf Club vs. Moto
   range will be replaced with a timed event when the date is confirmed.\nOf
  ficial schedule: https://tglgolf.com/schedule\nSchedule announcement: http
  s://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-schedu
- le\n\nViewing schedule pending. This entry will be updated when official U
- .S. broadcast details are available.
+ le\n\nViewing schedule pending. This placeholder will become timed viewing
+  entries when confirmed coverage is announced.
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
 CLASS:PUBLIC
@@ -576,9 +1237,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:123866d0-c5e2-5639-a19e-b71ee7eab7a6
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270125
 SUMMARY:Hero Dubai Desert Classic
@@ -589,8 +1250,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
   TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-t
  our-announces-2027-schedule-through-tour-championship\nDP World Tour sourc
  e: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing sch
- edule pending. This entry will be updated when official U.S. broadcast det
- ails are available.
+ edule pending. This placeholder will become timed viewing entries when con
+ firmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -599,9 +1260,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:a57f9b76-8976-57c0-bf71-1fd2c335d458
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270125
 SUMMARY:The American Express
@@ -614,8 +1275,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  ils may change.\nPGA TOUR source: https://www.pgatour.com/article/news/lat
  est/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\
  nDP World Tour source: https://www.europeantour.com/dpworld-tour/schedule/
- 2027/\n\nViewing schedule pending. This entry will be updated when officia
- l U.S. broadcast details are available.
+ 2027/\n\nViewing schedule pending. This placeholder will become timed view
+ ing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -624,9 +1285,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5438dd7c-e301-5b60-a219-dc87ae14a1c2
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270131
 SUMMARY:The Sentry
@@ -640,8 +1301,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  ce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announ
  ces-2027-schedule-through-tour-championship\nDP World Tour source: https:/
  /www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pend
- ing. This entry will be updated when official U.S. broadcast details are a
- vailable.
+ ing. This placeholder will become timed viewing entries when confirmed cov
+ erage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -650,9 +1311,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:f5ca0986-e4de-5613-9a9f-2f1985f359d1
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270201
 SUMMARY:Bapco Energies Bahrain Championship
@@ -663,8 +1324,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
  UR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour
  -announces-2027-schedule-through-tour-championship\nDP World Tour source: 
  https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedu
- le pending. This entry will be updated when official U.S. broadcast detail
- s are available.
+ le pending. This placeholder will become timed viewing entries when confir
+ med coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -673,11 +1334,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:0e120802-8813-568f-8922-452f67ea4d3a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270201T000000Z
+DTEND:20270201T020000Z
 SUMMARY:TGL: Atlanta Drive GC vs. Boston Common Golf
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Atlanta Drive GC vs. Bosto
@@ -687,19 +1348,22 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Atlanta Drive GC vs. Bosto
  n may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule ann
  ouncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-f
  i-season-schedule\nDuration basis: https://tglgolf.com/info/official-rules
- \n\nViewing: Jan 31\, 6:00 PM CST | ESPN2. See official source for final c
- overage duration.
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Atlanta Drive GC vs. Boston Common Golf
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:0bc6b3f0-9dfe-5deb-929f-783263b15885
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270207
 SUMMARY:Qatar Masters
@@ -710,7 +1374,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
  //www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-s
  chedule-through-tour-championship\nDP World Tour source: https://www.europ
  eantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This 
- entry will be updated when official U.S. broadcast details are available.
+ placeholder will become timed viewing entries when confirmed coverage is a
+ nnounced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -719,9 +1384,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:95dbdbbb-128b-51a5-b085-dbdc42b5c7b3
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270208
 SUMMARY:AT&T Pebble Beach Pro-Am
@@ -734,8 +1399,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
  ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
  027-schedule-through-tour-championship\nDP World Tour source: https://www.
  europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. 
- This entry will be updated when official U.S. broadcast details are availa
- ble.
+ This placeholder will become timed viewing entries when confirmed coverage
+  is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -744,11 +1409,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:bc5d2314-01a1-5183-9cfa-ed0df6627e5b
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270210T020000Z
+DTEND:20270210T040000Z
 SUMMARY:TGL: New York Golf Club vs. Jupiter Links Golf Club
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: New York Golf Club vs. Jup
@@ -758,19 +1423,23 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: New York Golf Club vs. Jup
  ompletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSche
  dule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented
  -by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offici
- al-rules\n\nViewing: Feb 9\, 8:00 PM CST | ESPN2. See official source for 
- final coverage duration.
+ al-rules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: New York Golf Club vs. Jupiter Links Golf Club
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:ddbf647b-ef0b-54b6-867b-884a0daa6e2f
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270215
 SUMMARY:WM Phoenix Open
@@ -781,8 +1450,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  nSchedule details may change.\nPGA TOUR source: https://www.pgatour.com/ar
  ticle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour
  -championship\nDP World Tour source: https://www.europeantour.com/dpworld-
- tour/schedule/2027/\n\nViewing schedule pending. This entry will be update
- d when official U.S. broadcast details are available.
+ tour/schedule/2027/\n\nViewing schedule pending. This placeholder will bec
+ ome timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -791,9 +1460,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:cca555d5-a28c-51ee-9ed5-9fdd5469c44a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270222
 SUMMARY:Magical Kenya Open
@@ -804,8 +1473,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
   https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces
  -2027-schedule-through-tour-championship\nDP World Tour source: https://ww
  w.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending
- . This entry will be updated when official U.S. broadcast details are avai
- lable.
+ . This placeholder will become timed viewing entries when confirmed covera
+ ge is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -814,9 +1483,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:06eabe1f-c793-524e-b30e-182ab0a9f5d4
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270222
 SUMMARY:PGA TOUR event (TBD)
@@ -826,8 +1495,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Additional Event.\nO
  ay change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2
  026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP W
  orld Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027/
- \n\nViewing schedule pending. This entry will be updated when official U.S
- . broadcast details are available.
+ \n\nViewing schedule pending. This placeholder will become timed viewing e
+ ntries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -836,9 +1505,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:60819b27-43c2-5db1-9647-59d56ed88394
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270222
 SUMMARY:The Genesis Invitational
@@ -849,8 +1518,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
  USA.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.c
  om/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through
  -tour-championship\nDP World Tour source: https://www.europeantour.com/dpw
- orld-tour/schedule/2027/\n\nViewing schedule pending. This entry will be u
- pdated when official U.S. broadcast details are available.
+ orld-tour/schedule/2027/\n\nViewing schedule pending. This placeholder wil
+ l become timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -859,11 +1528,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:3eacdbbf-b0b8-5290-90ac-986c3c66dde0
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270222
-DTEND;VALUE=DATE:20270223
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270223T010000Z
+DTEND:20270223T030000Z
 SUMMARY:TGL: Motor City Golf Club vs. Los Angeles Golf Club
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Motor City Golf Club vs. L
@@ -873,21 +1542,25 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Motor City Golf Club vs. L
  ompletion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSche
  dule announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented
  -by-so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/offici
- al-rules\n\nViewing: Feb 22\, 7:00 PM CST | ESPN2. See official source for
-  final coverage duration.
+ al-rules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN2
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Motor City Golf Club vs. Los Angeles Golf Club
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:db82939b-09ae-5fb2-9681-0b7631208419
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270223
-DTEND;VALUE=DATE:20270224
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270223T220000Z
+DTEND:20270224T000000Z
 SUMMARY:TGL: Boston Common Golf vs. The Bay Golf Club
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Boston Common Golf vs. The
@@ -897,21 +1570,25 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Boston Common Golf vs. The
  ion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule a
  nnouncement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so
  -fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-rul
- es\n\nViewing: Feb 23\, 4:00 PM CST | ESPN. See official source for final 
- coverage duration.
+ es
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Boston Common Golf vs. The Bay Golf Club
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:40476c2f-96df-55dd-8f84-7fa52bf829e1
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270223
-DTEND;VALUE=DATE:20270224
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
+DTSTART:20270224T000000Z
+DTEND:20270224T020000Z
 SUMMARY:TGL: Los Angeles Golf Club vs. Atlanta Drive GC
 LOCATION:SoFi Center - Palm Beach Gardens\, Florida\, USA
 DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Los Angeles Golf Club vs. 
@@ -921,19 +1598,23 @@ DESCRIPTION:TGL 2027 - Regular Season.\nMatchup: Los Angeles Golf Club vs.
  etion may vary.\nOfficial schedule: https://tglgolf.com/schedule\nSchedule
   announcement: https://tglgolf.com/articles/2026/10/2027-tgl-presented-by-
  so-fi-season-schedule\nDuration basis: https://tglgolf.com/info/official-r
- ules\n\nViewing: Feb 23\, 6:00 PM CST | ESPN. See official source for fina
- l coverage duration.
+ ules
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,REGULAR SEASON,ESPN
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:TGL: Los Angeles Golf Club vs. Atlanta Drive GC
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:f4080872-8ac8-5aad-8719-1b889f91ff9a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270301
 SUMMARY:Alfred Dunhill Championship
@@ -944,8 +1625,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
  source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
  nounces-2027-schedule-through-tour-championship\nDP World Tour source: htt
  ps://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule 
- pending. This entry will be updated when official U.S. broadcast details a
- re available.
+ pending. This placeholder will become timed viewing entries when confirmed
+  coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -954,9 +1635,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:8179f438-4e42-5d08-bf9f-98da006796ff
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270301
 SUMMARY:Cognizant Classic in The Palm Beaches
@@ -968,8 +1649,9 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  s\, Florida\, USA.\nSchedule details may change.\nPGA TOUR source: https:/
  /www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-sc
  hedule-through-tour-championship\nDP World Tour source: https://www.europe
- antour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This e
- ntry will be updated when official U.S. broadcast details are available.
+ antour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This p
+ laceholder will become timed viewing entries when confirmed coverage is an
+ nounced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -978,9 +1660,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:b7811307-5992-5729-8e2a-98a484b7b9ab
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270324
 SUMMARY:TGL 2027 Playoffs window — details TBD
@@ -992,8 +1674,8 @@ DESCRIPTION:TGL 2027 - Postseason.\nMatchup: Play-in\, Semifinals and best-
  matches when TGL publishes exact dates\, times\, networks and matchups.\nO
  fficial schedule: https://tglgolf.com/schedule\nSchedule announcement: htt
  ps://tglgolf.com/articles/2026/10/2027-tgl-presented-by-so-fi-season-sched
- ule\n\nViewing schedule pending. This entry will be updated when official 
- U.S. broadcast details are available.
+ ule\n\nViewing schedule pending. This placeholder will become timed viewin
+ g entries when confirmed coverage is announced.
 URL:https://tglgolf.com/schedule
 CATEGORIES:SPORTS,GOLF,TGL,POSTSEASON,ESPN PLATFORMS
 CLASS:PUBLIC
@@ -1002,9 +1684,9 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:d78448cd-f8e1-5e59-bc29-b744f731e340
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270308
 SUMMARY:Cadillac Championship
@@ -1015,8 +1697,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
  nSchedule details may change.\nPGA TOUR source: https://www.pgatour.com/ar
  ticle/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour
  -championship\nDP World Tour source: https://www.europeantour.com/dpworld-
- tour/schedule/2027/\n\nViewing schedule pending. This entry will be update
- d when official U.S. broadcast details are available.
+ tour/schedule/2027/\n\nViewing schedule pending. This placeholder will bec
+ ome timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1025,9 +1707,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:73bc18e1-ae59-55ae-9325-bac5fc310e38
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270308
 SUMMARY:Investec South African Open Championship
@@ -1038,8 +1720,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
  PGA TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pg
  a-tour-announces-2027-schedule-through-tour-championship\nDP World Tour so
  urce: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing 
- schedule pending. This entry will be updated when official U.S. broadcast 
- details are available.
+ schedule pending. This placeholder will become timed viewing entries when 
+ confirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1048,9 +1730,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:193537ec-45f5-5c54-9cf0-53c84de5d5b0
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270315
 SUMMARY:Joburg Open
@@ -1061,8 +1743,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: International Swing
  TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-to
  ur-announces-2027-schedule-through-tour-championship\nDP World Tour source
  : https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing sche
- dule pending. This entry will be updated when official U.S. broadcast deta
- ils are available.
+ dule pending. This placeholder will become timed viewing entries when conf
+ irmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1071,9 +1753,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:ecd37648-1a15-5760-92ad-7f5c91de081f
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270315
 SUMMARY:THE PLAYERS Championship
@@ -1085,8 +1767,9 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  \, Florida\, USA.\nSchedule details may change.\nPGA TOUR source: https://
  www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-sch
  edule-through-tour-championship\nDP World Tour source: https://www.europea
- ntour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This en
- try will be updated when official U.S. broadcast details are available.
+ ntour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This pl
+ aceholder will become timed viewing entries when confirmed coverage is ann
+ ounced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1095,9 +1778,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:4a8b37ba-eb4a-5a6c-8f46-7577f7f517d7
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 SUMMARY:Arnold Palmer Invitational presented by Mastercard
@@ -1108,8 +1791,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
   USA.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.
  com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-throug
  h-tour-championship\nDP World Tour source: https://www.europeantour.com/dp
- world-tour/schedule/2027/\n\nViewing schedule pending. This entry will be 
- updated when official U.S. broadcast details are available.
+ world-tour/schedule/2027/\n\nViewing schedule pending. This placeholder wi
+ ll become timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1118,9 +1801,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:f48fb107-7c73-5492-8560-82415d46f7d8
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270329
 SUMMARY:China Classic
@@ -1131,8 +1814,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Asian Swing.\nRace
  source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
  nounces-2027-schedule-through-tour-championship\nDP World Tour source: htt
  ps://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule 
- pending. This entry will be updated when official U.S. broadcast details a
- re available.
+ pending. This placeholder will become timed viewing entries when confirmed
+  coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1141,9 +1824,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:755b0543-e957-5c46-ba3f-c2327140d08e
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270329
 SUMMARY:Texas Children's Houston Open
@@ -1154,8 +1837,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
   details may change.\nPGA TOUR source: https://www.pgatour.com/article/new
  s/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champion
  ship\nDP World Tour source: https://www.europeantour.com/dpworld-tour/sche
- dule/2027/\n\nViewing schedule pending. This entry will be updated when of
- ficial U.S. broadcast details are available.
+ dule/2027/\n\nViewing schedule pending. This placeholder will become timed
+  viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1164,9 +1847,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:98f459f3-d715-5c83-ad0d-d747ac7fa25a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270405
 SUMMARY:Valero Texas Open
@@ -1177,8 +1860,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  SA.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.co
  m/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-
  tour-championship\nDP World Tour source: https://www.europeantour.com/dpwo
- rld-tour/schedule/2027/\n\nViewing schedule pending. This entry will be up
- dated when official U.S. broadcast details are available.
+ rld-tour/schedule/2027/\n\nViewing schedule pending. This placeholder will
+  become timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1187,9 +1870,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:aee19930-8426-53d7-b4e9-9e82f531bdb2
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270412
 SUMMARY:Masters Tournament
@@ -1202,8 +1885,8 @@ DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Majo
  GA TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga
  -tour-announces-2027-schedule-through-tour-championship\nDP World Tour sou
  rce: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing s
- chedule pending. This entry will be updated when official U.S. broadcast d
- etails are available.
+ chedule pending. This placeholder will become timed viewing entries when c
+ onfirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1212,9 +1895,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:f5bb6a16-3c0d-5393-b4d9-2afe4a921891
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270419
 SUMMARY:Deutsche Bank Singapore Open
@@ -1225,8 +1908,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Asian Swing.\nRace
   https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces
  -2027-schedule-through-tour-championship\nDP World Tour source: https://ww
  w.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending
- . This entry will be updated when official U.S. broadcast details are avai
- lable.
+ . This placeholder will become timed viewing entries when confirmed covera
+ ge is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1235,9 +1918,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:deeb7039-a9d2-57f9-a892-5122bf021a03
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270419
 SUMMARY:RBC Heritage
@@ -1249,8 +1932,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
  na\, USA.\nSchedule details may change.\nPGA TOUR source: https://www.pgat
  our.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-th
  rough-tour-championship\nDP World Tour source: https://www.europeantour.co
- m/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This entry will
-  be updated when official U.S. broadcast details are available.
+ m/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This placeholde
+ r will become timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1259,9 +1942,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:a160d005-2b23-5a0d-88df-ac261ec4ca95
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270426
 SUMMARY:Volvo China Open
@@ -1272,8 +1955,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Asian Swing.\nRace
  https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-
  2027-schedule-through-tour-championship\nDP World Tour source: https://www
  .europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending.
-  This entry will be updated when official U.S. broadcast details are avail
- able.
+  This placeholder will become timed viewing entries when confirmed coverag
+ e is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1282,9 +1965,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:80747eca-379d-532b-b85f-ee477f5f6858
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270426
 SUMMARY:Zurich Classic of New Orleans
@@ -1295,8 +1978,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  s may change.\nPGA TOUR source: https://www.pgatour.com/article/news/lates
  t/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nD
  P World Tour source: https://www.europeantour.com/dpworld-tour/schedule/20
- 27/\n\nViewing schedule pending. This entry will be updated when official 
- U.S. broadcast details are available.
+ 27/\n\nViewing schedule pending. This placeholder will become timed viewin
+ g entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1305,9 +1988,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:87c3e820-cda2-5e98-9cd2-aaf4a27691d1
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270503
 SUMMARY:THE CJ CUP Byron Nelson
@@ -1318,8 +2001,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  ls may change.\nPGA TOUR source: https://www.pgatour.com/article/news/late
  st/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\n
  DP World Tour source: https://www.europeantour.com/dpworld-tour/schedule/2
- 027/\n\nViewing schedule pending. This entry will be updated when official
-  U.S. broadcast details are available.
+ 027/\n\nViewing schedule pending. This placeholder will become timed viewi
+ ng entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1328,9 +2011,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:431f09e3-de1b-50d4-a684-e6b2f32449ae
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270503
 SUMMARY:Turkish Airlines Open
@@ -1341,8 +2024,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Asian Swing.\nRace
  ce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announ
  ces-2027-schedule-through-tour-championship\nDP World Tour source: https:/
  /www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pend
- ing. This entry will be updated when official U.S. broadcast details are a
- vailable.
+ ing. This placeholder will become timed viewing entries when confirmed cov
+ erage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1351,9 +2034,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:44a8ed8e-77f6-5ba1-abe4-aa0f8dea4463
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270510
 SUMMARY:Estrella Damm Catalunya Championship
@@ -1363,8 +2046,9 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
  Girona\, Spain.\nSchedule details may change.\nPGA TOUR source: https://ww
  w.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-sched
  ule-through-tour-championship\nDP World Tour source: https://www.europeant
- our.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This entr
- y will be updated when official U.S. broadcast details are available.
+ our.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This plac
+ eholder will become timed viewing entries when confirmed coverage is annou
+ nced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1373,9 +2057,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:b06fe509-692b-595d-aec5-51e0e3e8f1b4
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270510
 SUMMARY:Valspar Championship
@@ -1387,8 +2071,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  USA.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.c
  om/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through
  -tour-championship\nDP World Tour source: https://www.europeantour.com/dpw
- orld-tour/schedule/2027/\n\nViewing schedule pending. This entry will be u
- pdated when official U.S. broadcast details are available.
+ orld-tour/schedule/2027/\n\nViewing schedule pending. This placeholder wil
+ l become timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1397,9 +2081,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:67e2627e-cb00-58b1-82fc-90cdb37314e0
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270517
 SUMMARY:ONEflight Myrtle Beach Classic
@@ -1410,8 +2094,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Additional Event.\nO
  USA.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.c
  om/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through
  -tour-championship\nDP World Tour source: https://www.europeantour.com/dpw
- orld-tour/schedule/2027/\n\nViewing schedule pending. This entry will be u
- pdated when official U.S. broadcast details are available.
+ orld-tour/schedule/2027/\n\nViewing schedule pending. This placeholder wil
+ l become timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1420,9 +2104,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:e6d94b54-9229-55e5-bcb3-4e186cda4d8b
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270517
 SUMMARY:Open de Portugal | Cascais - Lisboa
@@ -1433,8 +2117,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
  rce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-annou
  nces-2027-schedule-through-tour-championship\nDP World Tour source: https:
  //www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pen
- ding. This entry will be updated when official U.S. broadcast details are 
- available.
+ ding. This placeholder will become timed viewing entries when confirmed co
+ verage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1443,9 +2127,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:8653b54e-11ea-5758-b494-936da786d1ce
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270517
 SUMMARY:Truist Championship
@@ -1456,8 +2140,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
  le details may change.\nPGA TOUR source: https://www.pgatour.com/article/n
  ews/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champi
  onship\nDP World Tour source: https://www.europeantour.com/dpworld-tour/sc
- hedule/2027/\n\nViewing schedule pending. This entry will be updated when 
- official U.S. broadcast details are available.
+ hedule/2027/\n\nViewing schedule pending. This placeholder will become tim
+ ed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1466,9 +2150,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:a9f6b990-331b-57f1-af4d-89ac3ac0f6e3
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270524
 SUMMARY:PGA Championship
@@ -1481,8 +2165,8 @@ DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Majo
  .\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26
  /pga-tour-announces-2027-schedule-through-tour-championship\nDP World Tour
   source: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewi
- ng schedule pending. This entry will be updated when official U.S. broadca
- st details are available.
+ ng schedule pending. This placeholder will become timed viewing entries wh
+ en confirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1491,9 +2175,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:898b4ce3-6e08-5586-a7de-531e208fa55c
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270531
 SUMMARY:BMW International Open
@@ -1504,8 +2188,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
  ource: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-ann
  ounces-2027-schedule-through-tour-championship\nDP World Tour source: http
  s://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule p
- ending. This entry will be updated when official U.S. broadcast details ar
- e available.
+ ending. This placeholder will become timed viewing entries when confirmed 
+ coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1514,9 +2198,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:82028985-0cfc-5912-999f-37be28a425e7
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270531
 SUMMARY:Charles Schwab Challenge
@@ -1527,8 +2211,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  tails may change.\nPGA TOUR source: https://www.pgatour.com/article/news/l
  atest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championshi
  p\nDP World Tour source: https://www.europeantour.com/dpworld-tour/schedul
- e/2027/\n\nViewing schedule pending. This entry will be updated when offic
- ial U.S. broadcast details are available.
+ e/2027/\n\nViewing schedule pending. This placeholder will become timed vi
+ ewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1537,9 +2221,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:4ee25797-3c46-51ea-8a4d-50999d4ff014
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270607
 SUMMARY:Soudal Open
@@ -1550,8 +2234,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
  UR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour
  -announces-2027-schedule-through-tour-championship\nDP World Tour source: 
  https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedu
- le pending. This entry will be updated when official U.S. broadcast detail
- s are available.
+ le pending. This placeholder will become timed viewing entries when confir
+ med coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1560,9 +2244,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:146c6948-2eb6-5f1c-8eee-6f0dc6961bd1
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270607
 SUMMARY:the Memorial Tournament presented by Workday
@@ -1573,8 +2257,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
  ule details may change.\nPGA TOUR source: https://www.pgatour.com/article/
  news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champ
  ionship\nDP World Tour source: https://www.europeantour.com/dpworld-tour/s
- chedule/2027/\n\nViewing schedule pending. This entry will be updated when
-  official U.S. broadcast details are available.
+ chedule/2027/\n\nViewing schedule pending. This placeholder will become ti
+ med viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1583,9 +2267,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:832f74c3-1757-5a34-af04-cd5610746454
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270614
 SUMMARY:KLM Open
@@ -1596,8 +2280,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: European Swing.\nRa
   TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-t
  our-announces-2027-schedule-through-tour-championship\nDP World Tour sourc
  e: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing sch
- edule pending. This entry will be updated when official U.S. broadcast det
- ails are available.
+ edule pending. This placeholder will become timed viewing entries when con
+ firmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1606,9 +2290,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:c2517628-7be6-55bd-853d-2151f3a30faa
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270614
 SUMMARY:RBC Canadian Open
@@ -1620,8 +2304,9 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  o\, Canada.\nSchedule details may change.\nPGA TOUR source: https://www.pg
  atour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-
  through-tour-championship\nDP World Tour source: https://www.europeantour.
- com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This entry wi
- ll be updated when official U.S. broadcast details are available.
+ com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This placehol
+ der will become timed viewing entries when confirmed coverage is announced
+ .
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1630,9 +2315,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:deaf51f5-0eb2-5ac2-bd0b-c62e2c0cc86b
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270621
 SUMMARY:U.S. Open
@@ -1645,8 +2330,8 @@ DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Majo
  ange.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026/0
  8/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP World 
  Tour source: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nV
- iewing schedule pending. This entry will be updated when official U.S. bro
- adcast details are available.
+ iewing schedule pending. This placeholder will become timed viewing entrie
+ s when confirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1655,9 +2340,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:0bf3591b-9eae-5c70-957e-23969e39f625
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270628
 SUMMARY:Travelers Championship
@@ -1668,8 +2353,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Signature Event.\nOf
  e details may change.\nPGA TOUR source: https://www.pgatour.com/article/ne
  ws/latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-champio
  nship\nDP World Tour source: https://www.europeantour.com/dpworld-tour/sch
- edule/2027/\n\nViewing schedule pending. This entry will be updated when o
- fficial U.S. broadcast details are available.
+ edule/2027/\n\nViewing schedule pending. This placeholder will become time
+ d viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1678,9 +2363,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:c2aabe9c-c96e-51f8-a5bc-3fd7a0cebc41
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270705
 SUMMARY:Amgen Irish Open
@@ -1691,8 +2376,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Closing Swing.\nRac
  ource: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-ann
  ounces-2027-schedule-through-tour-championship\nDP World Tour source: http
  s://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule p
- ending. This entry will be updated when official U.S. broadcast details ar
- e available.
+ ending. This placeholder will become timed viewing entries when confirmed 
+ coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1701,9 +2386,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5c309c63-c42c-533d-b5e0-8812de3b01d7
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270705
 SUMMARY:John Deere Classic
@@ -1714,8 +2399,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  s may change.\nPGA TOUR source: https://www.pgatour.com/article/news/lates
  t/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nD
  P World Tour source: https://www.europeantour.com/dpworld-tour/schedule/20
- 27/\n\nViewing schedule pending. This entry will be updated when official 
- U.S. broadcast details are available.
+ 27/\n\nViewing schedule pending. This placeholder will become timed viewin
+ g entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1724,9 +2409,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:af8c1d23-12e1-54d1-ae1c-cb7fd4f52135
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270712
 SUMMARY:Genesis Scottish Open
@@ -1739,8 +2424,8 @@ DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Co-s
  nge.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026/08
  /26/pga-tour-announces-2027-schedule-through-tour-championship\nDP World T
  our source: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nVi
- ewing schedule pending. This entry will be updated when official U.S. broa
- dcast details are available.
+ ewing schedule pending. This placeholder will become timed viewing entries
+  when confirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1749,9 +2434,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5df7ebd8-fd0f-57a0-9285-bc973d4373f1
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270712
 SUMMARY:ISCO Championship
@@ -1763,8 +2448,9 @@ DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Addi
  ntucky\, USA.\nSchedule details may change.\nPGA TOUR source: https://www.
  pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-schedul
  e-through-tour-championship\nDP World Tour source: https://www.europeantou
- r.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This entry 
- will be updated when official U.S. broadcast details are available.
+ r.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This placeh
+ older will become timed viewing entries when confirmed coverage is announc
+ ed.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1773,9 +2459,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:0600cf77-c10a-5df4-8856-432ec950a73c
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270719
 SUMMARY:Corales Puntacana Championship
@@ -1789,8 +2475,8 @@ DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Addi
   TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-t
  our-announces-2027-schedule-through-tour-championship\nDP World Tour sourc
  e: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing sch
- edule pending. This entry will be updated when official U.S. broadcast det
- ails are available.
+ edule pending. This placeholder will become timed viewing entries when con
+ firmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1799,9 +2485,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:7055c97d-652e-5cce-9e46-29c3d53e1d8b
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270719
 SUMMARY:The Open Championship
@@ -1814,8 +2500,8 @@ DESCRIPTION:Tours: PGA TOUR + DP World Tour.\nPGA TOUR classification: Majo
  TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-to
  ur-announces-2027-schedule-through-tour-championship\nDP World Tour source
  : https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing sche
- dule pending. This entry will be updated when official U.S. broadcast deta
- ils are available.
+ dule pending. This placeholder will become timed viewing entries when conf
+ irmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,PGA TOUR,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1824,9 +2510,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:b9901134-e3c0-5bc5-b2cd-39a952594f57
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270726
 SUMMARY:3M Open
@@ -1837,8 +2523,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
   may change.\nPGA TOUR source: https://www.pgatour.com/article/news/latest
  /2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nDP
   World Tour source: https://www.europeantour.com/dpworld-tour/schedule/202
- 7/\n\nViewing schedule pending. This entry will be updated when official U
- .S. broadcast details are available.
+ 7/\n\nViewing schedule pending. This placeholder will become timed viewing
+  entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1847,9 +2533,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:1c3d26f9-a3c7-5c4a-8013-cbeca81fd54c
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270802
 SUMMARY:Sompo Championship
@@ -1861,8 +2547,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
  nounces-2027-schedule-through-tour-championship\nDP World Tour source: htt
  ps://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule 
- pending. This entry will be updated when official U.S. broadcast details a
- re available.
+ pending. This placeholder will become timed viewing entries when confirmed
+  coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1871,9 +2557,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:a356651d-8ddd-5658-aa6a-b062be10027e
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270809
 SUMMARY:GO by Raymond James
@@ -1885,8 +2571,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: Regular Season.\nOff
  rce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-annou
  nces-2027-schedule-through-tour-championship\nDP World Tour source: https:
  //www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pen
- ding. This entry will be updated when official U.S. broadcast details are 
- available.
+ ding. This placeholder will become timed viewing entries when confirmed co
+ verage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1895,9 +2581,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:2ab5d9b8-069f-5529-88ca-c8339090a382
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270809
 DTEND;VALUE=DATE:20270816
 SUMMARY:2027 U.S. Amateur
@@ -1909,8 +2595,8 @@ DESCRIPTION:Championship dates: 2027-08-09 through 2027-08-15.\nCourse: Oak
  tps://championships.usga.org/usamateur/future-sites.html\nViewing source: 
  https://www.usga.org/content/usga/home-page/articles/2025/08/NBCUniversal-
  USGA-extend-media-rights-agreement-through-2032.html\n\nViewing schedule p
- ending. This entry will be updated when official U.S. broadcast details ar
- e available.
+ ending. This placeholder will become timed viewing entries when confirmed 
+ coverage is announced.
 URL:https://championships.usga.org/usamateur/future-sites.html
 CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,USGA,U.S. AMATEUR
 CLASS:PUBLIC
@@ -1919,9 +2605,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:adaae9ff-0c42-599a-b896-ee8a5df52458
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270816
 SUMMARY:FedEx St. Jude Championship
@@ -1932,8 +2618,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: FedExCup Playoffs.\n
  s may change.\nPGA TOUR source: https://www.pgatour.com/article/news/lates
  t/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championship\nD
  P World Tour source: https://www.europeantour.com/dpworld-tour/schedule/20
- 27/\n\nViewing schedule pending. This entry will be updated when official 
- U.S. broadcast details are available.
+ 27/\n\nViewing schedule pending. This placeholder will become timed viewin
+ g entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1942,9 +2628,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:7bb53b99-cd24-5090-8c0d-cefff198864a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270823
 SUMMARY:BMW Championship
@@ -1955,8 +2641,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: FedExCup Playoffs.\n
  A.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.com
  /article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-t
  our-championship\nDP World Tour source: https://www.europeantour.com/dpwor
- ld-tour/schedule/2027/\n\nViewing schedule pending. This entry will be upd
- ated when official U.S. broadcast details are available.
+ ld-tour/schedule/2027/\n\nViewing schedule pending. This placeholder will 
+ become timed viewing entries when confirmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -1965,9 +2651,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:89a85407-a662-5835-8845-c11363b65bb1
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270823
 SUMMARY:Husqvarna British Masters hosted by Sir Nick Faldo
@@ -1978,8 +2664,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
  urce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-anno
  unces-2027-schedule-through-tour-championship\nDP World Tour source: https
  ://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pe
- nding. This entry will be updated when official U.S. broadcast details are
-  available.
+ nding. This placeholder will become timed viewing entries when confirmed c
+ overage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -1988,9 +2674,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:96e0b9e6-5917-5e19-94a6-75c56dc36c43
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270830
 SUMMARY:TOUR Championship
@@ -2001,8 +2687,8 @@ DESCRIPTION:Tours: PGA TOUR.\nPGA TOUR classification: FedExCup Playoffs.\n
   TOUR source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-t
  our-announces-2027-schedule-through-tour-championship\nDP World Tour sourc
  e: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing sch
- edule pending. This entry will be updated when official U.S. broadcast det
- ails are available.
+ edule pending. This placeholder will become timed viewing entries when con
+ firmed coverage is announced.
 URL:https://www.pgatour.com/schedule/2027
 CATEGORIES:SPORTS,GOLF,PGA TOUR
 CLASS:PUBLIC
@@ -2011,9 +2697,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:a577cccf-fda7-5396-ae2b-56e4d6d3830a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270906
 SUMMARY:Omega European Masters
@@ -2024,8 +2710,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
  source: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-an
  nounces-2027-schedule-through-tour-championship\nDP World Tour source: htt
  ps://www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule 
- pending. This entry will be updated when official U.S. broadcast details a
- re available.
+ pending. This placeholder will become timed viewing entries when confirmed
+  coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2034,9 +2720,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:d63db584-f7fd-5729-8367-8edf6d4657ca
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270913
 SUMMARY:FedEx Open de France
@@ -2047,8 +2733,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
  rce: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-annou
  nces-2027-schedule-through-tour-championship\nDP World Tour source: https:
  //www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pen
- ding. This entry will be updated when official U.S. broadcast details are 
- available.
+ ding. This placeholder will become timed viewing entries when confirmed co
+ verage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2057,9 +2743,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:d26b5168-b328-508a-8e6e-f4991c1ab69e
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270920
 SUMMARY:2027 Ryder Cup
@@ -2069,8 +2755,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
  and.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.c
  om/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through
  -tour-championship\nDP World Tour source: https://www.europeantour.com/dpw
- orld-tour/schedule/2027/\n\nViewing schedule pending. This entry will be u
- pdated when official U.S. broadcast details are available.
+ orld-tour/schedule/2027/\n\nViewing schedule pending. This placeholder wil
+ l become timed viewing entries when confirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2079,9 +2765,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:e09f5b6b-f5b2-52c2-8d0a-be46e1229741
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270927
 SUMMARY:BMW PGA Championship
@@ -2092,8 +2778,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
  : https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announce
  s-2027-schedule-through-tour-championship\nDP World Tour source: https://w
  ww.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pendin
- g. This entry will be updated when official U.S. broadcast details are ava
- ilable.
+ g. This placeholder will become timed viewing entries when confirmed cover
+ age is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2102,9 +2788,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:d9d536bf-512f-59b2-ac83-6b518e4cc1d8
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271004
 SUMMARY:Alfred Dunhill Links Championship
@@ -2116,8 +2802,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
  nd.\nSchedule details may change.\nPGA TOUR source: https://www.pgatour.co
  m/article/news/latest/2026/08/26/pga-tour-announces-2027-schedule-through-
  tour-championship\nDP World Tour source: https://www.europeantour.com/dpwo
- rld-tour/schedule/2027/\n\nViewing schedule pending. This entry will be up
- dated when official U.S. broadcast details are available.
+ rld-tour/schedule/2027/\n\nViewing schedule pending. This placeholder will
+  become timed viewing entries when confirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2126,9 +2812,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:0769d85b-31ec-59fd-9f02-01ec38ecee33
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20271006
 DTEND;VALUE=DATE:20271010
 SUMMARY:2027 Eisenhower Trophy
@@ -2136,8 +2822,8 @@ LOCATION:Royal Golf Dar Es Salam - Rabat\, Morocco
 DESCRIPTION:Championship dates: 2027-10-06 through 2027-10-09.\nCourse: Roy
  al Golf Dar Es Salam.\nLocation: Rabat\, Morocco.\nDates\, venues and view
  ing details may change.\nEvent source: https://igfgolf.org/world-amateur-t
- eam-championships/morocco-2027\n\nViewing schedule pending. This entry wil
- l be updated when official U.S. broadcast details are available.
+ eam-championships/morocco-2027\n\nViewing schedule pending. This placehold
+ er will become timed viewing entries when confirmed coverage is announced.
 URL:https://igfgolf.org/world-amateur-team-championships/morocco-2027
 CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,AMATEUR,TEAM EVENT
 CLASS:PUBLIC
@@ -2146,9 +2832,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:28c40829-5647-5cc8-8db1-a91a94ab760a
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271011
 SUMMARY:Open de España presented by Madrid
@@ -2159,8 +2845,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
  e: https://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announc
  es-2027-schedule-through-tour-championship\nDP World Tour source: https://
  www.europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pendi
- ng. This entry will be updated when official U.S. broadcast details are av
- ailable.
+ ng. This placeholder will become timed viewing entries when confirmed cove
+ rage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2169,9 +2855,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:b9bc435c-20f6-5fa0-8efd-5edfcf5e1ac9
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271025
 SUMMARY:Hong Kong Open
@@ -2181,8 +2867,9 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Back 9.\nRace to Du
  ng Kong\, China.\nSchedule details may change.\nPGA TOUR source: https://w
  ww.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2027-sche
  dule-through-tour-championship\nDP World Tour source: https://www.european
- tour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This ent
- ry will be updated when official U.S. broadcast details are available.
+ tour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. This pla
+ ceholder will become timed viewing entries when confirmed coverage is anno
+ unced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2191,9 +2878,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:52f1928c-a878-5d73-adfe-e673c335a4cd
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20271104
 DTEND;VALUE=DATE:20271108
 SUMMARY:Abu Dhabi Championship
@@ -2204,8 +2891,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: DP World Tour Play-
  nge.\nPGA TOUR source: https://www.pgatour.com/article/news/latest/2026/08
  /26/pga-tour-announces-2027-schedule-through-tour-championship\nDP World T
  our source: https://www.europeantour.com/dpworld-tour/schedule/2027/\n\nVi
- ewing schedule pending. This entry will be updated when official U.S. broa
- dcast details are available.
+ ewing schedule pending. This placeholder will become timed viewing entries
+  when confirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2214,9 +2901,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:d9c62455-7b47-5395-86c1-1f4f4030a6dd
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271115
 SUMMARY:DP World Tour Championship\, Dubai
@@ -2228,8 +2915,8 @@ DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: DP World Tour Play-
  etails may change.\nPGA TOUR source: https://www.pgatour.com/article/news/
  latest/2026/08/26/pga-tour-announces-2027-schedule-through-tour-championsh
  ip\nDP World Tour source: https://www.europeantour.com/dpworld-tour/schedu
- le/2027/\n\nViewing schedule pending. This entry will be updated when offi
- cial U.S. broadcast details are available.
+ le/2027/\n\nViewing schedule pending. This placeholder will become timed v
+ iewing entries when confirmed coverage is announced.
 URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
 CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
 CLASS:PUBLIC
@@ -2238,9 +2925,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:01418c50-2941-5ed0-b968-5f17eef6d89e
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20280719
 DTEND;VALUE=DATE:20280723
 SUMMARY:2028 Men’s Olympic Golf
@@ -2248,8 +2935,8 @@ LOCATION:Riviera Country Club - Los Angeles\, California\, USA
 DESCRIPTION:Championship dates: 2028-07-19 through 2028-07-22.\nCourse: Riv
  iera Country Club.\nLocation: Los Angeles\, California\, USA.\nDates\, ven
  ues and viewing details may change.\nEvent source: https://igfgolf.org/\n\
- nViewing schedule pending. This entry will be updated when official U.S. b
- roadcast details are available.
+ nViewing schedule pending. This placeholder will become timed viewing entr
+ ies when confirmed coverage is announced.
 URL:https://igfgolf.org/
 CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,OLYMPICS
 CLASS:PUBLIC
@@ -2258,9 +2945,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:b26eb5bb-2c13-5610-970d-a85b05ca3a94
-DTSTAMP:20261113T014615Z
-LAST-MODIFIED:20261113T014615Z
-SEQUENCE:1
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20280909
 DTEND;VALUE=DATE:20280911
 SUMMARY:2028 Walker Cup
@@ -2273,8 +2960,8 @@ DESCRIPTION:Championship dates: 2028-09-09 through 2028-09-10.\nCourse: Ban
  nge.\nEvent source: https://championships.usga.org/walkercup/future-sites-
  walker-cup.html\nViewing source: https://www.usga.org/content/usga/home-pa
  ge/articles/2025/08/NBCUniversal-USGA-extend-media-rights-agreement-throug
- h-2032.html\n\nViewing schedule pending. This entry will be updated when o
- fficial U.S. broadcast details are available.
+ h-2032.html\n\nViewing schedule pending. This placeholder will become time
+ d viewing entries when confirmed coverage is announced.
 URL:https://championships.usga.org/walkercup/future-sites-walker-cup.html
 CATEGORIES:SPORTS,GOLF,AMATEUR GOLF,USGA,THE R&A,WALKER CUP,TEAM EVENT
 CLASS:PUBLIC
@@ -2283,896 +2970,29 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:1a32b800-c609-5075-8408-1036a275ebda
-DTSTAMP:20261113T014932Z
-LAST-MODIFIED:20261113T014932Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261216
-DTEND;VALUE=DATE:20261217
-SUMMARY:Optum Golf Channel Games
+DTSTAMP:20261113T015616Z
+LAST-MODIFIED:20261113T015616Z
+SEQUENCE:3
+DTSTART:20261217T000000Z
+DTEND:20261217T040000Z
+SUMMARY:Watch: Optum Golf Channel Games — Golf Channel + USA Network
 LOCATION:Trump National Golf Club Jupiter - Jupiter\, Florida\, USA
-DESCRIPTION:Dates reflect confirmed coverage windows. Official source: http
- s://thegolfchannelgames.com/\n\nConfirmed U.S. viewing (Central Time):\nDe
- c 16\, 6:00 PM CST – Dec 16\, 10:00 PM CST | Golf Channel + USA Network 
- | Live primetime event coverage\nhttps://thegolfchannelgames.com/
+DESCRIPTION:Official source: https://thegolfchannelgames.com/\n\nLive prime
+ time event coverage\nWatch on: Golf Channel + USA Network\nDec 16\, 6:00 P
+ M CST – Dec 16\, 10:00 PM CST\nTerritory: United States\nOfficial source
+ : https://thegolfchannelgames.com/\nRory McIlroy and Scottie Scheffler cap
+ tain opposing four-player teams. Golf Channel lists pregame from 7–7:30 
+ p.m.\, competition from 7:30–10:30 p.m.\, and postgame from 10:30–11 p
+ .m. Eastern.
 URL:https://thegolfchannelgames.com/
+CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:85296f42-460e-5790-8c2b-f9cffebf2947
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261105T070000Z
-DTEND:20261105T130000Z
-SUMMARY:Watch: Abu Dhabi Aldar Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:c81ad6fe-d720-532a-8057-b32031f1b1a7
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261105T200000Z
-DTEND:20261105T230000Z
-SUMMARY:Watch: World Wide Technology Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:c863fac6-4f54-544c-8cf7-a861ed7f28f5
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261106T070000Z
-DTEND:20261106T130000Z
-SUMMARY:Watch: Abu Dhabi Aldar Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:58eaa219-e3e3-5ec1-9f9c-982a4296a165
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261106T200000Z
-DTEND:20261106T230000Z
-SUMMARY:Watch: World Wide Technology Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:b2fba919-6333-58c5-a8bc-0561c151e57c
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261107T070000Z
-DTEND:20261107T130000Z
-SUMMARY:Watch: Abu Dhabi Aldar Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:99178627-2a5e-57a8-8247-4ae516fae1fa
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261107T200000Z
-DTEND:20261107T230000Z
-SUMMARY:Watch: World Wide Technology Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:3c0ee0d4-3609-5df8-a92e-80a76a6535e1
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261108T063000Z
-DTEND:20261108T123000Z
-SUMMARY:Watch: Abu Dhabi Aldar Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:4cad6cc8-8033-524a-85a8-b0001fb25c53
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261108T200000Z
-DTEND:20261108T230000Z
-SUMMARY:Watch: World Wide Technology Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:c2a390bc-dfe9-55c0-b217-62aecae88923
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261116
-SUMMARY:Charles Schwab Cup Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:ff683c8b-cd54-512e-946b-14b6d205fde0
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261112T070000Z
-DTEND:20261112T130000Z
-SUMMARY:Watch: DP World Tour Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:d59464d4-6c88-5bf7-9109-e988515037f2
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:2
-DTSTART:20261112T143000Z
-DTEND:20261112T220000Z
-SUMMARY:Watch: Austin Championship presented by Compliance Solutions
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:664e0b3e-74b0-55a4-b0ef-2395260b24bd
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261112T190000Z
-DTEND:20261112T220000Z
-SUMMARY:Watch: Austin Championship presented by Compliance Solutions
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:060d51a6-0caf-5ef0-ac1b-2bfdfb4be554
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261112T220000Z
-DTEND:20261113T000000Z
-SUMMARY:Watch: Charles Schwab Cup Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:5d614164-877e-5076-a6e6-be085e1cf012
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261113T070000Z
-DTEND:20261113T130000Z
-SUMMARY:Watch: DP World Tour Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:eaba0882-3004-5942-b425-4d0820178326
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261113T143000Z
-DTEND:20261113T220000Z
-SUMMARY:Watch: Austin Championship presented by Compliance Solutions
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:293cfa3e-7432-54a0-adfe-abcd7c1ee35b
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261113T190000Z
-DTEND:20261113T220000Z
-SUMMARY:Watch: Austin Championship presented by Compliance Solutions
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:d8704661-8262-5a1d-8f61-9ab46541520d
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261113T220000Z
-DTEND:20261114T000000Z
-SUMMARY:Watch: Charles Schwab Cup Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:0e9ade02-a644-5afb-b162-c302c9bd6d67
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261114T070000Z
-DTEND:20261114T130000Z
-SUMMARY:Watch: DP World Tour Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:7661ad05-cd06-54d5-9233-4c9d72a4d531
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261114T190000Z
-DTEND:20261114T220000Z
-SUMMARY:Watch: Austin Championship presented by Compliance Solutions
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:4350e065-e0e5-51ac-899c-566d856128bd
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261114T220000Z
-DTEND:20261115T000000Z
-SUMMARY:Watch: Charles Schwab Cup Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:b3acfbb4-7072-54b3-b26f-6a1907d3908f
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261115T063000Z
-DTEND:20261115T123000Z
-SUMMARY:Watch: DP World Tour Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:43b1fc28-d03b-5a4e-9f1e-a3d06ecf30e9
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261115T190000Z
-DTEND:20261115T220000Z
-SUMMARY:Watch: Austin Championship presented by Compliance Solutions
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:e0ad079a-5101-587e-b00b-13766611a894
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261115T220000Z
-DTEND:20261116T000000Z
-SUMMARY:Watch: Charles Schwab Cup Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:24bf4532-eb66-5d5f-975a-5ea5856db535
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261119T170000Z
-DTEND:20261119T200000Z
-SUMMARY:Watch: The RSM Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:33d4497c-4a64-5715-99e6-591e06979797
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261120T170000Z
-DTEND:20261120T200000Z
-SUMMARY:Watch: The RSM Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:5909ef0a-4e3f-5440-823b-17eb6c73bbee
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261121T180000Z
-DTEND:20261121T210000Z
-SUMMARY:Watch: The RSM Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:597a01d1-0dfc-57da-89a1-3edae15b07d4
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261122T180000Z
-DTEND:20261122T210000Z
-SUMMARY:Watch: The RSM Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:563ba56e-a42c-5c56-bda1-4eb5a56fc20c
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261203
-DTEND;VALUE=DATE:20261207
-SUMMARY:Skechers World Champions Cup supporting Shriners Children's
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:35e6b591-2c94-56c3-8ff0-0bb8dafccd5c
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261203T143000Z
-DTEND:20261203T170000Z
-SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:a0eeb6fe-f24c-50b7-85f0-5fa9534cec5d
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261203T170000Z
-DTEND:20261203T210000Z
-SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:da7656e5-00b2-5a2f-be9b-a051859551a1
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261203T183000Z
-DTEND:20261203T213000Z
-SUMMARY:Watch: Hero World Challenge
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:b8058f43-1ae1-548b-b018-c39a5770a012
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261204T143000Z
-DTEND:20261204T170000Z
-SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:70c1b6fa-2757-531c-b88f-83d108e4aa0a
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261204T170000Z
-DTEND:20261204T210000Z
-SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:546a7d13-44f6-5b92-8a93-2b3efcd071b9
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261204T183000Z
-DTEND:20261204T213000Z
-SUMMARY:Watch: Hero World Challenge
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:a3101f66-d779-5437-9066-78f50ceb2b7d
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261205T170000Z
-DTEND:20261205T193000Z
-SUMMARY:Watch: Hero World Challenge
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:7b874ae1-45e9-5de0-b86e-45c950bd6856
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261205T193000Z
-DTEND:20261205T220000Z
-SUMMARY:Watch: Hero World Challenge
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:ab68c41a-d54a-52cd-ae2e-0f18f3279a0f
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261206T143000Z
-DTEND:20261206T160000Z
-SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:a6dcb4bc-ddae-55d4-bc86-4d5bba2f6ea5
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261206T163000Z
-DTEND:20261206T183000Z
-SUMMARY:Watch: Hero World Challenge
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:4a1469ae-879c-562d-9cdd-6c8e294eb5c1
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261206T180000Z
-DTEND:20261206T210000Z
-SUMMARY:Watch: Skechers World Champions Cup supporting Shriners Children's
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:b51666f9-a476-5f61-ba23-a761b034efb3
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART:20261206T183000Z
-DTEND:20261206T213000Z
-SUMMARY:Watch: Hero World Challenge
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:9f61df91-fdd2-5a2d-bd19-97051e71d3e2
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261214
-SUMMARY:PGA TOUR Q-School presented by Korn Ferry
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:2e46f8cb-b57e-5537-86ba-a0c5d820a27c
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261221
-SUMMARY:PNC Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:20e98b8f-71f6-54f2-8bcb-7b9018a53cd3
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:2
-DTSTART:20261217T000000Z
-DTEND:20261217T040000Z
-SUMMARY:Watch: Optum Golf Channel Games
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:8979b687-03ab-5217-a288-c89646cd4d58
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270114
-DTEND;VALUE=DATE:20270117
-SUMMARY:Sony Championship Hawaii
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:c27e753b-463e-5155-9660-8428ef97371a
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270121
-DTEND;VALUE=DATE:20270124
-SUMMARY:Mitsubishi Electric Championship at Hualalai
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:18a78077-1c6e-54c7-9e40-bd6be29ac3d1
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270212
-DTEND;VALUE=DATE:20270215
-SUMMARY:Chubb Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:e0033a62-0827-5782-b6aa-b90d24740644
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270308
-SUMMARY:James Hardie Pro Football Hall of Fame Invitational
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:1b2c285b-dfbc-5a0b-a7a1-a8334ac77ff0
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270322
-SUMMARY:Cologuard Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:2d1b865d-8078-5517-8bfb-93f8224a6202
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270325
-DTEND;VALUE=DATE:20270329
-SUMMARY:Hoag Senior Players Championship Newport Beach
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:569df688-3d36-515d-ba90-a7e9de9f403f
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270415
-DTEND;VALUE=DATE:20270419
-SUMMARY:Senior PGA Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:43585769-a6ab-53ea-8ff8-f5c016bea022
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270430
-DTEND;VALUE=DATE:20270503
-SUMMARY:The Insperity
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:abd690d7-3bb5-5684-915e-175581b8aa77
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270507
-DTEND;VALUE=DATE:20270510
-SUMMARY:Mitsubishi Electric Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:fea9df12-d189-5009-9cc7-5ab99a0b14d7
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270513
-DTEND;VALUE=DATE:20270517
-SUMMARY:Regions Tradition
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:b963f6bb-efb5-5955-998a-fec77cf4a719
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270604
-DTEND;VALUE=DATE:20270607
-SUMMARY:Principal Charity Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:c180110f-a270-595f-96d6-76129f0e026c
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270611
-DTEND;VALUE=DATE:20270614
-SUMMARY:American Family Insurance Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:588d522a-65cc-5e17-a6d6-861e50cab06b
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270625
-DTEND;VALUE=DATE:20270628
-SUMMARY:DICK'S Open
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:da303428-2a49-59bf-b576-1eef4f4f8ad1
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270701
-DTEND;VALUE=DATE:20270705
-SUMMARY:U.S. Senior Open Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:a8104753-089e-5bfc-a2a0-523e6c499072
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270722
-DTEND;VALUE=DATE:20270726
-SUMMARY:ISPS HANDA Senior Open
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:0b22f903-40fd-58af-afd0-37c50093148a
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270730
-DTEND;VALUE=DATE:20270802
-SUMMARY:Portugal Invitational
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:32a0aca4-1e2e-5e36-85b8-b39b00767f16
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270813
-DTEND;VALUE=DATE:20270816
-SUMMARY:Boeing Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:96143197-168e-5b9b-8a71-b525b1ab4557
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270820
-DTEND;VALUE=DATE:20270823
-SUMMARY:Rogers Charity Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:f06eff0b-4730-54c1-aceb-433c81836c42
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270827
-DTEND;VALUE=DATE:20270830
-SUMMARY:The Ally Challenge
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:1d70a09d-5a23-57f2-8488-f040f47eaec0
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270910
-DTEND;VALUE=DATE:20270913
-SUMMARY:Sanford International
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:f3fc110b-1af7-5b9e-8379-699269e3dde9
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270918
-DTEND;VALUE=DATE:20270924
-SUMMARY:2027 U.S. Mid-Amateur
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:0e831be5-cffd-59e2-b61f-0d1a4cbfad2d
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270924
-DTEND;VALUE=DATE:20270927
-SUMMARY:PURE Insurance Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:822eda63-0e20-545f-afd6-e87851eb3d66
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271001
-DTEND;VALUE=DATE:20271004
-SUMMARY:Jefferson Lehigh Valley Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:c11b766f-5165-514a-93da-0876e7b34eb9
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271008
-DTEND;VALUE=DATE:20271011
-SUMMARY:Constellation FURYK & FRIENDS
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:7571fe10-f47e-5c46-a830-0631a4031429
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271015
-DTEND;VALUE=DATE:20271018
-SUMMARY:SAS Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:a2dcaf2f-93f8-5ffd-8272-ef6c2570c3bf
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271022
-DTEND;VALUE=DATE:20271025
-SUMMARY:Stifel Charity Classic
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:e502e950-ede2-510a-9b52-6ac291b46d25
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271029
-DTEND;VALUE=DATE:20271101
-SUMMARY:Simmons Bank Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:c35ef4f6-c158-5c00-8fff-5f6e5bac4e8c
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271112
-DTEND;VALUE=DATE:20271115
-SUMMARY:Charles Schwab Cup Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:817195cf-12a9-55cd-8f3c-a935eecd81a5
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271202
-DTEND;VALUE=DATE:20271206
-SUMMARY:Skechers World Champions Cup supporting Shriners Children's
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
-END:VEVENT
-BEGIN:VEVENT
-UID:urn:uuid:54dab751-1acb-5051-9f6a-3deecff9fb33
-DTSTAMP:20261113T013030Z
-LAST-MODIFIED:20261113T013030Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271218
-DTEND;VALUE=DATE:20271220
-SUMMARY:PNC Championship
-CLASS:PUBLIC
-TRANSP:TRANSPARENT
-STATUS:CANCELLED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: Optum Golf Channel Games — Golf Channel + USA Network
+END:VALARM
 END:VEVENT
 END:VCALENDAR

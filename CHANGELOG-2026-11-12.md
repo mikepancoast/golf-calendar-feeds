@@ -34,3 +34,24 @@ This change record is also newly created.
 ## Validation
 
 Calendar structure, hashes, stable event identity when viewing is added, repeat-build revision stability, corrected event names with explicit tournament matching, and exclusion of unwanted categories passed.
+
+## Corrected timed-viewing behavior
+
+Michael confirmed that placeholders should become actual timed viewing blocks. The earlier all-day-description implementation is superseded. The first confirmed window inherits the placeholder UID; later windows receive stable identities. Eligible broadcasts are active again. Previously published migration cancellations are archived. The revised feed contains 75 all-day placeholders, 42 timed entries and zero cancelled entries. Existing TGL/Skins duration estimates remain explicitly labeled.
+
+Validation passed for all-day-to-timed identity, multiple windows, cancellation recovery, stable repeated generation, corrected times/names and exclusions, plus standard calendar/timed-event validation. Daily automation instructions were updated. Upload remains pending until GitHub authentication succeeds or Push origin is used in Desktop.
+
+Files changed for this correction:
+
+- [Subscription builder](scripts/subscription.mjs)
+- [Subscription tests](scripts/test-subscription.mjs)
+- [Broadcast state](sources/subscription-state-golf-broadcasts.json)
+- [Combined state](sources/subscription-state-golf-2027-pga-dp-world.json)
+- [Broadcast feed](dist/golf-broadcasts.ics)
+- [Combined feed](dist/golf-2027-pga-dp-world.ics)
+- [Subscription page](dist/index.html)
+- [Manifest](dist/manifest.json)
+- [Local README](README.md)
+- [Local automation instructions](AUTOMATION.md)
+- [Local publication record](PUBLISHING.md)
+- This change record.
