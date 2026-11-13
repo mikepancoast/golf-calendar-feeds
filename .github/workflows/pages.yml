@@ -29,6 +29,8 @@ jobs:
         run: node scripts/build.mjs --base-url="https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
       - name: Validate subscription feeds
         run: node scripts/validate.mjs
+      - name: Test calendar updates
+        run: node scripts/test-timed.mjs && node scripts/test-subscription.mjs
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

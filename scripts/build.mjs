@@ -2,6 +2,7 @@ import { createHash } from "node:crypto";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { subscriptionFeed } from "./subscription.mjs";
 import { renderCalendar } from "./ical.mjs";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
@@ -317,7 +318,7 @@ function combinedFeed(feed) {
   }));
   const amateurData = sourceByFeed.get(feed.amateurSource);
   const amateurEvents = (amateurData?.events ?? [])
-    .filter((event) => event.start.startsWith("2027-"))
+    .filter((event) => !event.summary.includes("Mid-Amateur"))
     .map((event) => ({
       ...amateurEvent(event, amateurData),
       id: `amateur:${event.id}`
@@ -358,7 +359,11 @@ const manifest = {
 };
 
 for (const feed of registry.feeds) {
-  const built = feed.kind === "combined" ? combinedFeed(feed) : feed.kind === "year-end" ? yearEndFeed(feed) : simpleFeed(feed);
+  let built = feed.kind === "combined" ? combinedFeed(feed) : feed.kind === "year-end" ? yearEndFeed(feed) : simpleFeed(feed);
+  if (["golf-broadcasts", "golf-2027-pga-dp-world"].includes(feed.id)) {
+    const combined = combinedFeed(registry.feeds.find(item => item.kind === "combined"));
+    built = await subscriptionFeed(feed, combined, sourceByFeed.get("golf-broadcasts"), root);
+  }
   const subscriptionUrl = baseUrl ? `${baseUrl}/${feed.filename}` : undefined;
   const output = renderCalendar(built.calendar, built.events, { subscriptionUrl });
   await writeFile(join(dist, feed.filename), output, "utf8");

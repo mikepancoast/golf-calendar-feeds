@@ -6,6 +6,6 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "validate": "node scripts/validate.mjs",
-    "test": "node scripts/build.mjs && node scripts/validate.mjs && node scripts/test-timed.mjs"
+    "test": "node scripts/build.mjs && node scripts/validate.mjs && node scripts/test-timed.mjs && node scripts/test-subscription.mjs"
   }
 }

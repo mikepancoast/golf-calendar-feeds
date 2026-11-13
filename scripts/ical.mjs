@@ -85,7 +85,7 @@ export function renderCalendar(calendar, events, options = {}) {
     const lastModified = event.lastModified ?? calendar.generatedAt;
     lines.push(
       "BEGIN:VEVENT",
-      `UID:urn:uuid:${uuidV5(event.id, calendar.namespace)}`,
+      `UID:${event.uid ?? `urn:uuid:${uuidV5(event.id, calendar.namespace)}`}`,
       `DTSTAMP:${lastModified}`,
       `LAST-MODIFIED:${lastModified}`,
       `SEQUENCE:${event.sequence ?? 0}`
