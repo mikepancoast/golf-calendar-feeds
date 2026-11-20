@@ -976,17 +976,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:1deb0b1b-cb20-586c-9189-bcac6a94092c
-DTSTAMP:20261103T142413Z
-LAST-MODIFIED:20261103T142413Z
-SEQUENCE:0
-DTSTART:20261203T183000Z
+DTSTAMP:20261120T130506Z
+LAST-MODIFIED:20261120T130506Z
+SEQUENCE:1
+DTSTART:20261203T173000Z
 DTEND:20261203T213000Z
 SUMMARY:Watch: Hero World Challenge
 DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
  nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
- : December 3\, 2026\, 1:30-4:30 p.m. ET.\nTerritory: United States.\nBroad
- cast details may change.\nOfficial source: https://heroworldchallenge.com/
- spectator/
+ : December 3\, 2026\, 12:30-4:30 p.m. ET.\nTerritory: United States.\nBroa
+ dcast details may change.\nOfficial source: https://heroworldchallenge.com
+ /spectator/
 URL:https://heroworldchallenge.com/spectator/
 CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
 CLASS:PUBLIC
@@ -1050,17 +1050,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:cd789c68-8881-5e87-b724-65902e503098
-DTSTAMP:20261103T142413Z
-LAST-MODIFIED:20261103T142413Z
-SEQUENCE:0
-DTSTART:20261204T183000Z
+DTSTAMP:20261120T130506Z
+LAST-MODIFIED:20261120T130506Z
+SEQUENCE:1
+DTSTART:20261204T173000Z
 DTEND:20261204T213000Z
 SUMMARY:Watch: Hero World Challenge
 DESCRIPTION:Live tournament coverage of Hero World Challenge.\nTour or orga
  nizer: PGA TOUR unofficial event.\nWatch on: Golf Channel.\nPublished time
- : December 4\, 2026\, 1:30-4:30 p.m. ET.\nTerritory: United States.\nBroad
- cast details may change.\nOfficial source: https://heroworldchallenge.com/
- spectator/
+ : December 4\, 2026\, 12:30-4:30 p.m. ET.\nTerritory: United States.\nBroa
+ dcast details may change.\nOfficial source: https://heroworldchallenge.com
+ /spectator/
 URL:https://heroworldchallenge.com/spectator/
 CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR UNOFFICIAL EVENT,GOLF CHANNEL
 CLASS:PUBLIC

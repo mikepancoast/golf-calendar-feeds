@@ -620,9 +620,9 @@
     },
     "year-end:late-2026-hero-world-challenge": {
       "id": "year-end:late-2026-hero-world-challenge",
-      "fingerprint": "{\"id\":\"year-end:late-2026-hero-world-challenge\",\"summary\":\"Watch: Hero World Challenge — Golf Channel\",\"startUtc\":\"2026-12-03T18:30:00Z\",\"endUtc\":\"2026-12-03T21:30:00Z\",\"status\":\"CONFIRMED\",\"location\":\"Albany Golf Course - Albany, Bahamas\",\"url\":\"https://heroworldchallenge.com/spectator/\",\"description\":\"PGA TOUR unofficial event - Invitational.\\nTournament dates: 2026-12-03 through 2026-12-06.\\nCourse: Albany Golf Course.\\nLocation: Albany, Bahamas.\\nSchedule details may change.\\nOfficial source: https://www.pgatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\\n\\nLive tournament coverage\\nWatch on: Golf Channel\\nDec 3, 12:30 PM CST – Dec 3, 3:30 PM CST\\nTerritory: United States\\nOfficial source: https://heroworldchallenge.com/spectator/\",\"categories\":[\"SPORTS\",\"GOLF\",\"BROADCAST\"],\"alarmMinutes\":15,\"uid\":\"urn:uuid:c8527b14-e141-5da9-8268-c08a9682862a\"}",
-      "sequence": 2,
-      "lastModified": "20261113T015616Z"
+      "fingerprint": "{\"id\":\"year-end:late-2026-hero-world-challenge\",\"summary\":\"Watch: Hero World Challenge — Golf Channel\",\"startUtc\":\"2026-12-03T17:30:00Z\",\"endUtc\":\"2026-12-03T21:30:00Z\",\"status\":\"CONFIRMED\",\"location\":\"Albany Golf Course - Albany, Bahamas\",\"url\":\"https://heroworldchallenge.com/spectator/\",\"description\":\"PGA TOUR unofficial event - Invitational.\\nTournament dates: 2026-12-03 through 2026-12-06.\\nCourse: Albany Golf Course.\\nLocation: Albany, Bahamas.\\nSchedule details may change.\\nOfficial source: https://www.pgatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\\n\\nLive tournament coverage\\nWatch on: Golf Channel\\nDec 3, 11:30 AM CST – Dec 3, 3:30 PM CST\\nTerritory: United States\\nOfficial source: https://heroworldchallenge.com/spectator/\",\"categories\":[\"SPORTS\",\"GOLF\",\"BROADCAST\"],\"alarmMinutes\":15,\"uid\":\"urn:uuid:c8527b14-e141-5da9-8268-c08a9682862a\"}",
+      "sequence": 3,
+      "lastModified": "20261120T130506Z"
     },
     "dp-003": {
       "id": "dp-003",
@@ -1244,9 +1244,9 @@
     },
     "broadcast:hero-world-challenge-2026-2026-12-04-round-coverage-golf-channel": {
       "id": "broadcast:hero-world-challenge-2026-2026-12-04-round-coverage-golf-channel",
-      "fingerprint": "{\"id\":\"broadcast:hero-world-challenge-2026-2026-12-04-round-coverage-golf-channel\",\"summary\":\"Watch: Hero World Challenge — Golf Channel\",\"startUtc\":\"2026-12-04T18:30:00Z\",\"endUtc\":\"2026-12-04T21:30:00Z\",\"status\":\"CONFIRMED\",\"location\":\"Albany Golf Course - Albany, Bahamas\",\"url\":\"https://heroworldchallenge.com/spectator/\",\"description\":\"PGA TOUR unofficial event - Invitational.\\nTournament dates: 2026-12-03 through 2026-12-06.\\nCourse: Albany Golf Course.\\nLocation: Albany, Bahamas.\\nSchedule details may change.\\nOfficial source: https://www.pgatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\\n\\nLive tournament coverage\\nWatch on: Golf Channel\\nDec 4, 12:30 PM CST – Dec 4, 3:30 PM CST\\nTerritory: United States\\nOfficial source: https://heroworldchallenge.com/spectator/\",\"categories\":[\"SPORTS\",\"GOLF\",\"BROADCAST\"],\"alarmMinutes\":15,\"uid\":\"urn:uuid:546a7d13-44f6-5b92-8a93-2b3efcd071b9\"}",
-      "sequence": 2,
-      "lastModified": "20261113T015616Z"
+      "fingerprint": "{\"id\":\"broadcast:hero-world-challenge-2026-2026-12-04-round-coverage-golf-channel\",\"summary\":\"Watch: Hero World Challenge — Golf Channel\",\"startUtc\":\"2026-12-04T17:30:00Z\",\"endUtc\":\"2026-12-04T21:30:00Z\",\"status\":\"CONFIRMED\",\"location\":\"Albany Golf Course - Albany, Bahamas\",\"url\":\"https://heroworldchallenge.com/spectator/\",\"description\":\"PGA TOUR unofficial event - Invitational.\\nTournament dates: 2026-12-03 through 2026-12-06.\\nCourse: Albany Golf Course.\\nLocation: Albany, Bahamas.\\nSchedule details may change.\\nOfficial source: https://www.pgatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\\n\\nLive tournament coverage\\nWatch on: Golf Channel\\nDec 4, 11:30 AM CST – Dec 4, 3:30 PM CST\\nTerritory: United States\\nOfficial source: https://heroworldchallenge.com/spectator/\",\"categories\":[\"SPORTS\",\"GOLF\",\"BROADCAST\"],\"alarmMinutes\":15,\"uid\":\"urn:uuid:546a7d13-44f6-5b92-8a93-2b3efcd071b9\"}",
+      "sequence": 3,
+      "lastModified": "20261120T130506Z"
     },
     "broadcast:hero-world-challenge-2026-2026-12-05-round-coverage-golf-channel": {
       "id": "broadcast:hero-world-challenge-2026-2026-12-05-round-coverage-golf-channel",

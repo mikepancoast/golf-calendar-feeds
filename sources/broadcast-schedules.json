@@ -112,16 +112,16 @@
       "tournament": "Hero World Challenge",
       "tour": "PGA TOUR unofficial event",
       "coverageType": "Live tournament coverage",
-      "startUtc": "2026-12-03T18:30:00Z",
+      "startUtc": "2026-12-03T17:30:00Z",
       "endUtc": "2026-12-03T21:30:00Z",
       "platforms": [
         "Golf Channel"
       ],
-      "publishedTimeLabel": "December 3, 2026, 1:30-4:30 p.m. ET",
+      "publishedTimeLabel": "December 3, 2026, 12:30-4:30 p.m. ET",
       "territory": "United States",
       "sourceUrl": "https://heroworldchallenge.com/spectator/",
-      "sequence": 0,
-      "lastModified": "20261103T142413Z",
+      "sequence": 1,
+      "lastModified": "20261120T130506Z",
       "alarmMinutes": 15
     },
     {
@@ -130,16 +130,16 @@
       "tournament": "Hero World Challenge",
       "tour": "PGA TOUR unofficial event",
       "coverageType": "Live tournament coverage",
-      "startUtc": "2026-12-04T18:30:00Z",
+      "startUtc": "2026-12-04T17:30:00Z",
       "endUtc": "2026-12-04T21:30:00Z",
       "platforms": [
         "Golf Channel"
       ],
-      "publishedTimeLabel": "December 4, 2026, 1:30-4:30 p.m. ET",
+      "publishedTimeLabel": "December 4, 2026, 12:30-4:30 p.m. ET",
       "territory": "United States",
       "sourceUrl": "https://heroworldchallenge.com/spectator/",
-      "sequence": 0,
-      "lastModified": "20261103T142413Z",
+      "sequence": 1,
+      "lastModified": "20261120T130506Z",
       "alarmMinutes": 15
     },
     {

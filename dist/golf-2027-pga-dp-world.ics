@@ -12,7 +12,7 @@ DESCRIPTION:All-day tournament placeholders become timed U.S. viewing windo
 X-WR-CALDESC:All-day tournament placeholders become timed U.S. viewing wind
  ows when announced. Men’s PGA TOUR\, DP World Tour\, majors\, team cups\
  , selected amateur championships\, exhibitions\, TGL and Olympic golf.
-LAST-MODIFIED:20261113T132021Z
+LAST-MODIFIED:20261120T130506Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
@@ -700,10 +700,10 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:c8527b14-e141-5da9-8268-c08a9682862a
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
-DTSTART:20261203T183000Z
+DTSTAMP:20261120T130506Z
+LAST-MODIFIED:20261120T130506Z
+SEQUENCE:3
+DTSTART:20261203T173000Z
 DTEND:20261203T213000Z
 SUMMARY:Watch: Hero World Challenge — Golf Channel
 LOCATION:Albany Golf Course - Albany\, Bahamas
@@ -711,7 +711,7 @@ DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
  26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
  y\, Bahamas.\nSchedule details may change.\nOfficial source: https://www.p
  gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nLive
-  tournament coverage\nWatch on: Golf Channel\nDec 3\, 12:30 PM CST – Dec
+  tournament coverage\nWatch on: Golf Channel\nDec 3\, 11:30 AM CST – Dec
   3\, 3:30 PM CST\nTerritory: United States\nOfficial source: https://herow
  orldchallenge.com/spectator/
 URL:https://heroworldchallenge.com/spectator/
@@ -727,10 +727,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:546a7d13-44f6-5b92-8a93-2b3efcd071b9
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
-DTSTART:20261204T183000Z
+DTSTAMP:20261120T130506Z
+LAST-MODIFIED:20261120T130506Z
+SEQUENCE:3
+DTSTART:20261204T173000Z
 DTEND:20261204T213000Z
 SUMMARY:Watch: Hero World Challenge — Golf Channel
 LOCATION:Albany Golf Course - Albany\, Bahamas
@@ -738,7 +738,7 @@ DESCRIPTION:PGA TOUR unofficial event - Invitational.\nTournament dates: 20
  26-12-03 through 2026-12-06.\nCourse: Albany Golf Course.\nLocation: Alban
  y\, Bahamas.\nSchedule details may change.\nOfficial source: https://www.p
  gatour.com/tournaments/2026/hero-world-challenge/R2026478/overview\n\nLive
-  tournament coverage\nWatch on: Golf Channel\nDec 4\, 12:30 PM CST – Dec
+  tournament coverage\nWatch on: Golf Channel\nDec 4\, 11:30 AM CST – Dec
   4\, 3:30 PM CST\nTerritory: United States\nOfficial source: https://herow
  orldchallenge.com/spectator/
 URL:https://heroworldchallenge.com/spectator/
