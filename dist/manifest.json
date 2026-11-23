@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "rebuiltAt": "2026-11-20",
+  "rebuiltAt": "2026-11-23",
   "feeds": [
     {
       "id": "pga-tour-2027",
@@ -100,8 +100,8 @@
       "yearEndEventCount": 0,
       "championsEventCount": 0,
       "amateurEventCount": 0,
-      "generatedAt": "20261120T130506Z",
-      "sha256": "6ce4d8b53fb8243ab90861f46deb2949d61b0ec8a75fc1a10a5e2dd3263b94f1",
+      "generatedAt": "20261123T151837Z",
+      "sha256": "cf7564637a5b505d851f2585ed260e3c7261adc8a8fbce7b05e369b1b96c6afe",
       "source": "sources/broadcast-schedules.json"
     },
     {
@@ -117,8 +117,8 @@
       "yearEndEventCount": 56,
       "championsEventCount": 0,
       "amateurEventCount": 0,
-      "generatedAt": "20261113T131955Z",
-      "sha256": "af6a393b4878619797ce49be4ef4adb3988e0390497845ac41595e423e406882",
+      "generatedAt": "20261123T151837Z",
+      "sha256": "1ac4a7fd0966489097950033447de984668e98ae96ed1350b05df0dc1ffcd277",
       "source": "sources/golf-late-2026.json"
     },
     {
@@ -134,8 +134,8 @@
       "yearEndEventCount": 0,
       "championsEventCount": 0,
       "amateurEventCount": 0,
-      "generatedAt": "20261120T130506Z",
-      "sha256": "f38b3e4667b1481ec756f52206a9d95c0a4b8b75951516b7f0a6d3e56e336e39",
+      "generatedAt": "20261123T151837Z",
+      "sha256": "70ef2aa683b77d292f5849f8099396b5103fb29a2c65631d7110161196fb572f",
       "source": [
         "pga-tour-2027",
         "dp-world-tour-2027"

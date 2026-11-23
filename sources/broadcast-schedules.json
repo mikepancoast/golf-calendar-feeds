@@ -3,7 +3,7 @@
     "name": "Golf Broadcast Schedule",
     "description": "Confirmed television and streaming windows for tournaments in the golf calendar. Times are stored in UTC and displayed in the subscriber's local time zone.",
     "namespace": "8de9f640-2344-4bcd-a3bf-2d2a79b244f1",
-    "generatedAt": "20261111T131020Z",
+    "generatedAt": "20261123T151837Z",
     "sourceUrls": [
       "https://www.pgatour.com/watch",
       "https://internationalmedia.pgatour.com/schedules",
@@ -27,7 +27,7 @@
       "publishedTimeLabel": "Wednesday, December 16, 2026, 7-11 p.m. ET",
       "territory": "United States",
       "location": "Trump National Golf Club Jupiter - Jupiter, Florida, USA",
-      "note": "Rory McIlroy and Scottie Scheffler captain opposing four-player teams. Golf Channel lists pregame from 7–7:30 p.m., competition from 7:30–10:30 p.m., and postgame from 10:30–11 p.m. Eastern.",
+      "note": "Rory McIlroy and Scottie Scheffler captain opposing four-player teams. Golf Channel lists pregame from 7\u20137:30 p.m., competition from 7:30\u201310:30 p.m., and postgame from 10:30\u201311 p.m. Eastern.",
       "sourceUrl": "https://thegolfchannelgames.com/",
       "announcementUrl": "https://www.golfchannel.com/news/news/2026-optum-golf-channel-games-how-to-watch-teams-competition-lineup",
       "sequence": 1,
@@ -331,36 +331,42 @@
       "summary": "Watch: The RSM Classic",
       "tournament": "The RSM Classic",
       "tour": "PGA TOUR",
-      "coverageType": "Live tournament coverage",
-      "startUtc": "2026-11-21T18:00:00Z",
-      "endUtc": "2026-11-21T21:00:00Z",
+      "coverageType": "Live third round coverage",
+      "startUtc": "2026-11-22T18:00:00Z",
+      "endUtc": "2026-11-22T21:00:00Z",
       "platforms": [
         "Golf Channel"
       ],
-      "publishedTimeLabel": "November 21, 2026, 1-4pm (Sea Island local time)",
+      "publishedTimeLabel": "November 22, 2026, 1-4 p.m. ET",
       "territory": "United States",
       "sourceUrl": "https://rsmclassic.com/spectator-info/all/",
-      "sequence": 0,
-      "lastModified": "20261107T133129Z",
-      "alarmMinutes": 15
+      "sequence": 1,
+      "lastModified": "20261123T151837Z",
+      "alarmMinutes": 15,
+      "announcementUrl": "https://www.golfchannel.com/pga-tour/news/2026-rsm-classic-how-to-watch-final-round-groupings-tee-times",
+      "status": "CONFIRMED",
+      "note": "Saturday washout postponed round three to Sunday and the final round to Monday. Original coverage ID retained for calendar identity."
     },
     {
       "id": "the-rsm-classic-2026-2026-11-22-round-coverage-golf-channel",
       "summary": "Watch: The RSM Classic",
       "tournament": "The RSM Classic",
       "tour": "PGA TOUR",
-      "coverageType": "Live tournament coverage",
-      "startUtc": "2026-11-22T18:00:00Z",
-      "endUtc": "2026-11-22T21:00:00Z",
+      "coverageType": "Live final round coverage",
+      "startUtc": "2026-11-23T15:00:00Z",
+      "endUtc": "2026-11-23T19:00:00Z",
       "platforms": [
         "Golf Channel"
       ],
-      "publishedTimeLabel": "November 22, 2026, 1-4pm (Sea Island local time)",
+      "publishedTimeLabel": "November 23, 2026, 10 a.m.-2 p.m. ET",
       "territory": "United States",
       "sourceUrl": "https://rsmclassic.com/spectator-info/all/",
-      "sequence": 0,
-      "lastModified": "20261107T133129Z",
-      "alarmMinutes": 15
+      "sequence": 1,
+      "lastModified": "20261123T151837Z",
+      "alarmMinutes": 15,
+      "announcementUrl": "https://www.golfchannel.com/pga-tour/news/2026-rsm-classic-how-to-watch-final-round-groupings-tee-times",
+      "status": "CONFIRMED",
+      "note": "Saturday washout postponed round three to Sunday and the final round to Monday. Original coverage ID retained for calendar identity."
     },
     {
       "id": "skechers-world-champions-cup-2026-2026-12-03-round-coverage-golf-channel",
@@ -373,7 +379,7 @@
       "platforms": [
         "Golf Channel"
       ],
-      "publishedTimeLabel": "December 3, 2026, 9:30 AM – 12:00 PM ET",
+      "publishedTimeLabel": "December 3, 2026, 9:30 AM \u2013 12:00 PM ET",
       "territory": "United States",
       "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
       "sequence": 0,
@@ -391,7 +397,7 @@
       "platforms": [
         "ESPN2"
       ],
-      "publishedTimeLabel": "December 3, 2026, 12:00 PM – 4:00 PM ET",
+      "publishedTimeLabel": "December 3, 2026, 12:00 PM \u2013 4:00 PM ET",
       "territory": "United States",
       "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
       "sequence": 0,
@@ -409,7 +415,7 @@
       "platforms": [
         "Golf Channel"
       ],
-      "publishedTimeLabel": "December 4, 2026, 9:30 AM – 12:00 PM ET",
+      "publishedTimeLabel": "December 4, 2026, 9:30 AM \u2013 12:00 PM ET",
       "territory": "United States",
       "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
       "sequence": 0,
@@ -427,7 +433,7 @@
       "platforms": [
         "ESPN2"
       ],
-      "publishedTimeLabel": "December 4, 2026, 12:00 PM – 4:00 PM ET",
+      "publishedTimeLabel": "December 4, 2026, 12:00 PM \u2013 4:00 PM ET",
       "territory": "United States",
       "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
       "sequence": 0,
@@ -445,7 +451,7 @@
       "platforms": [
         "Golf Channel"
       ],
-      "publishedTimeLabel": "December 6, 2026, 9:30 AM – 11:00 AM ET",
+      "publishedTimeLabel": "December 6, 2026, 9:30 AM \u2013 11:00 AM ET",
       "territory": "United States",
       "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
       "sequence": 0,
@@ -463,7 +469,7 @@
       "platforms": [
         "ABC"
       ],
-      "publishedTimeLabel": "December 6, 2026, 1:00 PM – 4:00 PM ET",
+      "publishedTimeLabel": "December 6, 2026, 1:00 PM \u2013 4:00 PM ET",
       "territory": "United States",
       "sourceUrl": "https://worldchampionscup.com/broadcast-schedule/",
       "sequence": 0,

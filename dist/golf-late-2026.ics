@@ -14,7 +14,7 @@ X-WR-CALDESC:Remaining 2026 PGA TOUR\, DP World Tour\, PGA TOUR Champions\,
   and nationally notable special events\, supplemented by the existing DP W
  orld Tour 2027 openers\, TGL\, and confirmed broadcast feeds. LPGA and LPG
  A co-sanctioned events are excluded.
-LAST-MODIFIED:20261113T131955Z
+LAST-MODIFIED:20261123T151837Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
@@ -717,16 +717,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:0b087b6b-3cbb-578f-bb86-41eae2799df7
-DTSTAMP:20261102T222124Z
-LAST-MODIFIED:20261102T222124Z
-SEQUENCE:0
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
 SUMMARY:The RSM Classic
 LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
   Island\, Georgia\, USA
 DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
-  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+  2026-11-23.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
  s.\nLocation: St. Simons Island\, Georgia\, USA.\nExact U.S. viewing windo
  ws will be added when officially published.\nSchedule details may change.\
  nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-classic
@@ -788,17 +788,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:8570c966-5c40-5f65-b2b2-44a48a87a715
-DTSTAMP:20261107T133129Z
-LAST-MODIFIED:20261107T133129Z
-SEQUENCE:0
-DTSTART:20261121T180000Z
-DTEND:20261121T210000Z
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
+SEQUENCE:1
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
 SUMMARY:Watch: The RSM Classic
-DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
- : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 21\, 2026\,
-  1-4pm (Sea Island local time).\nTerritory: United States.\nBroadcast deta
- ils may change.\nOfficial source: https://rsmclassic.com/spectator-info/al
- l/
+DESCRIPTION:Live third round coverage of The RSM Classic.\nTour or organize
+ r: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 22\, 2026\
+ , 1-4 p.m. ET.\nTerritory: United States.\nSaturday washout postponed roun
+ d three to Sunday and the final round to Monday. Original coverage ID reta
+ ined for calendar identity.\nBroadcast details may change.\nOfficial sourc
+ e: https://rsmclassic.com/spectator-info/all/\nOfficial announcement: http
+ s://www.golfchannel.com/pga-tour/news/2026-rsm-classic-how-to-watch-final-
+ round-groupings-tee-times
 URL:https://rsmclassic.com/spectator-info/all/
 CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
 CLASS:PUBLIC
@@ -812,17 +815,20 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:3eb6cce5-20e0-521f-90f8-0c9701319772
-DTSTAMP:20261107T133129Z
-LAST-MODIFIED:20261107T133129Z
-SEQUENCE:0
-DTSTART:20261122T180000Z
-DTEND:20261122T210000Z
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
+SEQUENCE:1
+DTSTART:20261123T150000Z
+DTEND:20261123T190000Z
 SUMMARY:Watch: The RSM Classic
-DESCRIPTION:Live tournament coverage of The RSM Classic.\nTour or organizer
- : PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 22\, 2026\,
-  1-4pm (Sea Island local time).\nTerritory: United States.\nBroadcast deta
- ils may change.\nOfficial source: https://rsmclassic.com/spectator-info/al
- l/
+DESCRIPTION:Live final round coverage of The RSM Classic.\nTour or organize
+ r: PGA TOUR.\nWatch on: Golf Channel.\nPublished time: November 23\, 2026\
+ , 10 a.m.-2 p.m. ET.\nTerritory: United States.\nSaturday washout postpone
+ d round three to Sunday and the final round to Monday. Original coverage I
+ D retained for calendar identity.\nBroadcast details may change.\nOfficial
+  source: https://rsmclassic.com/spectator-info/all/\nOfficial announcement
+ : https://www.golfchannel.com/pga-tour/news/2026-rsm-classic-how-to-watch-
+ final-round-groupings-tee-times
 URL:https://rsmclassic.com/spectator-info/all/
 CATEGORIES:SPORTS,GOLF,BROADCAST,PGA TOUR,GOLF CHANNEL
 CLASS:PUBLIC
@@ -836,8 +842,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:192e474c-4d36-50b4-8621-fc679489b37b
-DTSTAMP:20261113T131955Z
-LAST-MODIFIED:20261113T131955Z
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261130
@@ -890,8 +896,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:17f02984-e0f1-54f3-906d-1916e2e63e3a
-DTSTAMP:20261113T131955Z
-LAST-MODIFIED:20261113T131955Z
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261207
@@ -932,8 +938,8 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5908506f-25ac-5fd8-ad60-e58097a61c7f
-DTSTAMP:20261113T131955Z
-LAST-MODIFIED:20261113T131955Z
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261207
@@ -1269,8 +1275,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:deba6425-ce18-545e-9482-88e97f2b2930
-DTSTAMP:20261113T131955Z
-LAST-MODIFIED:20261113T131955Z
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
 SEQUENCE:0
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261214

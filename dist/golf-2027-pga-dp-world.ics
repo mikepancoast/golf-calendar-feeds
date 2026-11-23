@@ -12,7 +12,7 @@ DESCRIPTION:All-day tournament placeholders become timed U.S. viewing windo
 X-WR-CALDESC:All-day tournament placeholders become timed U.S. viewing wind
  ows when announced. Men’s PGA TOUR\, DP World Tour\, majors\, team cups\
  , selected amateur championships\, exhibitions\, TGL and Olympic golf.
-LAST-MODIFIED:20261120T130506Z
+LAST-MODIFIED:20261123T151837Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
@@ -509,16 +509,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5f55591c-9371-5c56-abe2-53db63e8f228
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
+SEQUENCE:3
 DTSTART:20261119T170000Z
 DTEND:20261119T200000Z
 SUMMARY:Watch: The RSM Classic — Golf Channel
 LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
   Island\, Georgia\, USA
 DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
-  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+  2026-11-23.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
  s.\nLocation: St. Simons Island\, Georgia\, USA.\nSchedule details may cha
  nge.\nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-cl
  assic/R2026493/overview\n\nLive tournament coverage\nWatch on: Golf Channe
@@ -537,16 +537,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:33d4497c-4a64-5715-99e6-591e06979797
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
+SEQUENCE:3
 DTSTART:20261120T170000Z
 DTEND:20261120T200000Z
 SUMMARY:Watch: The RSM Classic — Golf Channel
 LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
   Island\, Georgia\, USA
 DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
-  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+  2026-11-23.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
  s.\nLocation: St. Simons Island\, Georgia\, USA.\nSchedule details may cha
  nge.\nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-cl
  assic/R2026493/overview\n\nLive tournament coverage\nWatch on: Golf Channe
@@ -565,21 +565,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:5909ef0a-4e3f-5440-823b-17eb6c73bbee
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
-DTSTART:20261121T180000Z
-DTEND:20261121T210000Z
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
+SEQUENCE:3
+DTSTART:20261122T180000Z
+DTEND:20261122T210000Z
 SUMMARY:Watch: The RSM Classic — Golf Channel
 LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
   Island\, Georgia\, USA
 DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
-  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+  2026-11-23.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
  s.\nLocation: St. Simons Island\, Georgia\, USA.\nSchedule details may cha
  nge.\nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-cl
- assic/R2026493/overview\n\nLive tournament coverage\nWatch on: Golf Channe
- l\nNov 21\, 12:00 PM CST – Nov 21\, 3:00 PM CST\nTerritory: United State
- s\nOfficial source: https://rsmclassic.com/spectator-info/all/
+ assic/R2026493/overview\n\nLive third round coverage\nWatch on: Golf Chann
+ el\nNov 22\, 12:00 PM CST – Nov 22\, 3:00 PM CST\nTerritory: United Stat
+ es\nOfficial source: https://rsmclassic.com/spectator-info/all/\nSaturday 
+ washout postponed round three to Sunday and the final round to Monday. Ori
+ ginal coverage ID retained for calendar identity.
 URL:https://rsmclassic.com/spectator-info/all/
 CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
@@ -593,21 +595,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:597a01d1-0dfc-57da-89a1-3edae15b07d4
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
-DTSTART:20261122T180000Z
-DTEND:20261122T210000Z
+DTSTAMP:20261123T151837Z
+LAST-MODIFIED:20261123T151837Z
+SEQUENCE:3
+DTSTART:20261123T150000Z
+DTEND:20261123T190000Z
 SUMMARY:Watch: The RSM Classic — Golf Channel
 LOCATION:Sea Island Golf Club\, Seaside and Plantation Courses - St. Simons
   Island\, Georgia\, USA
 DESCRIPTION:PGA TOUR - FedExCup Fall.\nTournament dates: 2026-11-19 through
-  2026-11-22.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
+  2026-11-23.\nCourse: Sea Island Golf Club\, Seaside and Plantation Course
  s.\nLocation: St. Simons Island\, Georgia\, USA.\nSchedule details may cha
  nge.\nOfficial source: https://www.pgatour.com/tournaments/2026/the-rsm-cl
- assic/R2026493/overview\n\nLive tournament coverage\nWatch on: Golf Channe
- l\nNov 22\, 12:00 PM CST – Nov 22\, 3:00 PM CST\nTerritory: United State
- s\nOfficial source: https://rsmclassic.com/spectator-info/all/
+ assic/R2026493/overview\n\nLive final round coverage\nWatch on: Golf Chann
+ el\nNov 23\, 9:00 AM CST – Nov 23\, 1:00 PM CST\nTerritory: United State
+ s\nOfficial source: https://rsmclassic.com/spectator-info/all/\nSaturday w
+ ashout postponed round three to Sunday and the final round to Monday. Orig
+ inal coverage ID retained for calendar identity.
 URL:https://rsmclassic.com/spectator-info/all/
 CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC

@@ -3,7 +3,7 @@
     "name": "Golf: Rest of 2026",
     "description": "Remaining 2026 PGA TOUR, DP World Tour, PGA TOUR Champions, and nationally notable special events, supplemented by the existing DP World Tour 2027 openers, TGL, and confirmed broadcast feeds. LPGA and LPGA co-sanctioned events are excluded.",
     "namespace": "ba0defdd-af0d-46f3-8d55-1c3c79640cee",
-    "generatedAt": "20261113T131955Z",
+    "generatedAt": "20261123T151837Z",
     "scheduleUrl": "https://www.pgatour.com/schedule",
     "sourceUrls": [
       "https://www.pgatour.com/schedule",
@@ -81,14 +81,15 @@
       "id": "late-2026-the-rsm-classic",
       "summary": "The RSM Classic",
       "start": "2026-11-19",
-      "end": "2026-11-22",
+      "end": "2026-11-23",
       "tour": "PGA TOUR",
       "type": "FedExCup Fall",
       "course": "Sea Island Golf Club, Seaside and Plantation Courses",
       "location": "St. Simons Island, Georgia, USA",
       "sourceUrl": "https://www.pgatour.com/tournaments/2026/the-rsm-classic/R2026493/overview",
-      "sequence": 0,
-      "lastModified": "20261102T222124Z"
+      "sequence": 1,
+      "lastModified": "20261123T151837Z",
+      "announcementUrl": "https://www.golfchannel.com/pga-tour/news/2026-rsm-classic-how-to-watch-final-round-groupings-tee-times"
     },
     {
       "id": "late-2026-farmers-insurance-skins-game",
@@ -99,7 +100,9 @@
       "type": "Special event",
       "course": "Atlantic Fields Club",
       "location": "Hobe Sound, Florida, USA",
-      "platforms": ["Prime Video"],
+      "platforms": [
+        "Prime Video"
+      ],
       "publishedTimeLabel": "Friday, November 27, 2026, 9 a.m. ET",
       "sourceUrl": "https://www.pgatour.com/article/news/latest/2026/10/13/jackson-koivun-brooks-koepka-wyndham-clark-justin-thomas-skins-game-black-friday-prime-video-atlantic-field-club",
       "note": "Jackson Koivun, Justin Thomas, Brooks Koepka and Wyndham Clark headline the four-player Skins Game. Prime Video is free for this event; no Amazon Prime membership is required.",
