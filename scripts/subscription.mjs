@@ -45,7 +45,7 @@ export async function subscriptionFeed(feed, combined, broadcast, root) {
     const key = `${norm(candidate.summary)}:${start.slice(0,4)}`;
     if (seen.has(key)) continue;
     seen.add(key);
-    const matches = windows.filter(w => (w.tournamentId === candidate.id || norm(w.tournament) === norm(candidate.summary)) && day(w.startUtc) >= start && day(w.startUtc) <= end).sort((a,b) => a.startUtc.localeCompare(b.startUtc) || a.id.localeCompare(b.id));
+    const matches = windows.filter(w => w.tournamentId === candidate.id || (norm(w.tournament) === norm(candidate.summary) && day(w.startUtc) >= start && day(w.startUtc) <= end)).sort((a,b) => a.startUtc.localeCompare(b.startUtc) || a.id.localeCompare(b.id));
     const clean = (candidate.description ?? '').split('\n').filter(l => !/^Viewing:|^Exact U.S. viewing/.test(l)).join('\n');
     if (matches.length) {
       // The first published window inherits the placeholder identity. Keep that

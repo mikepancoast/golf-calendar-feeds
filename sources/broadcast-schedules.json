@@ -3,7 +3,7 @@
     "name": "Golf Broadcast Schedule",
     "description": "Confirmed television and streaming windows for tournaments in the golf calendar. Times are stored in UTC and displayed in the subscriber's local time zone.",
     "namespace": "8de9f640-2344-4bcd-a3bf-2d2a79b244f1",
-    "generatedAt": "20261123T151837Z",
+    "generatedAt": "20261125T133709Z",
     "sourceUrls": [
       "https://www.pgatour.com/watch",
       "https://internationalmedia.pgatour.com/schedules",
@@ -743,6 +743,174 @@
       "sequence": 0,
       "lastModified": "20261111T131020Z",
       "alarmMinutes": 15
+    },
+    {
+      "id": "bmw-australian-pga-2026-2026-11-25-mobile",
+      "summary": "Watch: BMW Australian PGA Championship",
+      "tournament": "BMW Australian PGA Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live round 1 coverage",
+      "startUtc": "2026-11-26T01:00:00Z",
+      "endUtc": "2026-11-26T02:30:00Z",
+      "platforms": [
+        "Golf Channel Mobile"
+      ],
+      "publishedTimeLabel": "November 25, 2026, 8-9:30 p.m. EST",
+      "territory": "United States",
+      "location": "The Lakes Golf Club - Sydney, Australia",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watch",
+      "status": "CONFIRMED",
+      "sequence": 0,
+      "lastModified": "20261125T133709Z",
+      "alarmMinutes": 15,
+      "tournamentId": "dp-001"
+    },
+    {
+      "id": "bmw-australian-pga-2026-2026-11-25-golf-channel",
+      "summary": "Watch: BMW Australian PGA Championship",
+      "tournament": "BMW Australian PGA Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live round 1 coverage",
+      "startUtc": "2026-11-26T02:30:00Z",
+      "endUtc": "2026-11-26T06:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 25, 2026, 9:30 p.m.-1 a.m. EST (following day)",
+      "territory": "United States",
+      "location": "The Lakes Golf Club - Sydney, Australia",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watch",
+      "status": "CONFIRMED",
+      "sequence": 0,
+      "lastModified": "20261125T133709Z",
+      "alarmMinutes": 15,
+      "tournamentId": "dp-001"
+    },
+    {
+      "id": "bmw-australian-pga-2026-2026-11-26-mobile",
+      "summary": "Watch: BMW Australian PGA Championship",
+      "tournament": "BMW Australian PGA Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live round 2 coverage",
+      "startUtc": "2026-11-27T01:00:00Z",
+      "endUtc": "2026-11-27T02:30:00Z",
+      "platforms": [
+        "Golf Channel Mobile"
+      ],
+      "publishedTimeLabel": "November 26, 2026, 8-9:30 p.m. EST",
+      "territory": "United States",
+      "location": "The Lakes Golf Club - Sydney, Australia",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watch",
+      "status": "CONFIRMED",
+      "sequence": 0,
+      "lastModified": "20261125T133709Z",
+      "alarmMinutes": 15,
+      "tournamentId": "dp-001"
+    },
+    {
+      "id": "bmw-australian-pga-2026-2026-11-26-golf-channel",
+      "summary": "Watch: BMW Australian PGA Championship",
+      "tournament": "BMW Australian PGA Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live round 2 coverage",
+      "startUtc": "2026-11-27T02:30:00Z",
+      "endUtc": "2026-11-27T06:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 26, 2026, 9:30 p.m.-1 a.m. EST (following day)",
+      "territory": "United States",
+      "location": "The Lakes Golf Club - Sydney, Australia",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watch",
+      "status": "CONFIRMED",
+      "sequence": 0,
+      "lastModified": "20261125T133709Z",
+      "alarmMinutes": 15,
+      "tournamentId": "dp-001"
+    },
+    {
+      "id": "bmw-australian-pga-2026-2026-11-27-mobile",
+      "summary": "Watch: BMW Australian PGA Championship",
+      "tournament": "BMW Australian PGA Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live round 3 coverage",
+      "startUtc": "2026-11-28T01:00:00Z",
+      "endUtc": "2026-11-28T02:30:00Z",
+      "platforms": [
+        "Golf Channel Mobile"
+      ],
+      "publishedTimeLabel": "November 27, 2026, 8-9:30 p.m. EST",
+      "territory": "United States",
+      "location": "The Lakes Golf Club - Sydney, Australia",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watch",
+      "status": "CONFIRMED",
+      "sequence": 0,
+      "lastModified": "20261125T133709Z",
+      "alarmMinutes": 15,
+      "tournamentId": "dp-001"
+    },
+    {
+      "id": "bmw-australian-pga-2026-2026-11-27-golf-channel",
+      "summary": "Watch: BMW Australian PGA Championship",
+      "tournament": "BMW Australian PGA Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live round 3 coverage",
+      "startUtc": "2026-11-28T02:30:00Z",
+      "endUtc": "2026-11-28T06:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 27, 2026, 9:30 p.m.-1 a.m. EST (following day)",
+      "territory": "United States",
+      "location": "The Lakes Golf Club - Sydney, Australia",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watch",
+      "status": "CONFIRMED",
+      "sequence": 0,
+      "lastModified": "20261125T133709Z",
+      "alarmMinutes": 15,
+      "tournamentId": "dp-001"
+    },
+    {
+      "id": "bmw-australian-pga-2026-2026-11-28-mobile",
+      "summary": "Watch: BMW Australian PGA Championship",
+      "tournament": "BMW Australian PGA Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live final round coverage",
+      "startUtc": "2026-11-29T01:00:00Z",
+      "endUtc": "2026-11-29T02:30:00Z",
+      "platforms": [
+        "Golf Channel Mobile"
+      ],
+      "publishedTimeLabel": "November 28, 2026, 8-9:30 p.m. EST",
+      "territory": "United States",
+      "location": "The Lakes Golf Club - Sydney, Australia",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watch",
+      "status": "CONFIRMED",
+      "sequence": 0,
+      "lastModified": "20261125T133709Z",
+      "alarmMinutes": 15,
+      "tournamentId": "dp-001"
+    },
+    {
+      "id": "bmw-australian-pga-2026-2026-11-28-golf-channel",
+      "summary": "Watch: BMW Australian PGA Championship",
+      "tournament": "BMW Australian PGA Championship",
+      "tour": "DP World Tour",
+      "coverageType": "Live final round coverage",
+      "startUtc": "2026-11-29T02:30:00Z",
+      "endUtc": "2026-11-29T06:00:00Z",
+      "platforms": [
+        "Golf Channel"
+      ],
+      "publishedTimeLabel": "November 28, 2026, 9:30 p.m.-1 a.m. EST (following day)",
+      "territory": "United States",
+      "location": "The Lakes Golf Club - Sydney, Australia",
+      "sourceUrl": "https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watch",
+      "status": "CONFIRMED",
+      "sequence": 0,
+      "lastModified": "20261125T133709Z",
+      "alarmMinutes": 15,
+      "tournamentId": "dp-001"
     }
   ]
 }

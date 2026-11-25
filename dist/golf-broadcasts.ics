@@ -12,7 +12,7 @@ DESCRIPTION:All-day tournament placeholders become timed U.S. viewing windo
 X-WR-CALDESC:All-day tournament placeholders become timed U.S. viewing wind
  ows when announced. Men’s PGA TOUR\, DP World Tour\, majors\, team cups\
  , selected amateur championships\, exhibitions\, TGL and Olympic golf.
-LAST-MODIFIED:20261123T151837Z
+LAST-MODIFIED:20261125T133729Z
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
@@ -625,26 +625,251 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:7ac81d12-6915-5182-b521-b1d1ef6fc00e
-DTSTAMP:20261113T015616Z
-LAST-MODIFIED:20261113T015616Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261130
-SUMMARY:BMW Australian PGA Championship
+DTSTAMP:20261125T133729Z
+LAST-MODIFIED:20261125T133729Z
+SEQUENCE:3
+DTSTART:20261126T010000Z
+DTEND:20261126T023000Z
+SUMMARY:Watch: BMW Australian PGA Championship — Golf Channel Mobile
 LOCATION:The Lakes Golf Club - Sydney\, Australia
 DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
  e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
  ion: Sydney\, Australia.\nSchedule details may change.\nPGA TOUR source: h
  ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
  027-schedule-through-tour-championship\nDP World Tour source: https://www.
- europeantour.com/dpworld-tour/schedule/2027/\n\nViewing schedule pending. 
- This placeholder will become timed viewing entries when confirmed coverage
-  is announced.
-URL:https://www.europeantour.com/dpworld-tour/schedule/2027/
-CATEGORIES:SPORTS,GOLF,DP WORLD TOUR
+ europeantour.com/dpworld-tour/schedule/2027/\n\nLive round 1 coverage\nWat
+ ch on: Golf Channel Mobile\nNov 25\, 7:00 PM CST – Nov 25\, 8:30 PM CST\
+ nTerritory: United States\nOfficial source: https://www.golfchannel.com/dp
+ -world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-t
+ o-watch
+URL:https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-
+ championship-full-field-and-how-to-watch
+CATEGORIES:SPORTS,GOLF,BROADCAST
 CLASS:PUBLIC
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: BMW Australian PGA Championship — Golf Channel Mobile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:31e08f42-a97d-57ff-a31d-bad142f000c3
+DTSTAMP:20261125T133729Z
+LAST-MODIFIED:20261125T133729Z
+SEQUENCE:1
+DTSTART:20261126T023000Z
+DTEND:20261126T060000Z
+SUMMARY:Watch: BMW Australian PGA Championship — Golf Channel
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
+ ion: Sydney\, Australia.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/\n\nLive round 1 coverage\nWat
+ ch on: Golf Channel\nNov 25\, 8:30 PM CST – Nov 26\, 12:00 AM CST\nTerri
+ tory: United States\nOfficial source: https://www.golfchannel.com/dp-world
+ -tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watc
+ h
+URL:https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-
+ championship-full-field-and-how-to-watch
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: BMW Australian PGA Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:c1a0000d-996e-5ba4-8bd9-9d5ea6186e5c
+DTSTAMP:20261125T133729Z
+LAST-MODIFIED:20261125T133729Z
+SEQUENCE:1
+DTSTART:20261127T010000Z
+DTEND:20261127T023000Z
+SUMMARY:Watch: BMW Australian PGA Championship — Golf Channel Mobile
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
+ ion: Sydney\, Australia.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/\n\nLive round 2 coverage\nWat
+ ch on: Golf Channel Mobile\nNov 26\, 7:00 PM CST – Nov 26\, 8:30 PM CST\
+ nTerritory: United States\nOfficial source: https://www.golfchannel.com/dp
+ -world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-t
+ o-watch
+URL:https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-
+ championship-full-field-and-how-to-watch
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: BMW Australian PGA Championship — Golf Channel Mobile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:f7627886-6d19-5035-9bff-5539fd5f016e
+DTSTAMP:20261125T133729Z
+LAST-MODIFIED:20261125T133729Z
+SEQUENCE:1
+DTSTART:20261127T023000Z
+DTEND:20261127T060000Z
+SUMMARY:Watch: BMW Australian PGA Championship — Golf Channel
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
+ ion: Sydney\, Australia.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/\n\nLive round 2 coverage\nWat
+ ch on: Golf Channel\nNov 26\, 8:30 PM CST – Nov 27\, 12:00 AM CST\nTerri
+ tory: United States\nOfficial source: https://www.golfchannel.com/dp-world
+ -tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watc
+ h
+URL:https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-
+ championship-full-field-and-how-to-watch
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: BMW Australian PGA Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:dd6b78c9-05bb-55fe-a7e4-33e467bfed4b
+DTSTAMP:20261125T133729Z
+LAST-MODIFIED:20261125T133729Z
+SEQUENCE:1
+DTSTART:20261128T010000Z
+DTEND:20261128T023000Z
+SUMMARY:Watch: BMW Australian PGA Championship — Golf Channel Mobile
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
+ ion: Sydney\, Australia.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/\n\nLive round 3 coverage\nWat
+ ch on: Golf Channel Mobile\nNov 27\, 7:00 PM CST – Nov 27\, 8:30 PM CST\
+ nTerritory: United States\nOfficial source: https://www.golfchannel.com/dp
+ -world-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-t
+ o-watch
+URL:https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-
+ championship-full-field-and-how-to-watch
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: BMW Australian PGA Championship — Golf Channel Mobile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:2f90826d-3d65-5da3-82b2-4d21ad6b83f9
+DTSTAMP:20261125T133729Z
+LAST-MODIFIED:20261125T133729Z
+SEQUENCE:1
+DTSTART:20261128T023000Z
+DTEND:20261128T060000Z
+SUMMARY:Watch: BMW Australian PGA Championship — Golf Channel
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
+ ion: Sydney\, Australia.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/\n\nLive round 3 coverage\nWat
+ ch on: Golf Channel\nNov 27\, 8:30 PM CST – Nov 28\, 12:00 AM CST\nTerri
+ tory: United States\nOfficial source: https://www.golfchannel.com/dp-world
+ -tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-watc
+ h
+URL:https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-
+ championship-full-field-and-how-to-watch
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: BMW Australian PGA Championship — Golf Channel
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:d34152b3-13a4-54e5-b3f4-5a5b8b41c34e
+DTSTAMP:20261125T133729Z
+LAST-MODIFIED:20261125T133729Z
+SEQUENCE:1
+DTSTART:20261129T010000Z
+DTEND:20261129T023000Z
+SUMMARY:Watch: BMW Australian PGA Championship — Golf Channel Mobile
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
+ ion: Sydney\, Australia.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/\n\nLive final round coverage\
+ nWatch on: Golf Channel Mobile\nNov 28\, 7:00 PM CST – Nov 28\, 8:30 PM 
+ CST\nTerritory: United States\nOfficial source: https://www.golfchannel.co
+ m/dp-world-tour/news/2027-bmw-australian-pga-championship-full-field-and-h
+ ow-to-watch
+URL:https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-
+ championship-full-field-and-how-to-watch
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: BMW Australian PGA Championship — Golf Channel Mobile
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:urn:uuid:a6e4cb2c-fcb0-5f46-80a5-78fe15de97b2
+DTSTAMP:20261125T133729Z
+LAST-MODIFIED:20261125T133729Z
+SEQUENCE:1
+DTSTART:20261129T023000Z
+DTEND:20261129T060000Z
+SUMMARY:Watch: BMW Australian PGA Championship — Golf Channel
+LOCATION:The Lakes Golf Club - Sydney\, Australia
+DESCRIPTION:Tours: DP World Tour.\nDP World Tour swing: Opening Swing.\nRac
+ e to Dubai ranking points: 3\,000.\nCourse(s): The Lakes Golf Club.\nLocat
+ ion: Sydney\, Australia.\nSchedule details may change.\nPGA TOUR source: h
+ ttps://www.pgatour.com/article/news/latest/2026/08/26/pga-tour-announces-2
+ 027-schedule-through-tour-championship\nDP World Tour source: https://www.
+ europeantour.com/dpworld-tour/schedule/2027/\n\nLive final round coverage\
+ nWatch on: Golf Channel\nNov 28\, 8:30 PM CST – Nov 29\, 12:00 AM CST\nT
+ erritory: United States\nOfficial source: https://www.golfchannel.com/dp-w
+ orld-tour/news/2027-bmw-australian-pga-championship-full-field-and-how-to-
+ watch
+URL:https://www.golfchannel.com/dp-world-tour/news/2027-bmw-australian-pga-
+ championship-full-field-and-how-to-watch
+CATEGORIES:SPORTS,GOLF,BROADCAST
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Watch: BMW Australian PGA Championship — Golf Channel
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:urn:uuid:8c4cbf3f-d4ea-5d92-a267-51154838d6c0

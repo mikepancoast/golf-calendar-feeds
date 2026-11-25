@@ -32,3 +32,7 @@ const tv=await build();assert.equal(tv.events.length,1);assert.equal(tv.events[0
 extra.platforms=['ESPN Plus'];const unavailable=await build();assert.equal(unavailable.events.length,1);assert.equal(unavailable.events[0].startUtc,undefined);assert.equal(unavailable.events[0].start,'2027-12-02');
 extra.platforms=['ESPN+','Golf Channel'];const shared=await build();assert.equal(shared.events.length,1);assert.match(shared.events[0].summary,/Golf Channel/);assert(!shared.events[0].summary.includes('ESPN+'));
 console.log('ESPN+ exclusion, ESPN2 retention, TV identity and times, and placeholder fallback passed.');
+// Explicit tournament identity covers U.S. viewing on the prior local date.
+extra.startUtc='2027-12-02T01:00:00Z';extra.endUtc='2027-12-02T02:30:00Z';
+const priorDate=await build();assert.equal(priorDate.events.length,1);assert.equal(priorDate.events[0].startUtc,extra.startUtc);assert.equal(priorDate.events[0].uid,first.events[0].uid);
+console.log('Explicit tournament identity retains prior-date U.S. coverage.');
